@@ -1,4 +1,4 @@
-# poll-tracker
+# National Poll Tracker (poll-tracker)
 
 Daily-glance dashboard of 2026 US Senate, Governor, and House polling,
 forecaster ratings, and balance of power. Data is scraped from Wikipedia's 2026
