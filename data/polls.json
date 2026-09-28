@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-28T11:32:19",
+ "generated": "2026-09-28T11:44:07",
  "as_of": "2026-09-28",
  "settings": {
   "avg_days": 30,
@@ -67,6 +67,12 @@
    "updated": "September 24, 2026",
    "approve": 34.7,
    "disapprove": 62.1
+  },
+  {
+   "source": "NBC News",
+   "updated": "September 24, 2026",
+   "approve": 39.0,
+   "disapprove": 59.0
   },
   {
    "source": "Real Clear Politics",
@@ -433,7 +439,7 @@
     "Cook": "Tossup",
     "DDHQ": "Lean D",
     "Econ": "Tossup",
-    "FPO": "Tossup",
+    "FPO": "Lean D",
     "Fox": "Tossup",
     "IE": "Tilt R",
     "RCP": "Tossup",
