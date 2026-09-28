@@ -13,6 +13,7 @@ compiled from published polls and forecasters.
 - **Live:** https://brennertobe07.github.io/poll-tracker/
 - **Repo:** `brennertobe07/poll-tracker` (public — contains only public polling data)
 - **Audience:** internal for now (decided 2026-09-28) — no vadems.org subdomain / Cloudflare Access yet
+- **Audience:** internal for now (decided 2026-09-28) — no vadems.org subdomain / Cloudflare Access yet
 - **Local preview:** `python -m http.server 8765` in the repo, open http://localhost:8765
   (opening index.html from disk fails — the page fetches `data/polls.json`)
 
