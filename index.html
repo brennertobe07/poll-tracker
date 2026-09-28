@@ -53,6 +53,11 @@
   .top-tab:hover { color: var(--text); background: var(--border); }
   .top-tab.active { background: var(--accent); color: #fff; border-color: var(--accent); }
   .top-tab .ct { font-family: var(--mono); font-size: .68rem; opacity: .7; margin-left: 4px; }
+  .ext-link {
+    padding: 5px 12px; border-radius: var(--radius); border: 1px solid var(--border); color: var(--muted);
+    font-size: .78rem; font-weight: 500; white-space: nowrap; transition: all .15s;
+  }
+  .ext-link:hover { color: var(--text); border-color: var(--accent); text-decoration: none; }
   #last-updated { font-family: var(--mono); font-size: .72rem; color: var(--muted); white-space: nowrap; }
   @media (max-width: 700px) {
     header { padding: 10px 16px; }
@@ -279,6 +284,7 @@
       <button class="top-tab" data-tab="Governor">Governor<span class="ct" id="ct-Governor"></span></button>
       <button class="top-tab" data-tab="about">How to read</button>
     </nav>
+    <a class="ext-link" href="https://brennertobe07.github.io/2028-watch/">2028 Watch ↗</a>
   </div>
   <div id="last-updated">Loading…</div>
 </header>
