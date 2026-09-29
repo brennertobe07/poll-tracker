@@ -1,6 +1,6 @@
 {
- "generated": "2026-09-28T11:51:53",
- "as_of": "2026-09-28",
+ "generated": "2026-09-29T06:15:01",
+ "as_of": "2026-09-29",
  "settings": {
   "avg_days": 30,
   "active_days": 60
@@ -9,46 +9,46 @@
  "generic_ballot": [
   {
    "source": "Decision Desk HQ",
-   "updated": "September 25, 2026",
-   "r": 41.1,
-   "d": 49.1,
-   "margin_text": "Democrats +8.0%"
-  },
-  {
-   "source": "FiftyPlusOne",
-   "updated": "September 25, 2026",
-   "r": 43.0,
-   "d": 50.7,
+   "updated": "September 28, 2026",
+   "r": 41.9,
+   "d": 49.6,
    "margin_text": "Democrats +7.7%"
   },
   {
+   "source": "FiftyPlusOne",
+   "updated": "September 28, 2026",
+   "r": 43.1,
+   "d": 50.7,
+   "margin_text": "Democrats +7.6%"
+  },
+  {
    "source": "RealClearPolitics",
-   "updated": "September 25, 2026",
-   "r": 41.9,
-   "d": 50.6,
-   "margin_text": "Democrats +8.7%"
+   "updated": "September 28, 2026",
+   "r": 42.1,
+   "d": 50.5,
+   "margin_text": "Democrats +8.4%"
   },
   {
    "source": "Silver Bulletin",
-   "updated": "September 25, 2026",
+   "updated": "September 28, 2026",
    "r": 41.2,
    "d": 49.6,
    "margin_text": "Democrats +8.4%"
   },
   {
    "source": "Average",
-   "updated": "September 25, 2026",
-   "r": 41.8,
-   "d": 50.0,
-   "margin_text": "Democrats +8.2%"
+   "updated": "September 28, 2026",
+   "r": 42.1,
+   "d": 50.1,
+   "margin_text": "Democrats +8.0%"
   }
  ],
  "approval": [
   {
    "source": "Ballotpedia",
-   "updated": "September 24, 2026",
+   "updated": "September 28, 2026",
    "approve": 39.0,
-   "disapprove": 59.0
+   "disapprove": 60.0
   },
   {
    "source": "CNN",
@@ -58,15 +58,15 @@
   },
   {
    "source": "Decision Desk HQ",
-   "updated": "September 24, 2026",
-   "approve": 37.6,
-   "disapprove": 60.1
+   "updated": "September 28, 2026",
+   "approve": 39.4,
+   "disapprove": 59.1
   },
   {
    "source": "FiftyPlusOne",
-   "updated": "September 24, 2026",
-   "approve": 34.7,
-   "disapprove": 62.1
+   "updated": "September 28, 2026",
+   "approve": 35.1,
+   "disapprove": 61.9
   },
   {
    "source": "NBC News",
@@ -76,19 +76,19 @@
   },
   {
    "source": "Real Clear Politics",
-   "updated": "September 24, 2026",
-   "approve": 38.8,
+   "updated": "September 28, 2026",
+   "approve": 38.7,
    "disapprove": 59.9
   },
   {
    "source": "Silver Bulletin",
-   "updated": "September 24, 2026",
+   "updated": "September 28, 2026",
    "approve": 37.4,
-   "disapprove": 60.4
+   "disapprove": 60.2
   },
   {
    "source": "The Economist",
-   "updated": "September 24, 2026",
+   "updated": "September 28, 2026",
    "approve": 35.0,
    "disapprove": 61.0
   },
@@ -100,9 +100,9 @@
   },
   {
    "source": "Average",
-   "updated": "September 24, 2026",
-   "approve": 36.9,
-   "disapprove": 60.8
+   "updated": "September 28, 2026",
+   "approve": 37.3,
+   "disapprove": 60.6
   }
  ],
  "balance": {
@@ -139,9 +139,9 @@
     "unrated": 0
    },
    "polls": {
-    "D": 47,
+    "D": 48,
     "R": 45,
-    "toss": 8,
+    "toss": 7,
     "unrated": 0
    },
    "raters": {
@@ -229,8 +229,8 @@
    },
    "polls": {
     "D": 24,
-    "R": 20,
-    "toss": 6,
+    "R": 19,
+    "toss": 7,
     "unrated": 0
    },
    "raters": {
@@ -281,32 +281,32 @@
     "vacant": 2
    },
    "base": {
-    "D": 176,
+    "D": 179,
     "R": 115
    },
    "base_label": "safe seats off the ratings list",
    "d_label": "D",
-   "up": 144,
+   "up": 141,
    "buckets": {
-    "safe_d": 14,
-    "likely_d": 15,
-    "lean_d": 17,
-    "tossup": 11,
+    "safe_d": 16,
+    "likely_d": 11,
+    "lean_d": 19,
+    "tossup": 8,
     "lean_r": 12,
-    "likely_r": 25,
-    "safe_r": 50,
+    "likely_r": 22,
+    "safe_r": 53,
     "unrated": 0
    },
    "forecast": {
-    "D": 222,
+    "D": 225,
     "R": 202,
-    "toss": 11,
+    "toss": 8,
     "unrated": 0
    },
    "polls": {
     "D": 221,
-    "R": 182,
-    "toss": 32,
+    "R": 181,
+    "toss": 33,
     "unrated": 0
    },
    "raters": {
@@ -336,9 +336,9 @@
      "toss": 13
     },
     "DDHQ": {
-     "D": 221,
-     "R": 208,
-     "toss": 6
+     "D": 223,
+     "R": 203,
+     "toss": 9
     },
     "FPO": {
      "D": 230,
@@ -354,6 +354,11 @@
      "D": 230,
      "R": 196,
      "toss": 9
+    },
+    "RCP": {
+     "D": 227,
+     "R": 183,
+     "toss": 25
     }
    }
   }
@@ -421,7 +426,7 @@
    "n_polls": 1,
    "n_polls_60d": 0,
    "last_poll": "2026-07-11",
-   "days_since_poll": 79,
+   "days_since_poll": 80,
    "trend": null,
    "rating_score": -3.0,
    "rating_consensus": "Safe R",
@@ -437,7 +442,7 @@
    "last_election": "53.90% R",
    "ratings": {
     "Cook": "Tossup",
-    "DDHQ": "Lean D",
+    "DDHQ": "Tossup",
     "Econ": "Tossup",
     "FPO": "Lean D",
     "Fox": "Tossup",
@@ -526,7 +531,7 @@
    "n_polls": 1,
    "n_polls_60d": 0,
    "last_poll": "2026-03-22",
-   "days_since_poll": 190,
+   "days_since_poll": 191,
    "trend": null,
    "rating_score": 0.0,
    "rating_consensus": "Toss-up",
@@ -672,7 +677,7 @@
    "n_polls": 4,
    "n_polls_60d": 2,
    "last_poll": "2026-08-18",
-   "days_since_poll": 41,
+   "days_since_poll": 42,
    "trend": null,
    "rating_score": -3.0,
    "rating_consensus": "Safe R",
@@ -1002,7 +1007,7 @@
    "n_polls": 9,
    "n_polls_60d": 5,
    "last_poll": "2026-09-21",
-   "days_since_poll": 7,
+   "days_since_poll": 8,
    "trend": null,
    "rating_score": -2.0,
    "rating_consensus": "Likely R",
@@ -1410,7 +1415,7 @@
    "n_polls": 17,
    "n_polls_60d": 7,
    "last_poll": "2026-09-23",
-   "days_since_poll": 5,
+   "days_since_poll": 6,
    "trend": 1.0,
    "rating_score": 2.0,
    "rating_consensus": "Likely D",
@@ -1499,13 +1504,13 @@
    },
    "multi": true,
    "n_polls": 2,
-   "n_polls_60d": 1,
+   "n_polls_60d": 0,
    "last_poll": "2026-07-30",
-   "days_since_poll": 60,
+   "days_since_poll": 61,
    "trend": null,
    "rating_score": -3.0,
    "rating_consensus": "Safe R",
-   "hot_score": 1.0
+   "hot_score": 0.0
   },
   {
    "office": "Senate",
@@ -2011,22 +2016,22 @@
    ],
    "id": "IA-SEN",
    "label": "Iowa",
-   "avg": 0.9,
-   "avg_nonpartisan": 1.2,
-   "avg_basis": "10 polls, last 30d",
+   "avg": 1.2,
+   "avg_nonpartisan": 2.3,
+   "avg_basis": "9 polls, last 30d",
    "avg_by_party": {
-    "R": 44.6,
-    "D": 45.5
+    "R": 44.0,
+    "D": 45.2
    },
    "multi": false,
    "n_polls": 21,
    "n_polls_60d": 13,
    "last_poll": "2026-09-23",
-   "days_since_poll": 5,
-   "trend": 0.2,
+   "days_since_poll": 6,
+   "trend": 1.2,
    "rating_score": 0.0,
    "rating_consensus": "Toss-up",
-   "hot_score": 22.1
+   "hot_score": 21.8
   },
   {
    "office": "Senate",
@@ -2230,7 +2235,7 @@
    "n_polls": 7,
    "n_polls_60d": 5,
    "last_poll": "2026-09-24",
-   "days_since_poll": 4,
+   "days_since_poll": 5,
    "trend": -0.3,
    "rating_score": -1.0,
    "rating_consensus": "Lean R",
@@ -2323,7 +2328,7 @@
    "n_polls": 2,
    "n_polls_60d": 1,
    "last_poll": "2026-08-27",
-   "days_since_poll": 32,
+   "days_since_poll": 33,
    "trend": null,
    "rating_score": -3.0,
    "rating_consensus": "Safe R",
@@ -2410,7 +2415,7 @@
    "n_polls": 2,
    "n_polls_60d": 1,
    "last_poll": "2026-09-19",
-   "days_since_poll": 9,
+   "days_since_poll": 10,
    "trend": null,
    "rating_score": -3.0,
    "rating_consensus": "Safe R",
@@ -2780,7 +2785,7 @@
    "n_polls": 15,
    "n_polls_60d": 11,
    "last_poll": "2026-09-23",
-   "days_since_poll": 5,
+   "days_since_poll": 6,
    "trend": -3.4,
    "rating_score": 0.0,
    "rating_consensus": "Toss-up",
@@ -3035,7 +3040,7 @@
    "n_polls": 10,
    "n_polls_60d": 3,
    "last_poll": "2026-09-21",
-   "days_since_poll": 7,
+   "days_since_poll": 8,
    "trend": 3.0,
    "rating_score": 3.0,
    "rating_consensus": "Safe D",
@@ -3104,6 +3109,25 @@
      "cands": {
       "D": 45.0,
       "R": 45.0
+     }
+    },
+    {
+     "pollster": "GBAO (D)",
+     "partisan": "D",
+     "sponsor": null,
+     "dates": "September 19-22, 2026",
+     "end": "2026-09-22",
+     "n": 800,
+     "pop": "LV",
+     "moe": null,
+     "d": 48.0,
+     "r": 44.0,
+     "other": null,
+     "undecided": 8.0,
+     "margin": 4.0,
+     "cands": {
+      "D": 48.0,
+      "R": 44.0
      }
     },
     {
@@ -3788,22 +3812,22 @@
    ],
    "id": "MI-SEN",
    "label": "Michigan",
-   "avg": 2.3,
+   "avg": 2.4,
    "avg_nonpartisan": 3.0,
-   "avg_basis": "11 polls, last 30d",
+   "avg_basis": "12 polls, last 30d",
    "avg_by_party": {
-    "D": 46.5,
+    "D": 46.6,
     "R": 44.2
    },
    "multi": false,
-   "n_polls": 36,
+   "n_polls": 37,
    "n_polls_60d": 21,
    "last_poll": "2026-09-24",
-   "days_since_poll": 4,
-   "trend": -0.0,
+   "days_since_poll": 5,
+   "trend": -0.2,
    "rating_score": 1.0,
    "rating_consensus": "Lean D",
-   "hot_score": 22.7
+   "hot_score": 22.6
   },
   {
    "office": "Senate",
@@ -4019,7 +4043,7 @@
    "n_polls": 9,
    "n_polls_60d": 6,
    "last_poll": "2026-09-15",
-   "days_since_poll": 13,
+   "days_since_poll": 14,
    "trend": -3.2,
    "rating_score": 2.0,
    "rating_consensus": "Likely D",
@@ -4136,7 +4160,7 @@
    "n_polls": 3,
    "n_polls_60d": 1,
    "last_poll": "2026-08-15",
-   "days_since_poll": 44,
+   "days_since_poll": 45,
    "trend": null,
    "rating_score": -3.0,
    "rating_consensus": "Safe R",
@@ -4467,7 +4491,7 @@
    "n_polls": 12,
    "n_polls_60d": 5,
    "last_poll": "2026-09-15",
-   "days_since_poll": 13,
+   "days_since_poll": 14,
    "trend": 3.2,
    "rating_score": -3.0,
    "rating_consensus": "Safe R",
@@ -4535,7 +4559,7 @@
    "n_polls": 1,
    "n_polls_60d": 0,
    "last_poll": "2026-05-11",
-   "days_since_poll": 140,
+   "days_since_poll": 141,
    "trend": null,
    "rating_score": -2.0,
    "rating_consensus": "Likely R",
@@ -5040,7 +5064,7 @@
    "n_polls": 24,
    "n_polls_60d": 9,
    "last_poll": "2026-09-27",
-   "days_since_poll": 1,
+   "days_since_poll": 2,
    "trend": 2.8,
    "rating_score": 1.5,
    "rating_consensus": "Likely D",
@@ -5150,7 +5174,7 @@
    "n_polls": 1,
    "n_polls_60d": 1,
    "last_poll": "2026-08-28",
-   "days_since_poll": 31,
+   "days_since_poll": 32,
    "trend": null,
    "rating_score": 3.0,
    "rating_consensus": "Safe D",
@@ -5938,7 +5962,7 @@
    "n_polls": 37,
    "n_polls_60d": 15,
    "last_poll": "2026-09-22",
-   "days_since_poll": 6,
+   "days_since_poll": 7,
    "trend": 0.0,
    "rating_score": 1.5,
    "rating_consensus": "Likely D",
@@ -5971,6 +5995,25 @@
     "D": "Sherrod Brown"
    },
    "polls": [
+    {
+     "pollster": "Marist University",
+     "partisan": null,
+     "sponsor": null,
+     "dates": "September 24-27, 2026",
+     "end": "2026-09-27",
+     "n": 1298,
+     "pop": "RV",
+     "moe": 3.8,
+     "d": 51.0,
+     "r": 43.0,
+     "other": 1.0,
+     "undecided": 4.0,
+     "margin": 8.0,
+     "cands": {
+      "R": 43.0,
+      "D": 51.0
+     }
+    },
     {
      "pollster": "Rasmussen Reports (R)",
      "partisan": "R",
@@ -6468,22 +6511,22 @@
    ],
    "id": "OH-SEN-S",
    "label": "Ohio (special)",
-   "avg": 2.8,
-   "avg_nonpartisan": 3.0,
-   "avg_basis": "5 polls, last 30d",
+   "avg": 3.7,
+   "avg_nonpartisan": 5.5,
+   "avg_basis": "6 polls, last 30d",
    "avg_by_party": {
-    "R": 43.8,
-    "D": 46.6
+    "R": 43.7,
+    "D": 47.3
    },
    "multi": false,
-   "n_polls": 24,
-   "n_polls_60d": 9,
-   "last_poll": "2026-09-23",
-   "days_since_poll": 5,
-   "trend": -2.7,
+   "n_polls": 25,
+   "n_polls_60d": 10,
+   "last_poll": "2026-09-27",
+   "days_since_poll": 2,
+   "trend": -1.8,
    "rating_score": 0.0,
    "rating_consensus": "Toss-up",
-   "hot_score": 19.2
+   "hot_score": 19.3
   },
   {
    "office": "Senate",
@@ -6547,7 +6590,7 @@
    "n_polls": 1,
    "n_polls_60d": 1,
    "last_poll": "2026-08-06",
-   "days_since_poll": 53,
+   "days_since_poll": 54,
    "trend": null,
    "rating_score": -3.0,
    "rating_consensus": "Safe R",
@@ -6700,13 +6743,7 @@
     }
    ],
    "hypothetical_tables": 0,
-   "aggregates": [
-    {
-     "source": "Race to the WH",
-     "updated": "September 11, 2026",
-     "margin_text": "Reed +17.8%"
-    }
-   ],
+   "aggregates": [],
    "id": "RI-SEN",
    "label": "Rhode Island",
    "avg": 20.0,
@@ -6720,7 +6757,7 @@
    "n_polls": 4,
    "n_polls_60d": 2,
    "last_poll": "2026-09-21",
-   "days_since_poll": 7,
+   "days_since_poll": 8,
    "trend": 0.0,
    "rating_score": 3.0,
    "rating_consensus": "Safe D",
@@ -6895,7 +6932,7 @@
    "n_polls": 5,
    "n_polls_60d": 5,
    "last_poll": "2026-09-25",
-   "days_since_poll": 3,
+   "days_since_poll": 4,
    "trend": 1.8,
    "rating_score": -2.0,
    "rating_consensus": "Likely R",
@@ -6966,7 +7003,7 @@
    "n_polls": 1,
    "n_polls_60d": 0,
    "last_poll": "2026-05-30",
-   "days_since_poll": 121,
+   "days_since_poll": 122,
    "trend": null,
    "rating_score": -3.0,
    "rating_consensus": "Safe R",
@@ -7034,7 +7071,7 @@
    "n_polls": 1,
    "n_polls_60d": 1,
    "last_poll": "2026-08-26",
-   "days_since_poll": 33,
+   "days_since_poll": 34,
    "trend": null,
    "rating_score": -3.0,
    "rating_consensus": "Safe R",
@@ -7876,7 +7913,7 @@
     },
     {
      "source": "Silver Bulletin",
-     "updated": "September 27, 2026",
+     "updated": "September 28, 2026",
      "margin_text": "Talarico +3.4%"
     },
     {
@@ -7896,10 +7933,10 @@
    },
    "multi": false,
    "n_polls": 41,
-   "n_polls_60d": 21,
+   "n_polls_60d": 19,
    "last_poll": "2026-09-26",
-   "days_since_poll": 2,
-   "trend": 0.7,
+   "days_since_poll": 3,
+   "trend": 0.9,
    "rating_score": 0.0,
    "rating_consensus": "Toss-up",
    "hot_score": 19.9
@@ -7985,7 +8022,7 @@
    "n_polls": 2,
    "n_polls_60d": 0,
    "last_poll": "2026-06-16",
-   "days_since_poll": 104,
+   "days_since_poll": 105,
    "trend": null,
    "rating_score": 3.0,
    "rating_consensus": "Safe D",
@@ -8153,7 +8190,7 @@
    "n_polls": 2,
    "n_polls_60d": 0,
    "last_poll": "2026-07-11",
-   "days_since_poll": 79,
+   "days_since_poll": 80,
    "trend": null,
    "rating_score": -3.0,
    "rating_consensus": "Safe R",
@@ -8341,7 +8378,7 @@
    "n_polls": 7,
    "n_polls_60d": 0,
    "last_poll": "2026-07-19",
-   "days_since_poll": 71,
+   "days_since_poll": 72,
    "trend": null,
    "rating_score": 0.0,
    "rating_consensus": "Toss-up",
@@ -8801,13 +8838,13 @@
    },
    "multi": false,
    "n_polls": 20,
-   "n_polls_60d": 8,
+   "n_polls_60d": 7,
    "last_poll": "2026-08-19",
-   "days_since_poll": 40,
+   "days_since_poll": 41,
    "trend": null,
    "rating_score": 1.0,
    "rating_consensus": "Lean D",
-   "hot_score": 15.7
+   "hot_score": 14.7
   },
   {
    "office": "Governor",
@@ -8871,7 +8908,7 @@
    "n_polls": 1,
    "n_polls_60d": 1,
    "last_poll": "2026-08-12",
-   "days_since_poll": 47,
+   "days_since_poll": 48,
    "trend": null,
    "rating_score": -3.0,
    "rating_consensus": "Safe R",
@@ -10088,7 +10125,7 @@
    "n_polls": 60,
    "n_polls_60d": 0,
    "last_poll": "2026-05-31",
-   "days_since_poll": 120,
+   "days_since_poll": 121,
    "trend": null,
    "rating_score": 3.0,
    "rating_consensus": "Safe D",
@@ -10332,7 +10369,7 @@
    "n_polls": 7,
    "n_polls_60d": 5,
    "last_poll": "2026-09-21",
-   "days_since_poll": 7,
+   "days_since_poll": 8,
    "trend": -1.2,
    "rating_score": 3.0,
    "rating_consensus": "Safe D",
@@ -10362,6 +10399,25 @@
     "D": "David Jolly"
    },
    "polls": [
+    {
+     "pollster": "Change Research",
+     "partisan": null,
+     "sponsor": "Freedom Project USA",
+     "dates": "September 26-28, 2026",
+     "end": "2026-09-28",
+     "n": 1063,
+     "pop": "LV",
+     "moe": 2.8,
+     "d": 48.0,
+     "r": 47.0,
+     "other": 1.0,
+     "undecided": 5.0,
+     "margin": 1.0,
+     "cands": {
+      "R": 47.0,
+      "D": 48.0
+     }
+    },
     {
      "pollster": "Stetson University",
      "partisan": null,
@@ -10773,22 +10829,22 @@
    ],
    "id": "FL-GOV",
    "label": "Florida",
-   "avg": -3.3,
-   "avg_nonpartisan": -6.5,
-   "avg_basis": "3 polls, last 30d",
+   "avg": -2.2,
+   "avg_nonpartisan": -4.0,
+   "avg_basis": "4 polls, last 30d",
    "avg_by_party": {
-    "R": 46.3,
-    "D": 43.0
+    "R": 46.5,
+    "D": 44.2
    },
    "multi": false,
-   "n_polls": 20,
-   "n_polls_60d": 4,
-   "last_poll": "2026-09-21",
-   "days_since_poll": 7,
-   "trend": -4.3,
+   "n_polls": 21,
+   "n_polls_60d": 5,
+   "last_poll": "2026-09-28",
+   "days_since_poll": 1,
+   "trend": -3.2,
    "rating_score": -1.0,
    "rating_consensus": "Lean R",
-   "hot_score": 15.7
+   "hot_score": 17.8
   },
   {
    "office": "Governor",
@@ -11094,7 +11150,7 @@
    "n_polls": 12,
    "n_polls_60d": 6,
    "last_poll": "2026-09-23",
-   "days_since_poll": 5,
+   "days_since_poll": 6,
    "trend": -2.5,
    "rating_score": 0.0,
    "rating_consensus": "Toss-up",
@@ -11219,13 +11275,13 @@
    },
    "multi": true,
    "n_polls": 2,
-   "n_polls_60d": 2,
+   "n_polls_60d": 1,
    "last_poll": "2026-09-16",
-   "days_since_poll": 12,
-   "trend": 11.0,
+   "days_since_poll": 13,
+   "trend": null,
    "rating_score": -3.0,
    "rating_consensus": "Safe R",
-   "hot_score": 2.0
+   "hot_score": 1.0
   },
   {
    "office": "Governor",
@@ -11286,7 +11342,7 @@
    "n_polls": 1,
    "n_polls_60d": 0,
    "last_poll": "2025-11-24",
-   "days_since_poll": 308,
+   "days_since_poll": 309,
    "trend": null,
    "rating_score": 3.0,
    "rating_consensus": "Safe D",
@@ -11545,7 +11601,7 @@
     },
     {
      "source": "Silver Bulletin",
-     "updated": "September 16, 2026",
+     "updated": "43.4%",
      "margin_text": "Sand +5.9%"
     },
     {
@@ -11556,22 +11612,22 @@
    ],
    "id": "IA-GOV",
    "label": "Iowa",
-   "avg": 6.3,
-   "avg_nonpartisan": 7.5,
-   "avg_basis": "6 polls, last 30d",
+   "avg": 6.6,
+   "avg_nonpartisan": 8.3,
+   "avg_basis": "5 polls, last 30d",
    "avg_by_party": {
-    "R": 43.5,
-    "D": 49.8
+    "R": 43.0,
+    "D": 49.6
    },
    "multi": false,
    "n_polls": 11,
    "n_polls_60d": 8,
    "last_poll": "2026-09-20",
-   "days_since_poll": 8,
-   "trend": 1.8,
+   "days_since_poll": 9,
+   "trend": 1.9,
    "rating_score": 1.0,
    "rating_consensus": "Lean D",
-   "hot_score": 16.7
+   "hot_score": 16.4
   },
   {
    "office": "Governor",
@@ -11710,7 +11766,7 @@
    "n_polls": 4,
    "n_polls_60d": 4,
    "last_poll": "2026-09-24",
-   "days_since_poll": 4,
+   "days_since_poll": 5,
    "trend": -7.3,
    "rating_score": -1.0,
    "rating_consensus": "Lean R",
@@ -11969,7 +12025,7 @@
    "n_polls": 9,
    "n_polls_60d": 6,
    "last_poll": "2026-09-22",
-   "days_since_poll": 6,
+   "days_since_poll": 7,
    "trend": 0.2,
    "rating_score": 3.0,
    "rating_consensus": "Safe D",
@@ -12034,7 +12090,7 @@
    "n_polls": 1,
    "n_polls_60d": 1,
    "last_poll": "2026-08-03",
-   "days_since_poll": 56,
+   "days_since_poll": 57,
    "trend": null,
    "rating_score": 3.0,
    "rating_consensus": "Safe D",
@@ -12267,7 +12323,7 @@
    "n_polls": 9,
    "n_polls_60d": 3,
    "last_poll": "2026-09-21",
-   "days_since_poll": 7,
+   "days_since_poll": 8,
    "trend": -6.0,
    "rating_score": 3.0,
    "rating_consensus": "Safe D",
@@ -12729,7 +12785,7 @@
    "n_polls": 20,
    "n_polls_60d": 14,
    "last_poll": "2026-09-23",
-   "days_since_poll": 5,
+   "days_since_poll": 6,
    "trend": -0.8,
    "rating_score": 1.0,
    "rating_consensus": "Lean D",
@@ -12908,7 +12964,7 @@
    "n_polls": 7,
    "n_polls_60d": 4,
    "last_poll": "2026-09-15",
-   "days_since_poll": 13,
+   "days_since_poll": 14,
    "trend": -8.7,
    "rating_score": 2.0,
    "rating_consensus": "Likely D",
@@ -13108,7 +13164,7 @@
    "n_polls": 7,
    "n_polls_60d": 3,
    "last_poll": "2026-09-16",
-   "days_since_poll": 12,
+   "days_since_poll": 13,
    "trend": null,
    "rating_score": -3.0,
    "rating_consensus": "Safe R",
@@ -13413,7 +13469,7 @@
    "n_polls": 12,
    "n_polls_60d": 1,
    "last_poll": "2026-09-08",
-   "days_since_poll": 20,
+   "days_since_poll": 21,
    "trend": null,
    "rating_score": 0.0,
    "rating_consensus": "Toss-up",
@@ -13656,7 +13712,7 @@
    "n_polls": 9,
    "n_polls_60d": 5,
    "last_poll": "2026-09-22",
-   "days_since_poll": 6,
+   "days_since_poll": 7,
    "trend": -1.5,
    "rating_score": -2.0,
    "rating_consensus": "Likely R",
@@ -13780,7 +13836,7 @@
    "n_polls": 3,
    "n_polls_60d": 2,
    "last_poll": "2026-08-28",
-   "days_since_poll": 31,
+   "days_since_poll": 32,
    "trend": null,
    "rating_score": 3.0,
    "rating_consensus": "Safe D",
@@ -14263,7 +14319,7 @@
    "n_polls": 23,
    "n_polls_60d": 5,
    "last_poll": "2026-09-20",
-   "days_since_poll": 8,
+   "days_since_poll": 9,
    "trend": -2.3,
    "rating_score": 3.0,
    "rating_consensus": "Safe D",
@@ -14293,6 +14349,25 @@
     "D": "Amy Acton"
    },
    "polls": [
+    {
+     "pollster": "Marist University",
+     "partisan": null,
+     "sponsor": null,
+     "dates": "September 24-27, 2026",
+     "end": "2026-09-27",
+     "n": 1298,
+     "pop": "RV",
+     "moe": 3.8,
+     "d": 50.0,
+     "r": 44.0,
+     "other": 3.0,
+     "undecided": 3.0,
+     "margin": 6.0,
+     "cands": {
+      "R": 44.0,
+      "D": 50.0
+     }
+    },
     {
      "pollster": "Bowling Green State University / YouGov",
      "partisan": null,
@@ -14714,22 +14789,22 @@
    ],
    "id": "OH-GOV",
    "label": "Ohio",
-   "avg": 3.0,
-   "avg_nonpartisan": 3.0,
-   "avg_basis": "1 polls, last 30d",
+   "avg": 4.5,
+   "avg_nonpartisan": 4.5,
+   "avg_basis": "2 polls, last 30d",
    "avg_by_party": {
-    "R": 45.0,
-    "D": 48.0
+    "R": 44.5,
+    "D": 49.0
    },
    "multi": false,
-   "n_polls": 20,
-   "n_polls_60d": 4,
-   "last_poll": "2026-09-10",
-   "days_since_poll": 18,
-   "trend": 2.7,
+   "n_polls": 21,
+   "n_polls_60d": 5,
+   "last_poll": "2026-09-27",
+   "days_since_poll": 2,
+   "trend": 4.2,
    "rating_score": 0.0,
    "rating_consensus": "Toss-up",
-   "hot_score": 14.0
+   "hot_score": 13.5
   },
   {
    "office": "Governor",
@@ -14902,7 +14977,7 @@
    "n_polls": 4,
    "n_polls_60d": 1,
    "last_poll": "2026-09-09",
-   "days_since_poll": 19,
+   "days_since_poll": 20,
    "trend": null,
    "rating_score": 2.0,
    "rating_consensus": "Likely D",
@@ -15267,13 +15342,13 @@
    },
    "multi": false,
    "n_polls": 15,
-   "n_polls_60d": 5,
+   "n_polls_60d": 4,
    "last_poll": "2026-09-22",
-   "days_since_poll": 6,
-   "trend": 0.2,
+   "days_since_poll": 7,
+   "trend": -4.0,
    "rating_score": 3.0,
    "rating_consensus": "Safe D",
-   "hot_score": 5.0
+   "hot_score": 4.0
   },
   {
    "office": "Governor",
@@ -15417,7 +15492,7 @@
    "n_polls": 5,
    "n_polls_60d": 3,
    "last_poll": "2026-09-21",
-   "days_since_poll": 7,
+   "days_since_poll": 8,
    "trend": 1.0,
    "rating_score": 3.0,
    "rating_consensus": "Safe D",
@@ -15501,7 +15576,7 @@
    "n_polls": 2,
    "n_polls_60d": 1,
    "last_poll": "2026-08-15",
-   "days_since_poll": 44,
+   "days_since_poll": 45,
    "trend": null,
    "rating_score": -3.0,
    "rating_consensus": "Safe R",
@@ -15567,7 +15642,8 @@
    "page": "2026 Tennessee gubernatorial election",
    "candidates": {
     "R": "Marsha Blackburn",
-    "D": "Jerri Green"
+    "D": "Jerri Green",
+    "I": "David Hatley"
    },
    "polls": [
     {
@@ -15581,12 +15657,13 @@
      "moe": 4.0,
      "d": 36.0,
      "r": 45.0,
-     "other": 12.0,
+     "other": null,
      "undecided": 7.0,
      "margin": -9.0,
      "cands": {
       "R": 45.0,
-      "D": 36.0
+      "D": 36.0,
+      "I": 10.0
      }
     },
     {
@@ -15595,17 +15672,18 @@
      "sponsor": "the Beacon Center of Tennessee",
      "dates": "August 15-26, 2026",
      "end": "2026-08-26",
-     "n": 1149,
-     "pop": "RV",
+     "n": 601,
+     "pop": "LV",
      "moe": 2.77,
-     "d": 33.0,
-     "r": 46.0,
-     "other": 8.0,
-     "undecided": 14.0,
-     "margin": -13.0,
+     "d": 34.0,
+     "r": 55.0,
+     "other": 7.0,
+     "undecided": 4.0,
+     "margin": -21.0,
      "cands": {
-      "R": 46.0,
-      "D": 33.0
+      "R": 55.0,
+      "D": 34.0,
+      "I": null
      }
     },
     {
@@ -15624,7 +15702,8 @@
      "margin": -24.0,
      "cands": {
       "R": 51.0,
-      "D": 27.0
+      "D": 27.0,
+      "I": null
      }
     },
     {
@@ -15643,7 +15722,8 @@
      "margin": -21.0,
      "cands": {
       "R": 49.0,
-      "D": 28.0
+      "D": 28.0,
+      "I": null
      }
     }
    ],
@@ -15656,14 +15736,15 @@
    "avg_basis": "1 polls, last 30d",
    "avg_by_party": {
     "R": 45.0,
-    "D": 36.0
+    "D": 36.0,
+    "I": 10.0
    },
    "multi": false,
    "n_polls": 4,
    "n_polls_60d": 2,
    "last_poll": "2026-09-12",
-   "days_since_poll": 16,
-   "trend": 4.0,
+   "days_since_poll": 17,
+   "trend": 12.0,
    "rating_score": -3.0,
    "rating_consensus": "Safe R",
    "hot_score": 3.0
@@ -15709,6 +15790,25 @@
      "cands": {
       "R": 49.0,
       "D": 44.0
+     }
+    },
+    {
+     "pollster": "Stratus Intelligence (R)",
+     "partisan": "R",
+     "sponsor": null,
+     "dates": "September 22-24, 2026",
+     "end": "2026-09-24",
+     "n": 865,
+     "pop": "LV",
+     "moe": 3.5,
+     "d": 45.0,
+     "r": 50.0,
+     "other": null,
+     "undecided": 5.0,
+     "margin": -5.0,
+     "cands": {
+      "R": 50.0,
+      "D": 45.0
      }
     },
     {
@@ -16386,17 +16486,17 @@
     },
     {
      "source": "Decision Desk HQ",
-     "updated": "September 27, 2026",
-     "margin_text": "Abbott +2.5%"
+     "updated": "September 28, 2026",
+     "margin_text": "Abbott +3.0%"
     },
     {
      "source": "FiftyPlusOne",
-     "updated": "September 27, 2026",
-     "margin_text": "Abbott +2.1%"
+     "updated": "September 28, 2026",
+     "margin_text": "Abbott +2.7%"
     },
     {
      "source": "Race to the WH",
-     "updated": "September 27, 2026",
+     "updated": "September 28, 2026",
      "margin_text": "Abbott +2.6%"
     },
     {
@@ -16417,22 +16517,22 @@
    ],
    "id": "TX-GOV",
    "label": "Texas",
-   "avg": -2.7,
+   "avg": -2.9,
    "avg_nonpartisan": -2.0,
-   "avg_basis": "10 polls, last 30d",
+   "avg_basis": "11 polls, last 30d",
    "avg_by_party": {
-    "R": 48.4,
-    "D": 45.7
+    "R": 48.5,
+    "D": 45.6
    },
    "multi": false,
-   "n_polls": 36,
-   "n_polls_60d": 19,
+   "n_polls": 37,
+   "n_polls_60d": 18,
    "last_poll": "2026-09-26",
-   "days_since_poll": 2,
-   "trend": 1.2,
+   "days_since_poll": 3,
+   "trend": 1.1,
    "rating_score": -1.0,
    "rating_consensus": "Lean R",
-   "hot_score": 22.3
+   "hot_score": 22.1
   },
   {
    "office": "Governor",
@@ -16550,7 +16650,7 @@
    "n_polls": 4,
    "n_polls_60d": 2,
    "last_poll": "2026-09-21",
-   "days_since_poll": 7,
+   "days_since_poll": 8,
    "trend": null,
    "rating_score": -3.0,
    "rating_consensus": "Safe R",
@@ -16736,7 +16836,7 @@
    "n_polls": 6,
    "n_polls_60d": 4,
    "last_poll": "2026-08-20",
-   "days_since_poll": 39,
+   "days_since_poll": 40,
    "trend": null,
    "rating_score": 1.0,
    "rating_consensus": "Lean D",
@@ -16799,7 +16899,8 @@
     "DDHQ": "Likely R",
     "FPO": "Lean R",
     "Fox": "Likely R",
-    "Silver": "Likely R"
+    "Silver": "Likely R",
+    "RCP": "Lean R"
    },
    "on_ratings_list": true,
    "url": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Alabama#District_2",
@@ -16878,13 +16979,13 @@
    },
    "multi": false,
    "n_polls": 3,
-   "n_polls_60d": 2,
+   "n_polls_60d": 1,
    "last_poll": "2026-08-31",
-   "days_since_poll": 28,
-   "trend": 0.0,
+   "days_since_poll": 29,
+   "trend": null,
    "rating_score": -2.0,
    "rating_consensus": "Likely R",
-   "hot_score": 14.0
+   "hot_score": 13.0
   },
   {
    "office": "House",
@@ -16904,7 +17005,8 @@
     "DDHQ": "Likely R",
     "FPO": "Lean R",
     "Fox": "Likely R",
-    "Silver": "Solid R"
+    "Silver": "Solid R",
+    "RCP": "Lean R"
    },
    "on_ratings_list": true,
    "url": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_election_in_Alaska",
@@ -17010,7 +17112,7 @@
    "n_polls": 4,
    "n_polls_60d": 0,
    "last_poll": "2026-07-16",
-   "days_since_poll": 74,
+   "days_since_poll": 75,
    "trend": null,
    "rating_score": -2.0,
    "rating_consensus": "Likely R",
@@ -17034,7 +17136,8 @@
     "DDHQ": "Likely R",
     "FPO": "Lean R",
     "Fox": "Likely R",
-    "Silver": "Likely R"
+    "Silver": "Likely R",
+    "RCP": "Lean R"
    },
    "on_ratings_list": true,
    "url": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Arizona#District_2",
@@ -17115,7 +17218,7 @@
    "n_polls": 3,
    "n_polls_60d": 2,
    "last_poll": "2026-08-24",
-   "days_since_poll": 35,
+   "days_since_poll": 36,
    "trend": null,
    "rating_score": -2.0,
    "rating_consensus": "Likely R",
@@ -17139,7 +17242,8 @@
     "DDHQ": "Likely D",
     "FPO": "Likely D",
     "Fox": "Lean D",
-    "Silver": "Lean D"
+    "Silver": "Lean D",
+    "RCP": "Lean D"
    },
    "on_ratings_list": true,
    "url": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Arizona#District_6",
@@ -17220,7 +17324,7 @@
    "n_polls": 3,
    "n_polls_60d": 0,
    "last_poll": "2026-06-11",
-   "days_since_poll": 109,
+   "days_since_poll": 110,
    "trend": null,
    "rating_score": 1.0,
    "rating_consensus": "Lean D",
@@ -17244,7 +17348,8 @@
     "DDHQ": "Likely R",
     "FPO": "Likely R",
     "Fox": "Solid R",
-    "Silver": "Likely R"
+    "Silver": "Likely R",
+    "RCP": "Lean R"
    },
    "on_ratings_list": true,
    "url": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Arkansas#District_2",
@@ -17306,7 +17411,7 @@
    "n_polls": 2,
    "n_polls_60d": 1,
    "last_poll": "2026-08-13",
-   "days_since_poll": 46,
+   "days_since_poll": 47,
    "trend": null,
    "rating_score": -2.0,
    "rating_consensus": "Likely R",
@@ -17368,7 +17473,7 @@
    "n_polls": 1,
    "n_polls_60d": 0,
    "last_poll": "2026-02-28",
-   "days_since_poll": 212,
+   "days_since_poll": 213,
    "trend": null,
    "rating_score": 3.0,
    "rating_consensus": "Safe D",
@@ -17430,7 +17535,7 @@
    "n_polls": 1,
    "n_polls_60d": 0,
    "last_poll": "2025-07-10",
-   "days_since_poll": 445,
+   "days_since_poll": 446,
    "trend": null,
    "rating_score": 3.0,
    "rating_consensus": "Safe D",
@@ -17454,7 +17559,8 @@
     "DDHQ": "Safe D",
     "FPO": "Safe D",
     "Fox": "Solid D",
-    "Silver": "Solid D"
+    "Silver": "Solid D",
+    "RCP": "Likely D"
    },
    "on_ratings_list": true,
    "url": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California_(districts_1–26)#District_6",
@@ -17500,7 +17606,7 @@
    "n_polls": 1,
    "n_polls_60d": 0,
    "last_poll": "2026-05-06",
-   "days_since_poll": 145,
+   "days_since_poll": 146,
    "trend": null,
    "rating_score": 3.0,
    "rating_consensus": "Safe D",
@@ -17562,7 +17668,7 @@
    "n_polls": 1,
    "n_polls_60d": 0,
    "last_poll": "2026-05-05",
-   "days_since_poll": 146,
+   "days_since_poll": 147,
    "trend": null,
    "rating_score": 3.0,
    "rating_consensus": "Safe D",
@@ -17643,7 +17749,7 @@
    "n_polls": 2,
    "n_polls_60d": 0,
    "last_poll": "2026-05-03",
-   "days_since_poll": 148,
+   "days_since_poll": 149,
    "trend": null,
    "rating_score": 3.0,
    "rating_consensus": "Safe D",
@@ -17708,7 +17814,7 @@
    "n_polls": 1,
    "n_polls_60d": 0,
    "last_poll": "2026-04-04",
-   "days_since_poll": 177,
+   "days_since_poll": 178,
    "trend": null,
    "rating_score": 3.0,
    "rating_consensus": "Safe D",
@@ -17732,7 +17838,8 @@
     "DDHQ": "Likely D",
     "FPO": "Likely D",
     "Fox": "Tossup",
-    "Silver": "Likely D"
+    "Silver": "Likely D",
+    "RCP": "Lean D"
    },
    "on_ratings_list": true,
    "url": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California_(districts_1–26)#District_22",
@@ -17775,7 +17882,7 @@
    "n_polls": 1,
    "n_polls_60d": 0,
    "last_poll": "2026-05-06",
-   "days_since_poll": 145,
+   "days_since_poll": 146,
    "trend": null,
    "rating_score": 1.0,
    "rating_consensus": "Lean D",
@@ -17856,7 +17963,7 @@
    "n_polls": 2,
    "n_polls_60d": 0,
    "last_poll": "2026-05-04",
-   "days_since_poll": 147,
+   "days_since_poll": 148,
    "trend": null,
    "rating_score": -3.0,
    "rating_consensus": "Safe R",
@@ -17880,7 +17987,8 @@
     "DDHQ": "Likely D",
     "FPO": "Safe D",
     "Fox": "Lean D",
-    "Silver": "Likely D"
+    "Silver": "Likely D",
+    "RCP": "Lean D"
    },
    "on_ratings_list": true,
    "url": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California_(districts_27–52)#District_48",
@@ -17961,11 +18069,11 @@
    "n_polls": 3,
    "n_polls_60d": 0,
    "last_poll": "2026-05-14",
-   "days_since_poll": 137,
+   "days_since_poll": 138,
    "trend": null,
-   "rating_score": 2.0,
+   "rating_score": 1.5,
    "rating_consensus": "Likely D",
-   "hot_score": 2.0
+   "hot_score": 4.0
   },
   {
    "office": "House",
@@ -17985,7 +18093,8 @@
     "DDHQ": "Lean R",
     "FPO": "Tossup",
     "Fox": "Lean R",
-    "Silver": "Likely R"
+    "Silver": "Likely R",
+    "RCP": "Tossup"
    },
    "on_ratings_list": true,
    "url": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Colorado#District_3",
@@ -18028,7 +18137,7 @@
    "n_polls": 1,
    "n_polls_60d": 0,
    "last_poll": "2026-07-23",
-   "days_since_poll": 67,
+   "days_since_poll": 68,
    "trend": null,
    "rating_score": -1.0,
    "rating_consensus": "Lean R",
@@ -18052,7 +18161,8 @@
     "DDHQ": "Likely R",
     "FPO": "Tossup",
     "Fox": "Lean R",
-    "Silver": "Lean R"
+    "Silver": "Lean R",
+    "RCP": "Tossup"
    },
    "on_ratings_list": true,
    "url": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Colorado#District_5",
@@ -18114,7 +18224,7 @@
    "n_polls": 2,
    "n_polls_60d": 0,
    "last_poll": "2026-07-21",
-   "days_since_poll": 69,
+   "days_since_poll": 70,
    "trend": null,
    "rating_score": -1.0,
    "rating_consensus": "Lean R",
@@ -18138,7 +18248,8 @@
     "DDHQ": "Likely D",
     "FPO": "Likely D",
     "Fox": "Lean D",
-    "Silver": "Likely D"
+    "Silver": "Likely D",
+    "RCP": "Lean D"
    },
    "on_ratings_list": true,
    "url": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Colorado#District_8",
@@ -18181,7 +18292,7 @@
    "n_polls": 1,
    "n_polls_60d": 1,
    "last_poll": "2026-09-17",
-   "days_since_poll": 11,
+   "days_since_poll": 12,
    "trend": null,
    "rating_score": 1.0,
    "rating_consensus": "Lean D",
@@ -18205,7 +18316,8 @@
     "DDHQ": "Likely R",
     "FPO": "Likely R",
     "Fox": "Solid R",
-    "Silver": "Likely R"
+    "Silver": "Likely R",
+    "RCP": "Solid R"
    },
    "on_ratings_list": true,
    "url": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Florida#District_2",
@@ -18248,7 +18360,7 @@
    "n_polls": 1,
    "n_polls_60d": 0,
    "last_poll": "2026-07-26",
-   "days_since_poll": 64,
+   "days_since_poll": 65,
    "trend": null,
    "rating_score": -3.0,
    "rating_consensus": "Safe R",
@@ -18272,7 +18384,8 @@
     "DDHQ": "Lean R",
     "FPO": "Lean R",
     "Fox": "Lean R",
-    "Silver": "Tossup"
+    "Silver": "Tossup",
+    "RCP": "Tossup"
    },
    "on_ratings_list": true,
    "url": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Florida#District_7",
@@ -18315,7 +18428,7 @@
    "n_polls": 1,
    "n_polls_60d": 0,
    "last_poll": "2026-05-21",
-   "days_since_poll": 130,
+   "days_since_poll": 131,
    "trend": null,
    "rating_score": -1.0,
    "rating_consensus": "Lean R",
@@ -18339,7 +18452,8 @@
     "DDHQ": "Likely R",
     "FPO": "Likely R",
     "Fox": "Solid R",
-    "Silver": "Likely R"
+    "Silver": "Likely R",
+    "RCP": "Solid R"
    },
    "on_ratings_list": true,
    "url": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Florida#District_8",
@@ -18401,7 +18515,7 @@
    "n_polls": 2,
    "n_polls_60d": 0,
    "last_poll": "2026-07-29",
-   "days_since_poll": 61,
+   "days_since_poll": 62,
    "trend": null,
    "rating_score": -3.0,
    "rating_consensus": "Safe R",
@@ -18425,7 +18539,8 @@
     "DDHQ": "Lean R",
     "FPO": "Likely R",
     "Fox": "Lean R",
-    "Silver": "Tossup"
+    "Silver": "Tossup",
+    "RCP": "Tossup"
    },
    "on_ratings_list": true,
    "url": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Florida#District_9",
@@ -18468,7 +18583,7 @@
    "n_polls": 1,
    "n_polls_60d": 1,
    "last_poll": "2026-08-30",
-   "days_since_poll": 29,
+   "days_since_poll": 30,
    "trend": null,
    "rating_score": -1.0,
    "rating_consensus": "Lean R",
@@ -18492,7 +18607,8 @@
     "DDHQ": "Likely R",
     "FPO": "Likely R",
     "Fox": "Solid R",
-    "Silver": "Likely R"
+    "Silver": "Likely R",
+    "RCP": "Solid R"
    },
    "on_ratings_list": true,
    "url": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Florida#District_11",
@@ -18535,11 +18651,11 @@
    "n_polls": 1,
    "n_polls_60d": 0,
    "last_poll": "2026-07-29",
-   "days_since_poll": 61,
+   "days_since_poll": 62,
    "trend": null,
-   "rating_score": -2.0,
-   "rating_consensus": "Likely R",
-   "hot_score": 12.0
+   "rating_score": -2.5,
+   "rating_consensus": "Safe R",
+   "hot_score": 10.0
   },
   {
    "office": "House",
@@ -18559,7 +18675,8 @@
     "DDHQ": "Safe R",
     "FPO": "Likely R",
     "Fox": "Solid R",
-    "Silver": "Likely R"
+    "Silver": "Likely R",
+    "RCP": "Likely R"
    },
    "on_ratings_list": true,
    "url": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Florida#District_12",
@@ -18602,9 +18719,9 @@
    "n_polls": 1,
    "n_polls_60d": 0,
    "last_poll": "2026-06-27",
-   "days_since_poll": 93,
+   "days_since_poll": 94,
    "trend": null,
-   "rating_score": -3.0,
+   "rating_score": -2.5,
    "rating_consensus": "Safe R",
    "hot_score": 8.0
   },
@@ -18626,7 +18743,8 @@
     "DDHQ": "Likely R",
     "FPO": "Lean R",
     "Fox": "Lean R",
-    "Silver": "Lean R"
+    "Silver": "Lean R",
+    "RCP": "Tossup"
    },
    "on_ratings_list": true,
    "url": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Florida#District_13",
@@ -18726,7 +18844,7 @@
    "n_polls": 4,
    "n_polls_60d": 3,
    "last_poll": "2026-08-27",
-   "days_since_poll": 32,
+   "days_since_poll": 33,
    "trend": null,
    "rating_score": -1.0,
    "rating_consensus": "Lean R",
@@ -18750,7 +18868,8 @@
     "DDHQ": "Lean D",
     "FPO": "Likely D",
     "Fox": "Tossup",
-    "Silver": "Likely D"
+    "Silver": "Likely D",
+    "RCP": "Lean D"
    },
    "on_ratings_list": true,
    "url": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Florida#District_14",
@@ -18793,7 +18912,7 @@
    "n_polls": 1,
    "n_polls_60d": 0,
    "last_poll": "2026-07-15",
-   "days_since_poll": 75,
+   "days_since_poll": 76,
    "trend": null,
    "rating_score": 1.0,
    "rating_consensus": "Lean D",
@@ -18817,7 +18936,8 @@
     "DDHQ": "Likely R",
     "FPO": "Lean R",
     "Fox": "Likely R",
-    "Silver": "Likely R"
+    "Silver": "Likely R",
+    "RCP": "Likely R"
    },
    "on_ratings_list": true,
    "url": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Florida#District_16",
@@ -18851,7 +18971,7 @@
    "last_election": "59.5% R",
    "avg": 1.0,
    "avg_nonpartisan": 1.0,
-   "avg_basis": "1 polls, last 30d",
+   "avg_basis": "last 1 polls (none in 30d)",
    "avg_by_party": {
     "R": 39.0,
     "D": 40.0
@@ -18860,7 +18980,7 @@
    "n_polls": 1,
    "n_polls_60d": 1,
    "last_poll": "2026-08-29",
-   "days_since_poll": 30,
+   "days_since_poll": 31,
    "trend": null,
    "rating_score": -2.0,
    "rating_consensus": "Likely R",
@@ -18884,7 +19004,8 @@
     "DDHQ": "Lean R",
     "FPO": "Lean D",
     "Fox": "Tossup",
-    "Silver": "Lean D"
+    "Silver": "Lean D",
+    "RCP": "Tossup"
    },
    "on_ratings_list": true,
    "url": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Florida#District_22",
@@ -18946,7 +19067,7 @@
    "n_polls": 2,
    "n_polls_60d": 2,
    "last_poll": "2026-08-31",
-   "days_since_poll": 28,
+   "days_since_poll": 29,
    "trend": 2.0,
    "rating_score": 0.0,
    "rating_consensus": "Toss-up",
@@ -18967,10 +19088,11 @@
     "Sabato": "Tossup",
     "Econ": "Lean D",
     "ST": "Lean D",
-    "DDHQ": "Tossup",
+    "DDHQ": "Lean D",
     "FPO": "Likely D",
     "Fox": "Lean D",
-    "Silver": "Likely D"
+    "Silver": "Likely D",
+    "RCP": "Lean D"
    },
    "on_ratings_list": true,
    "url": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Florida#District_25",
@@ -19013,7 +19135,7 @@
    "n_polls": 1,
    "n_polls_60d": 0,
    "last_poll": "2026-05-02",
-   "days_since_poll": 149,
+   "days_since_poll": 150,
    "trend": null,
    "rating_score": 1.0,
    "rating_consensus": "Lean D",
@@ -19037,7 +19159,8 @@
     "DDHQ": "Likely R",
     "FPO": "Likely R",
     "Fox": "Lean R",
-    "Silver": "Likely R"
+    "Silver": "Likely R",
+    "RCP": "Tossup"
    },
    "on_ratings_list": true,
    "url": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Florida#District_27",
@@ -19118,11 +19241,11 @@
    "n_polls": 3,
    "n_polls_60d": 2,
    "last_poll": "2026-09-13",
-   "days_since_poll": 15,
+   "days_since_poll": 16,
    "trend": null,
-   "rating_score": -2.0,
+   "rating_score": -1.5,
    "rating_consensus": "Likely R",
-   "hot_score": 13.5
+   "hot_score": 15.5
   },
   {
    "office": "House",
@@ -19180,7 +19303,7 @@
    "n_polls": 1,
    "n_polls_60d": 0,
    "last_poll": "2026-03-07",
-   "days_since_poll": 205,
+   "days_since_poll": 206,
    "trend": null,
    "rating_score": -3.0,
    "rating_consensus": "Safe R",
@@ -19241,7 +19364,7 @@
    "n_polls": 1,
    "n_polls_60d": 1,
    "last_poll": "2026-08-26",
-   "days_since_poll": 33,
+   "days_since_poll": 34,
    "trend": null,
    "rating_score": -3.0,
    "rating_consensus": "Safe R",
@@ -19302,7 +19425,7 @@
    "n_polls": 1,
    "n_polls_60d": 1,
    "last_poll": "2026-09-11",
-   "days_since_poll": 17,
+   "days_since_poll": 18,
    "trend": null,
    "rating_score": -3.0,
    "rating_consensus": "Safe R",
@@ -19384,13 +19507,13 @@
    },
    "multi": false,
    "n_polls": 2,
-   "n_polls_60d": 1,
+   "n_polls_60d": 0,
    "last_poll": "2026-07-30",
-   "days_since_poll": 60,
+   "days_since_poll": 61,
    "trend": null,
    "rating_score": -3.0,
    "rating_consensus": "Safe R",
-   "hot_score": 1.0
+   "hot_score": 0.0
   },
   {
    "office": "House",
@@ -19450,7 +19573,7 @@
    "n_polls": 1,
    "n_polls_60d": 1,
    "last_poll": "2026-08-01",
-   "days_since_poll": 58,
+   "days_since_poll": 59,
    "trend": null,
    "rating_score": 3.0,
    "rating_consensus": "Safe D",
@@ -19474,7 +19597,8 @@
     "DDHQ": "Likely R",
     "FPO": "Likely R",
     "Fox": "Solid R",
-    "Silver": "Likely R"
+    "Silver": "Likely R",
+    "RCP": "Likely R"
    },
    "on_ratings_list": true,
    "url": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Indiana#District_5",
@@ -19517,9 +19641,9 @@
    "n_polls": 1,
    "n_polls_60d": 0,
    "last_poll": "2026-07-20",
-   "days_since_poll": 70,
+   "days_since_poll": 71,
    "trend": null,
-   "rating_score": -3.0,
+   "rating_score": -2.5,
    "rating_consensus": "Safe R",
    "hot_score": 8.0
   },
@@ -19541,7 +19665,8 @@
     "DDHQ": "Likely D",
     "FPO": "Likely D",
     "Fox": "Tossup",
-    "Silver": "Lean D"
+    "Silver": "Lean D",
+    "RCP": "Lean D"
    },
    "on_ratings_list": true,
    "url": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Iowa#District_1",
@@ -19607,7 +19732,7 @@
    "n_polls": 2,
    "n_polls_60d": 0,
    "last_poll": "2026-07-16",
-   "days_since_poll": 74,
+   "days_since_poll": 75,
    "trend": null,
    "rating_score": 1.0,
    "rating_consensus": "Lean D",
@@ -19628,10 +19753,11 @@
     "Sabato": "Tossup",
     "Econ": "Lean D",
     "ST": "Lean D",
-    "DDHQ": "Lean R",
+    "DDHQ": "Tossup",
     "FPO": "Lean D",
     "Fox": "Tossup",
-    "Silver": "Tossup"
+    "Silver": "Tossup",
+    "RCP": "Tossup"
    },
    "on_ratings_list": true,
    "url": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Iowa#District_2",
@@ -19693,7 +19819,7 @@
    "n_polls": 2,
    "n_polls_60d": 0,
    "last_poll": "2026-07-19",
-   "days_since_poll": 71,
+   "days_since_poll": 72,
    "trend": null,
    "rating_score": 0.0,
    "rating_consensus": "Toss-up",
@@ -19717,7 +19843,8 @@
     "DDHQ": "Lean D",
     "FPO": "Likely D",
     "Fox": "Tossup",
-    "Silver": "Likely D"
+    "Silver": "Likely D",
+    "RCP": "Lean D"
    },
    "on_ratings_list": true,
    "url": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Iowa#District_3",
@@ -19760,7 +19887,7 @@
    "n_polls": 1,
    "n_polls_60d": 0,
    "last_poll": "2026-03-14",
-   "days_since_poll": 198,
+   "days_since_poll": 199,
    "trend": null,
    "rating_score": 1.0,
    "rating_consensus": "Lean D",
@@ -19784,7 +19911,8 @@
     "DDHQ": "Likely R",
     "FPO": "Lean R",
     "Fox": "Likely R",
-    "Silver": "Likely R"
+    "Silver": "Likely R",
+    "RCP": "Lean R"
    },
    "on_ratings_list": true,
    "url": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Kentucky#District_6",
@@ -19882,13 +20010,13 @@
    },
    "multi": false,
    "n_polls": 4,
-   "n_polls_60d": 2,
+   "n_polls_60d": 1,
    "last_poll": "2026-08-23",
-   "days_since_poll": 36,
+   "days_since_poll": 37,
    "trend": null,
    "rating_score": -2.0,
    "rating_consensus": "Likely R",
-   "hot_score": 13.3
+   "hot_score": 12.3
   },
   {
    "office": "House",
@@ -19945,7 +20073,7 @@
    "n_polls": 1,
    "n_polls_60d": 1,
    "last_poll": "2026-08-13",
-   "days_since_poll": 46,
+   "days_since_poll": 47,
    "trend": null,
    "rating_score": -3.0,
    "rating_consensus": "Safe R",
@@ -20007,7 +20135,7 @@
    "n_polls": 1,
    "n_polls_60d": 1,
    "last_poll": "2026-09-21",
-   "days_since_poll": 7,
+   "days_since_poll": 8,
    "trend": null,
    "rating_score": 3.0,
    "rating_consensus": "Safe D",
@@ -20031,7 +20159,8 @@
     "DDHQ": "Lean R",
     "FPO": "Tossup",
     "Fox": "Tossup",
-    "Silver": "Lean R"
+    "Silver": "Lean R",
+    "RCP": "Tossup"
    },
    "on_ratings_list": true,
    "url": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Maine#District_2",
@@ -20188,7 +20317,7 @@
    "n_polls": 7,
    "n_polls_60d": 3,
    "last_poll": "2026-09-21",
-   "days_since_poll": 7,
+   "days_since_poll": 8,
    "trend": 4.0,
    "rating_score": -1.0,
    "rating_consensus": "Lean R",
@@ -20212,7 +20341,8 @@
     "DDHQ": "Safe R",
     "FPO": "Likely R",
     "Fox": "Solid R",
-    "Silver": "Solid R"
+    "Silver": "Solid R",
+    "RCP": "Solid R"
    },
    "on_ratings_list": true,
    "url": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Maryland#District_1",
@@ -20255,7 +20385,7 @@
    "n_polls": 1,
    "n_polls_60d": 0,
    "last_poll": "2026-07-27",
-   "days_since_poll": 63,
+   "days_since_poll": 64,
    "trend": null,
    "rating_score": -3.0,
    "rating_consensus": "Safe R",
@@ -20279,7 +20409,8 @@
     "DDHQ": "Lean R",
     "FPO": "Lean D",
     "Fox": "Tossup",
-    "Silver": "Tossup"
+    "Silver": "Tossup",
+    "RCP": "Tossup"
    },
    "on_ratings_list": true,
    "url": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Michigan#District_4",
@@ -20379,7 +20510,7 @@
    "n_polls": 4,
    "n_polls_60d": 1,
    "last_poll": "2026-09-16",
-   "days_since_poll": 12,
+   "days_since_poll": 13,
    "trend": null,
    "rating_score": 0.0,
    "rating_consensus": "Toss-up",
@@ -20403,7 +20534,8 @@
     "DDHQ": "Lean D",
     "FPO": "Likely D",
     "Fox": "Tossup",
-    "Silver": "Lean D"
+    "Silver": "Lean D",
+    "RCP": "Lean D"
    },
    "on_ratings_list": true,
    "url": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Michigan#District_7",
@@ -20465,11 +20597,11 @@
    "n_polls": 2,
    "n_polls_60d": 1,
    "last_poll": "2026-08-13",
-   "days_since_poll": 46,
+   "days_since_poll": 47,
    "trend": null,
-   "rating_score": 0.0,
-   "rating_consensus": "Toss-up",
-   "hot_score": 12.0
+   "rating_score": 0.5,
+   "rating_consensus": "Tilt D",
+   "hot_score": 16.0
   },
   {
    "office": "House",
@@ -20489,7 +20621,8 @@
     "DDHQ": "Tossup",
     "FPO": "Lean D",
     "Fox": "Tossup",
-    "Silver": "Lean D"
+    "Silver": "Lean D",
+    "RCP": "Lean D"
    },
    "on_ratings_list": true,
    "url": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Michigan#District_10",
@@ -20551,11 +20684,11 @@
    "n_polls": 2,
    "n_polls_60d": 1,
    "last_poll": "2026-08-13",
-   "days_since_poll": 46,
+   "days_since_poll": 47,
    "trend": null,
-   "rating_score": 0.0,
-   "rating_consensus": "Toss-up",
-   "hot_score": 13.0
+   "rating_score": 0.5,
+   "rating_consensus": "Tilt D",
+   "hot_score": 17.0
   },
   {
    "office": "House",
@@ -20572,10 +20705,11 @@
     "Sabato": "Likely R",
     "Econ": "Lean R",
     "ST": "Likely R",
-    "DDHQ": "Likely R",
+    "DDHQ": "Lean R",
     "FPO": "Likely R",
     "Fox": "Likely R",
-    "Silver": "Lean R"
+    "Silver": "Lean R",
+    "RCP": "Lean R"
    },
    "on_ratings_list": true,
    "url": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Minnesota#District_1",
@@ -20656,7 +20790,7 @@
    "n_polls": 3,
    "n_polls_60d": 1,
    "last_poll": "2026-09-21",
-   "days_since_poll": 7,
+   "days_since_poll": 8,
    "trend": null,
    "rating_score": -2.0,
    "rating_consensus": "Likely R",
@@ -20677,10 +20811,11 @@
     "Sabato": "Likely D",
     "Econ": "Safe D",
     "ST": "Safe D",
-    "DDHQ": "Likely D",
+    "DDHQ": "Safe D",
     "FPO": "Safe D",
     "Fox": "Likely D",
-    "Silver": "Solid D"
+    "Silver": "Solid D",
+    "RCP": "Likely D"
    },
    "on_ratings_list": true,
    "url": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Minnesota#District_2",
@@ -20742,11 +20877,11 @@
    "n_polls": 2,
    "n_polls_60d": 1,
    "last_poll": "2026-09-13",
-   "days_since_poll": 15,
+   "days_since_poll": 16,
    "trend": null,
-   "rating_score": 2.0,
-   "rating_consensus": "Likely D",
-   "hot_score": 3.0
+   "rating_score": 2.5,
+   "rating_consensus": "Safe D",
+   "hot_score": 1.0
   },
   {
    "office": "House",
@@ -20766,7 +20901,8 @@
     "DDHQ": "Likely R",
     "FPO": "Lean R",
     "Fox": "Likely R",
-    "Silver": "Likely R"
+    "Silver": "Likely R",
+    "RCP": "Tossup"
    },
    "on_ratings_list": true,
    "url": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Missouri#District_2",
@@ -20775,6 +20911,25 @@
     "D": "Fred Wellman"
    },
    "polls": [
+    {
+     "pollster": "Remington Research Group (R)",
+     "partisan": "R",
+     "sponsor": null,
+     "dates": "September 14-15, 2026",
+     "end": "2026-09-15",
+     "n": 565,
+     "pop": "LV",
+     "moe": null,
+     "d": 42.0,
+     "r": 43.0,
+     "other": null,
+     "undecided": 15.0,
+     "margin": -1.0,
+     "cands": {
+      "R": 43.0,
+      "D": 42.0
+     }
+    },
     {
      "pollster": "FM3 Research (D)",
      "partisan": "D",
@@ -20798,22 +20953,22 @@
    "hypothetical_tables": 0,
    "aggregates": [],
    "last_election": "54.5% R",
-   "avg": -3.0,
+   "avg": -1.0,
    "avg_nonpartisan": null,
-   "avg_basis": "last 1 polls (none in 30d)",
+   "avg_basis": "1 polls, last 30d",
    "avg_by_party": {
-    "R": 44.0,
-    "D": 41.0
+    "R": 43.0,
+    "D": 42.0
    },
    "multi": false,
-   "n_polls": 1,
-   "n_polls_60d": 0,
-   "last_poll": "2026-05-31",
-   "days_since_poll": 120,
+   "n_polls": 2,
+   "n_polls_60d": 1,
+   "last_poll": "2026-09-15",
+   "days_since_poll": 14,
    "trend": null,
    "rating_score": -2.0,
    "rating_consensus": "Likely R",
-   "hot_score": 9.0
+   "hot_score": 12.0
   },
   {
    "office": "House",
@@ -20833,7 +20988,8 @@
     "DDHQ": "Lean R",
     "FPO": "Tossup",
     "Fox": "Lean R",
-    "Silver": "Lean R"
+    "Silver": "Lean R",
+    "RCP": "Tossup"
    },
    "on_ratings_list": true,
    "url": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Montana#District_1",
@@ -20939,7 +21095,7 @@
    "n_polls": 4,
    "n_polls_60d": 2,
    "last_poll": "2026-09-10",
-   "days_since_poll": 18,
+   "days_since_poll": 19,
    "trend": null,
    "rating_score": -1.0,
    "rating_consensus": "Lean R",
@@ -21003,7 +21159,7 @@
    "n_polls": 1,
    "n_polls_60d": 1,
    "last_poll": "2026-09-07",
-   "days_since_poll": 21,
+   "days_since_poll": 22,
    "trend": null,
    "rating_score": -3.0,
    "rating_consensus": "Safe R",
@@ -21027,7 +21183,8 @@
     "DDHQ": "Likely R",
     "FPO": "Lean R",
     "Fox": "Solid R",
-    "Silver": "Likely R"
+    "Silver": "Likely R",
+    "RCP": "Likely R"
    },
    "on_ratings_list": true,
    "url": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Nebraska#District_1",
@@ -21113,7 +21270,7 @@
    "n_polls": 3,
    "n_polls_60d": 1,
    "last_poll": "2026-09-03",
-   "days_since_poll": 25,
+   "days_since_poll": 26,
    "trend": null,
    "rating_score": -2.0,
    "rating_consensus": "Likely R",
@@ -21137,7 +21294,8 @@
     "DDHQ": "Likely D",
     "FPO": "Safe D",
     "Fox": "Lean D",
-    "Silver": "Solid D"
+    "Silver": "Solid D",
+    "RCP": "Likely D"
    },
    "on_ratings_list": true,
    "url": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Nebraska#District_2",
@@ -21180,7 +21338,7 @@
    "n_polls": 1,
    "n_polls_60d": 1,
    "last_poll": "2026-09-13",
-   "days_since_poll": 15,
+   "days_since_poll": 16,
    "trend": null,
    "rating_score": 2.0,
    "rating_consensus": "Likely D",
@@ -21204,7 +21362,8 @@
     "DDHQ": "Likely R",
     "FPO": "Lean R",
     "Fox": "Solid R",
-    "Silver": "Likely R"
+    "Silver": "Likely R",
+    "RCP": "Tossup"
    },
    "on_ratings_list": true,
    "url": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Nevada#District_2",
@@ -21285,7 +21444,7 @@
    "n_polls": 3,
    "n_polls_60d": 2,
    "last_poll": "2026-09-03",
-   "days_since_poll": 25,
+   "days_since_poll": 26,
    "trend": 4.0,
    "rating_score": -2.0,
    "rating_consensus": "Likely R",
@@ -21309,7 +21468,8 @@
     "DDHQ": "Likely D",
     "FPO": "Safe D",
     "Fox": "Likely D",
-    "Silver": "Solid D"
+    "Silver": "Solid D",
+    "RCP": "Likely D"
    },
    "on_ratings_list": true,
    "url": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_Hampshire#District_1",
@@ -21352,7 +21512,7 @@
    "n_polls": 1,
    "n_polls_60d": 1,
    "last_poll": "2026-09-21",
-   "days_since_poll": 7,
+   "days_since_poll": 8,
    "trend": null,
    "rating_score": 2.0,
    "rating_consensus": "Likely D",
@@ -21376,7 +21536,8 @@
     "DDHQ": "Likely D",
     "FPO": "Safe D",
     "Fox": "Solid D",
-    "Silver": "Solid D"
+    "Silver": "Solid D",
+    "RCP": "Solid D"
    },
    "on_ratings_list": true,
    "url": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_Hampshire#District_2",
@@ -21552,7 +21713,7 @@
    "n_polls": 8,
    "n_polls_60d": 2,
    "last_poll": "2026-09-21",
-   "days_since_poll": 7,
+   "days_since_poll": 8,
    "trend": 6.0,
    "rating_score": 3.0,
    "rating_consensus": "Safe D",
@@ -21576,7 +21737,8 @@
     "DDHQ": "Likely D",
     "FPO": "Likely D",
     "Fox": "Lean D",
-    "Silver": "Likely D"
+    "Silver": "Likely D",
+    "RCP": "Lean D"
    },
    "on_ratings_list": true,
    "url": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_Jersey#District_7",
@@ -21638,7 +21800,7 @@
    "n_polls": 2,
    "n_polls_60d": 1,
    "last_poll": "2026-09-12",
-   "days_since_poll": 16,
+   "days_since_poll": 17,
    "trend": null,
    "rating_score": 1.0,
    "rating_consensus": "Lean D",
@@ -21662,7 +21824,8 @@
     "DDHQ": "Likely D",
     "FPO": "Likely D",
     "Fox": "Likely D",
-    "Silver": "Likely D"
+    "Silver": "Likely D",
+    "RCP": "Likely D"
    },
    "on_ratings_list": true,
    "url": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_Mexico#District_2",
@@ -21724,7 +21887,7 @@
    "n_polls": 2,
    "n_polls_60d": 1,
    "last_poll": "2026-09-02",
-   "days_since_poll": 26,
+   "days_since_poll": 27,
    "trend": null,
    "rating_score": 2.0,
    "rating_consensus": "Likely D",
@@ -21748,7 +21911,8 @@
     "DDHQ": "Lean R",
     "FPO": "Lean R",
     "Fox": "Likely R",
-    "Silver": "Likely R"
+    "Silver": "Likely R",
+    "RCP": "Likely R"
    },
    "on_ratings_list": true,
    "url": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_York#District_1",
@@ -21791,7 +21955,7 @@
    "n_polls": 1,
    "n_polls_60d": 0,
    "last_poll": "2025-12-11",
-   "days_since_poll": 291,
+   "days_since_poll": 292,
    "trend": null,
    "rating_score": -2.0,
    "rating_consensus": "Likely R",
@@ -21815,7 +21979,8 @@
     "DDHQ": "Tossup",
     "FPO": "Likely D",
     "Fox": "Lean D",
-    "Silver": "Lean D"
+    "Silver": "Lean D",
+    "RCP": "Lean D"
    },
    "on_ratings_list": true,
    "url": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_York#District_17",
@@ -21877,7 +22042,7 @@
    "n_polls": 2,
    "n_polls_60d": 0,
    "last_poll": "2026-07-22",
-   "days_since_poll": 68,
+   "days_since_poll": 69,
    "trend": null,
    "rating_score": 1.0,
    "rating_consensus": "Lean D",
@@ -21896,8 +22061,7 @@
     "DDHQ": "Safe D",
     "Cook": "Solid D",
     "IE": "Solid D",
-    "Sabato": "Safe D",
-    "Race to the WH": "Safe D"
+    "Sabato": "Safe D"
    },
    "on_ratings_list": false,
    "url": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_York#District_18",
@@ -21939,7 +22103,7 @@
    "n_polls": 1,
    "n_polls_60d": 0,
    "last_poll": "2026-07-26",
-   "days_since_poll": 64,
+   "days_since_poll": 65,
    "trend": null,
    "rating_score": 3.0,
    "rating_consensus": "Safe D",
@@ -21963,7 +22127,8 @@
     "DDHQ": "Likely R",
     "FPO": "Likely R",
     "Fox": "Solid R",
-    "Silver": "Likely R"
+    "Silver": "Likely R",
+    "RCP": "Likely R"
    },
    "on_ratings_list": true,
    "url": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_York#District_21",
@@ -22082,11 +22247,79 @@
    "n_polls": 5,
    "n_polls_60d": 4,
    "last_poll": "2026-09-10",
-   "days_since_poll": 18,
+   "days_since_poll": 19,
    "trend": -1.0,
    "rating_score": -2.0,
    "rating_consensus": "Likely R",
    "hot_score": 12.0
+  },
+  {
+   "office": "House",
+   "state": "New York",
+   "district": "23",
+   "special": false,
+   "id": "NY-23",
+   "label": "NY-23",
+   "pvi": "R+10",
+   "incumbent": "Nick Langworthy",
+   "ratings": {
+    "Cook": "Solid R",
+    "IE": "Solid R",
+    "Sabato": "Safe R",
+    "Econ": "Safe R",
+    "ST": "Safe R",
+    "DDHQ": "Likely R",
+    "FPO": "Safe R",
+    "Fox": "Solid R",
+    "Silver": "Solid R",
+    "RCP": "Solid R"
+   },
+   "on_ratings_list": true,
+   "url": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_New_York#District_23",
+   "candidates": {
+    "R": "Nick Langworthy",
+    "D": "Aaron Gies"
+   },
+   "polls": [
+    {
+     "pollster": "Public Policy Polling (D)",
+     "partisan": "D",
+     "sponsor": "Gies' campaign",
+     "dates": "September 22-23, 2026",
+     "end": "2026-09-23",
+     "n": 626,
+     "pop": "LV",
+     "moe": 3.9,
+     "d": 35.0,
+     "r": 52.0,
+     "other": null,
+     "undecided": 13.0,
+     "margin": -17.0,
+     "cands": {
+      "R": 52.0,
+      "D": 35.0
+     }
+    }
+   ],
+   "hypothetical_tables": 0,
+   "aggregates": [],
+   "last_election": "65.8% R",
+   "avg": -17.0,
+   "avg_nonpartisan": null,
+   "avg_basis": "1 polls, last 30d",
+   "avg_by_party": {
+    "R": 52.0,
+    "D": 35.0
+   },
+   "multi": false,
+   "n_polls": 1,
+   "n_polls_60d": 1,
+   "last_poll": "2026-09-23",
+   "days_since_poll": 6,
+   "trend": null,
+   "rating_score": -3.0,
+   "rating_consensus": "Safe R",
+   "hot_score": 1.0
   },
   {
    "office": "House",
@@ -22106,7 +22339,8 @@
     "DDHQ": "Tossup",
     "FPO": "Lean D",
     "Fox": "Tossup",
-    "Silver": "Lean D"
+    "Silver": "Lean D",
+    "RCP": "Tossup"
    },
    "on_ratings_list": true,
    "url": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_North_Carolina#District_1",
@@ -22211,7 +22445,7 @@
    "n_polls": 4,
    "n_polls_60d": 1,
    "last_poll": "2026-09-11",
-   "days_since_poll": 17,
+   "days_since_poll": 18,
    "trend": null,
    "rating_score": 0.0,
    "rating_consensus": "Toss-up",
@@ -22235,7 +22469,8 @@
     "DDHQ": "Likely R",
     "FPO": "Likely R",
     "Fox": "Solid R",
-    "Silver": "Likely R"
+    "Silver": "Likely R",
+    "RCP": "Likely R"
    },
    "on_ratings_list": true,
    "url": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_North_Carolina#District_3",
@@ -22278,9 +22513,9 @@
    "n_polls": 1,
    "n_polls_60d": 1,
    "last_poll": "2026-08-02",
-   "days_since_poll": 57,
+   "days_since_poll": 58,
    "trend": null,
-   "rating_score": -3.0,
+   "rating_score": -2.5,
    "rating_consensus": "Safe R",
    "hot_score": 8.0
   },
@@ -22302,7 +22537,8 @@
     "DDHQ": "Likely R",
     "FPO": "Likely R",
     "Fox": "Solid R",
-    "Silver": "Likely R"
+    "Silver": "Likely R",
+    "RCP": "Likely R"
    },
    "on_ratings_list": true,
    "url": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_North_Carolina#District_7",
@@ -22348,9 +22584,9 @@
    "n_polls": 1,
    "n_polls_60d": 1,
    "last_poll": "2026-08-20",
-   "days_since_poll": 39,
+   "days_since_poll": 40,
    "trend": null,
-   "rating_score": -3.0,
+   "rating_score": -2.5,
    "rating_consensus": "Safe R",
    "hot_score": 5.0
   },
@@ -22372,7 +22608,8 @@
     "DDHQ": "Likely R",
     "FPO": "Likely R",
     "Fox": "Solid R",
-    "Silver": "Likely R"
+    "Silver": "Likely R",
+    "RCP": "Likely R"
    },
    "on_ratings_list": true,
    "url": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_North_Carolina#District_9",
@@ -22415,7 +22652,7 @@
    "n_polls": 1,
    "n_polls_60d": 1,
    "last_poll": "2026-09-03",
-   "days_since_poll": 25,
+   "days_since_poll": 26,
    "trend": null,
    "rating_score": -2.0,
    "rating_consensus": "Likely R",
@@ -22439,7 +22676,8 @@
     "DDHQ": "Likely R",
     "FPO": "Safe R",
     "Fox": "Solid R",
-    "Silver": "Solid R"
+    "Silver": "Solid R",
+    "RCP": "Solid R"
    },
    "on_ratings_list": true,
    "url": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_North_Carolina#District_10",
@@ -22482,7 +22720,7 @@
    "n_polls": 1,
    "n_polls_60d": 0,
    "last_poll": "2026-03-12",
-   "days_since_poll": 200,
+   "days_since_poll": 201,
    "trend": null,
    "rating_score": -3.0,
    "rating_consensus": "Safe R",
@@ -22506,7 +22744,8 @@
     "DDHQ": "Tossup",
     "FPO": "Tossup",
     "Fox": "Tossup",
-    "Silver": "Tossup"
+    "Silver": "Tossup",
+    "RCP": "Tossup"
    },
    "on_ratings_list": true,
    "url": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_North_Carolina#District_11",
@@ -22549,7 +22788,7 @@
    "n_polls": 1,
    "n_polls_60d": 1,
    "last_poll": "2026-09-11",
-   "days_since_poll": 17,
+   "days_since_poll": 18,
    "trend": null,
    "rating_score": 0.0,
    "rating_consensus": "Toss-up",
@@ -22573,7 +22812,8 @@
     "DDHQ": "Likely R",
     "FPO": "Likely R",
     "Fox": "Solid R",
-    "Silver": "Likely R"
+    "Silver": "Likely R",
+    "RCP": "Solid R"
    },
    "on_ratings_list": true,
    "url": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_North_Carolina#District_14",
@@ -22616,7 +22856,7 @@
    "n_polls": 1,
    "n_polls_60d": 0,
    "last_poll": "2026-03-12",
-   "days_since_poll": 200,
+   "days_since_poll": 201,
    "trend": null,
    "rating_score": -3.0,
    "rating_consensus": "Safe R",
@@ -22637,10 +22877,11 @@
     "Sabato": "Lean D",
     "Econ": "Likely D",
     "ST": "Safe D",
-    "DDHQ": "Lean D",
+    "DDHQ": "Likely D",
     "FPO": "Likely D",
     "Fox": "Lean D",
-    "Silver": "Likely D"
+    "Silver": "Likely D",
+    "RCP": "Likely D"
    },
    "on_ratings_list": true,
    "url": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Ohio#District_1",
@@ -22683,11 +22924,11 @@
    "n_polls": 1,
    "n_polls_60d": 1,
    "last_poll": "2026-08-24",
-   "days_since_poll": 35,
+   "days_since_poll": 36,
    "trend": null,
-   "rating_score": 1.0,
-   "rating_consensus": "Lean D",
-   "hot_score": 12.0
+   "rating_score": 2.0,
+   "rating_consensus": "Likely D",
+   "hot_score": 9.0
   },
   {
    "office": "House",
@@ -22707,7 +22948,8 @@
     "DDHQ": "Tossup",
     "FPO": "Lean D",
     "Fox": "Tossup",
-    "Silver": "Tossup"
+    "Silver": "Tossup",
+    "RCP": "Lean D"
    },
    "on_ratings_list": true,
    "url": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Ohio#District_7",
@@ -22824,13 +23066,13 @@
    },
    "multi": false,
    "n_polls": 5,
-   "n_polls_60d": 4,
+   "n_polls_60d": 3,
    "last_poll": "2026-08-10",
-   "days_since_poll": 49,
+   "days_since_poll": 50,
    "trend": null,
    "rating_score": 0.0,
    "rating_consensus": "Toss-up",
-   "hot_score": 7.0
+   "hot_score": 6.0
   },
   {
    "office": "House",
@@ -22850,7 +23092,8 @@
     "DDHQ": "Lean D",
     "FPO": "Lean D",
     "Fox": "Tossup",
-    "Silver": "Lean D"
+    "Silver": "Lean D",
+    "RCP": "Lean D"
    },
    "on_ratings_list": true,
    "url": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Ohio#District_9",
@@ -22893,7 +23136,7 @@
    "n_polls": 1,
    "n_polls_60d": 0,
    "last_poll": "2026-04-20",
-   "days_since_poll": 161,
+   "days_since_poll": 162,
    "trend": null,
    "rating_score": 1.0,
    "rating_consensus": "Lean D",
@@ -22917,7 +23160,8 @@
     "DDHQ": "Likely R",
     "FPO": "Lean R",
     "Fox": "Likely R",
-    "Silver": "Likely R"
+    "Silver": "Likely R",
+    "RCP": "Likely R"
    },
    "on_ratings_list": true,
    "url": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Ohio#District_10",
@@ -22982,7 +23226,7 @@
    "n_polls": 2,
    "n_polls_60d": 0,
    "last_poll": "2026-07-23",
-   "days_since_poll": 67,
+   "days_since_poll": 68,
    "trend": null,
    "rating_score": -2.0,
    "rating_consensus": "Likely R",
@@ -23006,7 +23250,8 @@
     "DDHQ": "Likely R",
     "FPO": "Lean R",
     "Fox": "Likely R",
-    "Silver": "Likely R"
+    "Silver": "Likely R",
+    "RCP": "Lean R"
    },
    "on_ratings_list": true,
    "url": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Ohio#District_15",
@@ -23072,7 +23317,7 @@
    "n_polls": 2,
    "n_polls_60d": 1,
    "last_poll": "2026-08-09",
-   "days_since_poll": 50,
+   "days_since_poll": 51,
    "trend": null,
    "rating_score": -2.0,
    "rating_consensus": "Likely R",
@@ -23096,7 +23341,8 @@
     "DDHQ": "Lean R",
     "FPO": "Likely D",
     "Fox": "Lean R",
-    "Silver": "Tossup"
+    "Silver": "Tossup",
+    "RCP": "Tossup"
    },
    "on_ratings_list": true,
    "url": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Pennsylvania#District_1",
@@ -23215,11 +23461,11 @@
    "n_polls": 5,
    "n_polls_60d": 3,
    "last_poll": "2026-09-14",
-   "days_since_poll": 14,
+   "days_since_poll": 15,
    "trend": -6.5,
-   "rating_score": -1.0,
-   "rating_consensus": "Lean R",
-   "hot_score": 9.0
+   "rating_score": -0.5,
+   "rating_consensus": "Tilt R",
+   "hot_score": 11.0
   },
   {
    "office": "House",
@@ -23239,7 +23485,8 @@
     "DDHQ": "Lean D",
     "FPO": "Likely D",
     "Fox": "Tossup",
-    "Silver": "Lean D"
+    "Silver": "Lean D",
+    "RCP": "Lean D"
    },
    "on_ratings_list": true,
    "url": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Pennsylvania#District_7",
@@ -23301,11 +23548,11 @@
    "n_polls": 2,
    "n_polls_60d": 1,
    "last_poll": "2026-09-20",
-   "days_since_poll": 8,
+   "days_since_poll": 9,
    "trend": null,
-   "rating_score": 0.0,
-   "rating_consensus": "Toss-up",
-   "hot_score": 9.0
+   "rating_score": 0.5,
+   "rating_consensus": "Tilt D",
+   "hot_score": 13.0
   },
   {
    "office": "House",
@@ -23325,7 +23572,8 @@
     "DDHQ": "Tossup",
     "FPO": "Lean D",
     "Fox": "Tossup",
-    "Silver": "Lean D"
+    "Silver": "Lean D",
+    "RCP": "Tossup"
    },
    "on_ratings_list": true,
    "url": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Pennsylvania#District_8",
@@ -23406,7 +23654,7 @@
    "n_polls": 3,
    "n_polls_60d": 0,
    "last_poll": "2026-06-23",
-   "days_since_poll": 97,
+   "days_since_poll": 98,
    "trend": null,
    "rating_score": 0.0,
    "rating_consensus": "Toss-up",
@@ -23430,7 +23678,8 @@
     "DDHQ": "Lean D",
     "FPO": "Likely D",
     "Fox": "Tossup",
-    "Silver": "Likely D"
+    "Silver": "Likely D",
+    "RCP": "Lean D"
    },
    "on_ratings_list": true,
    "url": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Pennsylvania#District_10",
@@ -23530,7 +23779,7 @@
    "n_polls": 4,
    "n_polls_60d": 1,
    "last_poll": "2026-09-20",
-   "days_since_poll": 8,
+   "days_since_poll": 9,
    "trend": null,
    "rating_score": 1.0,
    "rating_consensus": "Lean D",
@@ -23554,7 +23803,8 @@
     "DDHQ": "Lean R",
     "FPO": "Lean R",
     "Fox": "Likely R",
-    "Silver": "Likely R"
+    "Silver": "Likely R",
+    "RCP": "Tossup"
    },
    "on_ratings_list": true,
    "url": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_South_Carolina#District_1",
@@ -23619,11 +23869,11 @@
    "n_polls": 2,
    "n_polls_60d": 1,
    "last_poll": "2026-09-10",
-   "days_since_poll": 18,
+   "days_since_poll": 19,
    "trend": null,
-   "rating_score": -2.0,
+   "rating_score": -1.5,
    "rating_consensus": "Likely R",
-   "hot_score": 12.0
+   "hot_score": 14.0
   },
   {
    "office": "House",
@@ -23638,8 +23888,7 @@
     "DDHQ": "Safe R",
     "Cook": "Solid R",
     "IE": "Solid R",
-    "Sabato": "Safe R",
-    "Race to the WH": "Safe R"
+    "Sabato": "Safe R"
    },
    "on_ratings_list": false,
    "url": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_South_Carolina#District_7",
@@ -23681,7 +23930,7 @@
    "n_polls": 1,
    "n_polls_60d": 0,
    "last_poll": "2026-07-28",
-   "days_since_poll": 62,
+   "days_since_poll": 63,
    "trend": null,
    "rating_score": -3.0,
    "rating_consensus": "Safe R",
@@ -23705,7 +23954,8 @@
     "DDHQ": "Safe R",
     "FPO": "Safe R",
     "Fox": "Solid R",
-    "Silver": "Likely R"
+    "Silver": "Likely R",
+    "RCP": "Likely R"
    },
    "on_ratings_list": true,
    "url": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Tennessee#District_5",
@@ -23748,7 +23998,7 @@
    "n_polls": 1,
    "n_polls_60d": 1,
    "last_poll": "2026-08-24",
-   "days_since_poll": 35,
+   "days_since_poll": 36,
    "trend": null,
    "rating_score": -3.0,
    "rating_consensus": "Safe R",
@@ -23772,7 +24022,8 @@
     "DDHQ": "Likely R",
     "FPO": "Likely R",
     "Fox": "Solid R",
-    "Silver": "Likely R"
+    "Silver": "Likely R",
+    "RCP": "Likely R"
    },
    "on_ratings_list": true,
    "url": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Tennessee#District_9",
@@ -23815,7 +24066,7 @@
    "n_polls": 1,
    "n_polls_60d": 1,
    "last_poll": "2026-09-03",
-   "days_since_poll": 25,
+   "days_since_poll": 26,
    "trend": null,
    "rating_score": -2.0,
    "rating_consensus": "Likely R",
@@ -23839,7 +24090,8 @@
     "DDHQ": "Lean R",
     "FPO": "Lean R",
     "Fox": "Lean R",
-    "Silver": "Lean R"
+    "Silver": "Lean R",
+    "RCP": "Lean D"
    },
    "on_ratings_list": true,
    "url": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Texas#District_15",
@@ -23939,11 +24191,11 @@
    "n_polls": 4,
    "n_polls_60d": 1,
    "last_poll": "2026-08-22",
-   "days_since_poll": 37,
+   "days_since_poll": 38,
    "trend": null,
-   "rating_score": -1.0,
+   "rating_score": -0.75,
    "rating_consensus": "Lean R",
-   "hot_score": 11.7
+   "hot_score": 9.7
   },
   {
    "office": "House",
@@ -23963,7 +24215,8 @@
     "DDHQ": "Likely R",
     "FPO": "Likely R",
     "Fox": "Likely R",
-    "Silver": "Tossup"
+    "Silver": "Tossup",
+    "RCP": "Tossup"
    },
    "on_ratings_list": true,
    "url": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Texas#District_23",
@@ -24006,7 +24259,7 @@
    "n_polls": 1,
    "n_polls_60d": 0,
    "last_poll": "2026-03-11",
-   "days_since_poll": 201,
+   "days_since_poll": 202,
    "trend": null,
    "rating_score": -2.0,
    "rating_consensus": "Likely R",
@@ -24030,7 +24283,8 @@
     "DDHQ": "Likely D",
     "FPO": "Likely D",
     "Fox": "Lean D",
-    "Silver": "Lean D"
+    "Silver": "Lean D",
+    "RCP": "Lean D"
    },
    "on_ratings_list": true,
    "url": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Texas#District_28",
@@ -24092,7 +24346,7 @@
    "n_polls": 2,
    "n_polls_60d": 1,
    "last_poll": "2026-08-22",
-   "days_since_poll": 37,
+   "days_since_poll": 38,
    "trend": null,
    "rating_score": 1.0,
    "rating_consensus": "Lean D",
@@ -24116,7 +24370,8 @@
     "DDHQ": "Lean D",
     "FPO": "Lean D",
     "Fox": "Lean D",
-    "Silver": "Lean D"
+    "Silver": "Lean D",
+    "RCP": "Lean D"
    },
    "on_ratings_list": true,
    "url": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Texas#District_34",
@@ -24197,7 +24452,7 @@
    "n_polls": 3,
    "n_polls_60d": 1,
    "last_poll": "2026-08-22",
-   "days_since_poll": 37,
+   "days_since_poll": 38,
    "trend": null,
    "rating_score": 1.0,
    "rating_consensus": "Lean D",
@@ -24221,7 +24476,8 @@
     "DDHQ": "Lean R",
     "FPO": "Tossup",
     "Fox": "Lean R",
-    "Silver": "Lean R"
+    "Silver": "Lean R",
+    "RCP": "Tossup"
    },
    "on_ratings_list": true,
    "url": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Texas#District_35",
@@ -24264,7 +24520,7 @@
    "n_polls": 1,
    "n_polls_60d": 1,
    "last_poll": "2026-08-31",
-   "days_since_poll": 28,
+   "days_since_poll": 29,
    "trend": null,
    "rating_score": -1.0,
    "rating_consensus": "Lean R",
@@ -24297,6 +24553,25 @@
      "pollster": "Crosby for Congress (D)",
      "partisan": "D",
      "sponsor": null,
+     "dates": "September 21-23, 2026",
+     "end": "2026-09-23",
+     "n": 657,
+     "pop": "LV",
+     "moe": 3.8,
+     "d": 35.0,
+     "r": 32.0,
+     "other": 10.0,
+     "undecided": 23.0,
+     "margin": 3.0,
+     "cands": {
+      "R": 32.0,
+      "D": 35.0
+     }
+    },
+    {
+     "pollster": "Crosby for Congress (D)",
+     "partisan": "D",
+     "sponsor": null,
      "dates": "September 8-10, 2026",
      "end": "2026-09-10",
      "n": 762,
@@ -24315,22 +24590,22 @@
    ],
    "hypothetical_tables": 0,
    "aggregates": [],
-   "avg": -1.0,
+   "avg": 1.0,
    "avg_nonpartisan": null,
-   "avg_basis": "1 polls, last 30d",
+   "avg_basis": "2 polls, last 30d",
    "avg_by_party": {
     "R": 32.0,
-    "D": 31.0
+    "D": 33.0
    },
    "multi": true,
-   "n_polls": 1,
-   "n_polls_60d": 1,
-   "last_poll": "2026-09-10",
-   "days_since_poll": 18,
+   "n_polls": 2,
+   "n_polls_60d": 2,
+   "last_poll": "2026-09-23",
+   "days_since_poll": 6,
    "trend": null,
    "rating_score": -3.0,
    "rating_consensus": "Safe R",
-   "hot_score": 10.0
+   "hot_score": 11.0
   },
   {
    "office": "House",
@@ -24444,7 +24719,7 @@
    "n_polls": 4,
    "n_polls_60d": 2,
    "last_poll": "2026-09-21",
-   "days_since_poll": 7,
+   "days_since_poll": 8,
    "trend": null,
    "rating_score": 3.0,
    "rating_consensus": "Safe D",
@@ -24468,7 +24743,8 @@
     "DDHQ": "Likely R",
     "FPO": "Lean D",
     "Fox": "Tossup",
-    "Silver": "Tossup"
+    "Silver": "Tossup",
+    "RCP": "Tossup"
    },
    "on_ratings_list": true,
    "url": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Virginia#District_1",
@@ -24530,7 +24806,7 @@
    "n_polls": 2,
    "n_polls_60d": 1,
    "last_poll": "2026-09-17",
-   "days_since_poll": 11,
+   "days_since_poll": 12,
    "trend": null,
    "rating_score": 0.0,
    "rating_consensus": "Toss-up",
@@ -24554,7 +24830,8 @@
     "DDHQ": "Likely D",
     "FPO": "Likely D",
     "Fox": "Lean D",
-    "Silver": "Likely D"
+    "Silver": "Likely D",
+    "RCP": "Lean D"
    },
    "on_ratings_list": true,
    "url": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Virginia#District_2",
@@ -24597,7 +24874,7 @@
    "n_polls": 1,
    "n_polls_60d": 0,
    "last_poll": "2026-07-13",
-   "days_since_poll": 77,
+   "days_since_poll": 78,
    "trend": null,
    "rating_score": 1.0,
    "rating_consensus": "Lean D",
@@ -24621,7 +24898,8 @@
     "DDHQ": "Likely R",
     "FPO": "Lean R",
     "Fox": "Lean R",
-    "Silver": "Lean R"
+    "Silver": "Lean R",
+    "RCP": "Tossup"
    },
    "on_ratings_list": true,
    "url": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Virginia#District_5",
@@ -24664,7 +24942,7 @@
    "n_polls": 1,
    "n_polls_60d": 1,
    "last_poll": "2026-08-01",
-   "days_since_poll": 58,
+   "days_since_poll": 59,
    "trend": null,
    "rating_score": -1.0,
    "rating_consensus": "Lean R",
@@ -24688,7 +24966,8 @@
     "DDHQ": "Likely D",
     "FPO": "Likely D",
     "Fox": "Lean D",
-    "Silver": "Likely D"
+    "Silver": "Likely D",
+    "RCP": "Lean D"
    },
    "on_ratings_list": true,
    "url": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Washington#District_3",
@@ -24750,11 +25029,11 @@
    "n_polls": 2,
    "n_polls_60d": 0,
    "last_poll": "2026-07-10",
-   "days_since_poll": 80,
+   "days_since_poll": 81,
    "trend": null,
-   "rating_score": 2.0,
+   "rating_score": 1.5,
    "rating_consensus": "Likely D",
-   "hot_score": 7.0
+   "hot_score": 9.0
   },
   {
    "office": "House",
@@ -24774,7 +25053,8 @@
     "DDHQ": "Likely R",
     "FPO": "Safe R",
     "Fox": "Solid R",
-    "Silver": "Solid R"
+    "Silver": "Solid R",
+    "RCP": "Solid R"
    },
    "on_ratings_list": true,
    "url": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Washington#District_4",
@@ -24817,7 +25097,7 @@
    "n_polls": 1,
    "n_polls_60d": 0,
    "last_poll": "2026-02-05",
-   "days_since_poll": 235,
+   "days_since_poll": 236,
    "trend": null,
    "rating_score": -3.0,
    "rating_consensus": "Safe R",
@@ -24841,7 +25121,8 @@
     "DDHQ": "Likely R",
     "FPO": "Lean R",
     "Fox": "Solid R",
-    "Silver": "Likely R"
+    "Silver": "Likely R",
+    "RCP": "Lean R"
    },
    "on_ratings_list": true,
    "url": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Washington#District_5",
@@ -24887,7 +25168,7 @@
    "n_polls": 1,
    "n_polls_60d": 0,
    "last_poll": "2026-03-19",
-   "days_since_poll": 193,
+   "days_since_poll": 194,
    "trend": null,
    "rating_score": -3.0,
    "rating_consensus": "Safe R",
@@ -24911,7 +25192,8 @@
     "DDHQ": "Lean R",
     "FPO": "Tossup",
     "Fox": "Likely R",
-    "Silver": "Lean R"
+    "Silver": "Lean R",
+    "RCP": "Tossup"
    },
    "on_ratings_list": true,
    "url": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Wisconsin#District_1",
@@ -24973,7 +25255,7 @@
    "n_polls": 2,
    "n_polls_60d": 1,
    "last_poll": "2026-08-09",
-   "days_since_poll": 50,
+   "days_since_poll": 51,
    "trend": null,
    "rating_score": -1.0,
    "rating_consensus": "Lean R",
@@ -24997,7 +25279,8 @@
     "DDHQ": "Lean D",
     "FPO": "Lean D",
     "Fox": "Tossup",
-    "Silver": "Lean D"
+    "Silver": "Lean D",
+    "RCP": "Lean D"
    },
    "on_ratings_list": true,
    "url": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Wisconsin#District_3",
@@ -25097,7 +25380,7 @@
    "n_polls": 4,
    "n_polls_60d": 0,
    "last_poll": "2026-06-25",
-   "days_since_poll": 95,
+   "days_since_poll": 96,
    "trend": null,
    "rating_score": 1.0,
    "rating_consensus": "Lean D",
@@ -25121,7 +25404,8 @@
     "DDHQ": "Likely R",
     "FPO": "Safe R",
     "Fox": "Solid R",
-    "Silver": "Solid R"
+    "Silver": "Solid R",
+    "RCP": "Solid R"
    },
    "on_ratings_list": true,
    "url": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Wisconsin#District_6",
@@ -25164,7 +25448,7 @@
    "n_polls": 1,
    "n_polls_60d": 0,
    "last_poll": "2026-05-28",
-   "days_since_poll": 123,
+   "days_since_poll": 124,
    "trend": null,
    "rating_score": -3.0,
    "rating_consensus": "Safe R",
@@ -25191,7 +25475,8 @@
     "DDHQ": "Lean D",
     "FPO": "Likely D",
     "Fox": "Lean D",
-    "Silver": "Lean D"
+    "Silver": "Lean D",
+    "RCP": "Lean D"
    },
    "pvi": "R+1",
    "incumbent": "David Schweikert (retiring)",
@@ -25232,7 +25517,8 @@
     "DDHQ": "Likely R",
     "FPO": "Safe R",
     "Fox": "Solid R",
-    "Silver": "Solid R"
+    "Silver": "Solid R",
+    "RCP": "Solid R"
    },
    "pvi": "R+10",
    "incumbent": "Andy Biggs (retiring)",
@@ -25273,7 +25559,8 @@
     "DDHQ": "Likely R",
     "FPO": "Likely R",
     "Fox": "Solid R",
-    "Silver": "Likely R"
+    "Silver": "Likely R",
+    "RCP": "Solid R"
    },
    "pvi": "R+8",
    "incumbent": "Abraham Hamadeh",
@@ -25289,9 +25576,9 @@
    "last_poll": null,
    "days_since_poll": null,
    "trend": null,
-   "rating_score": -2.0,
-   "rating_consensus": "Likely R",
-   "hot_score": 2
+   "rating_score": -2.5,
+   "rating_consensus": "Safe R",
+   "hot_score": 0
   },
   {
    "office": "House",
@@ -25314,7 +25601,8 @@
     "DDHQ": "Likely R",
     "FPO": "Safe R",
     "Fox": "Solid R",
-    "Silver": "Solid R"
+    "Silver": "Solid R",
+    "RCP": "Solid R"
    },
    "pvi": "R+10",
    "incumbent": "Tom McClintock",
@@ -25355,7 +25643,8 @@
     "DDHQ": "Likely D",
     "FPO": "Safe D",
     "Fox": "Lean D",
-    "Silver": "Solid D"
+    "Silver": "Solid D",
+    "RCP": "Likely D"
    },
    "pvi": "D+2",
    "incumbent": "Adam Gray",
@@ -25393,10 +25682,11 @@
     "Sabato": "Likely D",
     "Econ": "Safe D",
     "ST": "Safe D",
-    "DDHQ": "Likely D",
+    "DDHQ": "Safe D",
     "FPO": "Safe D",
     "Fox": "Likely D",
-    "Silver": "Solid D"
+    "Silver": "Solid D",
+    "RCP": "Solid D"
    },
    "pvi": "D+5",
    "incumbent": "Jim Costa",
@@ -25437,7 +25727,8 @@
     "DDHQ": "Likely D",
     "FPO": "Safe D",
     "Fox": "Likely D",
-    "Silver": "Solid D"
+    "Silver": "Solid D",
+    "RCP": "Solid D"
    },
    "pvi": "D+3",
    "incumbent": "Derek Tran",
@@ -25453,9 +25744,9 @@
    "last_poll": null,
    "days_since_poll": null,
    "trend": null,
-   "rating_score": 2.0,
-   "rating_consensus": "Likely D",
-   "hot_score": 2
+   "rating_score": 2.5,
+   "rating_consensus": "Safe D",
+   "hot_score": 0
   },
   {
    "office": "House",
@@ -25478,7 +25769,8 @@
     "DDHQ": "Likely R",
     "FPO": "Likely R",
     "Fox": "Likely R",
-    "Silver": "Likely R"
+    "Silver": "Likely R",
+    "RCP": "Tossup"
    },
    "pvi": "R+9",
    "incumbent": "Lauren Boebert",
@@ -25519,7 +25811,8 @@
     "DDHQ": "Likely R",
     "FPO": "Safe R",
     "Fox": "Solid R",
-    "Silver": "Solid R"
+    "Silver": "Solid R",
+    "RCP": "Solid R"
    },
    "pvi": "R+10",
    "incumbent": "Kat Cammack",
@@ -25560,7 +25853,8 @@
     "DDHQ": "Likely R",
     "FPO": "Likely R",
     "Fox": "Solid R",
-    "Silver": "Likely R"
+    "Silver": "Likely R",
+    "RCP": "Solid R"
    },
    "pvi": "R+5",
    "incumbent": "Aaron Bean",
@@ -25576,9 +25870,9 @@
    "last_poll": null,
    "days_since_poll": null,
    "trend": null,
-   "rating_score": -2.0,
-   "rating_consensus": "Likely R",
-   "hot_score": 2
+   "rating_score": -2.5,
+   "rating_consensus": "Safe R",
+   "hot_score": 0
   },
   {
    "office": "House",
@@ -25601,7 +25895,8 @@
     "DDHQ": "Likely R",
     "FPO": "Safe R",
     "Fox": "Solid R",
-    "Silver": "Solid R"
+    "Silver": "Solid R",
+    "RCP": "Solid R"
    },
    "pvi": "R+10",
    "incumbent": "John Rutherford",
@@ -25642,7 +25937,8 @@
     "DDHQ": "Likely R",
     "FPO": "Safe R",
     "Fox": "Solid R",
-    "Silver": "Likely R"
+    "Silver": "Likely R",
+    "RCP": "Solid R"
    },
    "pvi": "R+9",
    "incumbent": "Laurel Lee",
@@ -25683,7 +25979,8 @@
     "DDHQ": "Likely R",
     "FPO": "Likely R",
     "Fox": "Solid R",
-    "Silver": "Solid R"
+    "Silver": "Solid R",
+    "RCP": "Solid R"
    },
    "pvi": "R+8",
    "incumbent": "Scott Franklin",
@@ -25724,7 +26021,8 @@
     "DDHQ": "Likely R",
     "FPO": "Safe R",
     "Fox": "Solid R",
-    "Silver": "Solid R"
+    "Silver": "Solid R",
+    "RCP": "Solid R"
    },
    "pvi": "R+7",
    "incumbent": "Brian Mast",
@@ -25765,7 +26063,8 @@
     "DDHQ": "Likely R",
     "FPO": "Safe R",
     "Fox": "Solid R",
-    "Silver": "Solid R"
+    "Silver": "Solid R",
+    "RCP": "Solid R"
    },
    "pvi": "R+7",
    "incumbent": "Mario Díaz-Balart",
@@ -25806,7 +26105,8 @@
     "DDHQ": "Likely R",
     "FPO": "Likely R",
     "Fox": "Solid R",
-    "Silver": "Likely R"
+    "Silver": "Likely R",
+    "RCP": "Solid R"
    },
    "pvi": "R+8",
    "incumbent": "Buddy Carter (retiring)",
@@ -25847,7 +26147,8 @@
     "DDHQ": "Likely R",
     "FPO": "Likely R",
     "Fox": "Solid R",
-    "Silver": "Solid R"
+    "Silver": "Solid R",
+    "RCP": "Solid R"
    },
    "pvi": "R+7",
    "incumbent": "Rick Allen",
@@ -25865,47 +26166,6 @@
    "trend": null,
    "rating_score": -3.0,
    "rating_consensus": "Safe R",
-   "hot_score": 0
-  },
-  {
-   "office": "House",
-   "state": "Illinois",
-   "district": "14",
-   "special": false,
-   "id": "IL-14",
-   "label": "IL-14",
-   "url": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_election_ratings",
-   "candidates": {},
-   "polls": [],
-   "hypothetical_tables": 0,
-   "aggregates": [],
-   "ratings": {
-    "Cook": "Solid D",
-    "IE": "Solid D",
-    "Sabato": "Safe D",
-    "Econ": "Safe D",
-    "ST": "Safe D",
-    "DDHQ": "Likely D",
-    "FPO": "Safe D",
-    "Fox": "Solid D",
-    "Silver": "Solid D"
-   },
-   "pvi": "D+3",
-   "incumbent": "Lauren Underwood",
-   "last_election": "55.1% D",
-   "on_ratings_list": true,
-   "avg": null,
-   "avg_nonpartisan": null,
-   "avg_basis": null,
-   "avg_by_party": {},
-   "multi": false,
-   "n_polls": 0,
-   "n_polls_60d": 0,
-   "last_poll": null,
-   "days_since_poll": null,
-   "trend": null,
-   "rating_score": 3.0,
-   "rating_consensus": "Safe D",
    "hot_score": 0
   },
   {
@@ -25929,7 +26189,8 @@
     "DDHQ": "Likely D",
     "FPO": "Safe D",
     "Fox": "Solid D",
-    "Silver": "Solid D"
+    "Silver": "Solid D",
+    "RCP": "Solid D"
    },
    "pvi": "D+3",
    "incumbent": "Eric Sorensen",
@@ -25970,7 +26231,8 @@
     "DDHQ": "Safe D",
     "FPO": "Safe D",
     "Fox": "Likely D",
-    "Silver": "Solid D"
+    "Silver": "Solid D",
+    "RCP": "Likely D"
    },
    "pvi": "D+1",
    "incumbent": "Frank J. Mrvan",
@@ -25986,7 +26248,7 @@
    "last_poll": null,
    "days_since_poll": null,
    "trend": null,
-   "rating_score": 3.0,
+   "rating_score": 2.5,
    "rating_consensus": "Safe D",
    "hot_score": 0
   },
@@ -26011,7 +26273,8 @@
     "DDHQ": "Likely R",
     "FPO": "Safe R",
     "Fox": "Solid R",
-    "Silver": "Solid R"
+    "Silver": "Solid R",
+    "RCP": "Solid R"
    },
    "pvi": "R+10",
    "incumbent": "Derek Schmidt",
@@ -26052,7 +26315,8 @@
     "DDHQ": "Likely D",
     "FPO": "Safe D",
     "Fox": "Solid D",
-    "Silver": "Solid D"
+    "Silver": "Solid D",
+    "RCP": "Solid D"
    },
    "pvi": "D+2",
    "incumbent": "Sharice Davids",
@@ -26093,7 +26357,8 @@
     "DDHQ": "Likely R",
     "FPO": "Safe R",
     "Fox": "Solid R",
-    "Silver": "Solid R"
+    "Silver": "Solid R",
+    "RCP": "Solid R"
    },
    "pvi": "R+11",
    "incumbent": "Jack Bergman",
@@ -26134,7 +26399,8 @@
     "DDHQ": "Safe D",
     "FPO": "Safe D",
     "Fox": "Solid D",
-    "Silver": "Solid D"
+    "Silver": "Solid D",
+    "RCP": "Solid D"
    },
    "pvi": "D+4",
    "incumbent": "Hillary Scholten",
@@ -26175,7 +26441,8 @@
     "DDHQ": "Safe D",
     "FPO": "Safe D",
     "Fox": "Likely D",
-    "Silver": "Solid D"
+    "Silver": "Solid D",
+    "RCP": "Solid D"
    },
    "pvi": "R+1",
    "incumbent": "Kristen McDonald Rivet",
@@ -26216,7 +26483,8 @@
     "DDHQ": "Likely R",
     "FPO": "Likely R",
     "Fox": "Solid R",
-    "Silver": "Likely R"
+    "Silver": "Likely R",
+    "RCP": "Likely R"
    },
    "pvi": "R+7",
    "incumbent": "Pete Stauber",
@@ -26232,90 +26500,8 @@
    "last_poll": null,
    "days_since_poll": null,
    "trend": null,
-   "rating_score": -3.0,
+   "rating_score": -2.5,
    "rating_consensus": "Safe R",
-   "hot_score": 0
-  },
-  {
-   "office": "House",
-   "state": "Missouri",
-   "district": "3",
-   "special": false,
-   "id": "MO-03",
-   "label": "MO-3",
-   "url": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_election_ratings",
-   "candidates": {},
-   "polls": [],
-   "hypothetical_tables": 0,
-   "aggregates": [],
-   "ratings": {
-    "Cook": "Solid R",
-    "IE": "Solid R",
-    "Sabato": "Safe R",
-    "Econ": "Safe R",
-    "ST": "Safe R",
-    "DDHQ": "Likely R",
-    "FPO": "Safe R",
-    "Fox": "Solid R",
-    "Silver": "Solid R"
-   },
-   "pvi": "R+10",
-   "incumbent": "Bob Onder",
-   "last_election": "61.3% R",
-   "on_ratings_list": true,
-   "avg": null,
-   "avg_nonpartisan": null,
-   "avg_basis": null,
-   "avg_by_party": {},
-   "multi": false,
-   "n_polls": 0,
-   "n_polls_60d": 0,
-   "last_poll": null,
-   "days_since_poll": null,
-   "trend": null,
-   "rating_score": -3.0,
-   "rating_consensus": "Safe R",
-   "hot_score": 0
-  },
-  {
-   "office": "House",
-   "state": "Missouri",
-   "district": "5",
-   "special": false,
-   "id": "MO-05",
-   "label": "MO-5",
-   "url": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_election_ratings",
-   "candidates": {},
-   "polls": [],
-   "hypothetical_tables": 0,
-   "aggregates": [],
-   "ratings": {
-    "Cook": "Solid D",
-    "IE": "Solid D",
-    "Sabato": "Safe D",
-    "Econ": "Safe D",
-    "ST": "Safe D",
-    "DDHQ": "Likely R",
-    "FPO": "Safe D",
-    "Fox": "Solid D",
-    "Silver": "Solid D"
-   },
-   "pvi": "D+12",
-   "incumbent": "Emanuel Cleaver",
-   "last_election": "60.2% D",
-   "on_ratings_list": true,
-   "avg": null,
-   "avg_nonpartisan": null,
-   "avg_basis": null,
-   "avg_by_party": {},
-   "multi": false,
-   "n_polls": 0,
-   "n_polls_60d": 0,
-   "last_poll": null,
-   "days_since_poll": null,
-   "trend": null,
-   "rating_score": 3.0,
-   "rating_consensus": "Safe D",
    "hot_score": 0
   },
   {
@@ -26339,7 +26525,8 @@
     "DDHQ": "Likely D",
     "FPO": "Safe D",
     "Fox": "Likely D",
-    "Silver": "Solid D"
+    "Silver": "Solid D",
+    "RCP": "Likely D"
    },
    "pvi": "D+2",
    "incumbent": "Dina Titus",
@@ -26380,7 +26567,8 @@
     "DDHQ": "Likely D",
     "FPO": "Safe D",
     "Fox": "Likely D",
-    "Silver": "Likely D"
+    "Silver": "Likely D",
+    "RCP": "Likely D"
    },
    "pvi": "D+1",
    "incumbent": "Susie Lee",
@@ -26421,7 +26609,8 @@
     "DDHQ": "Likely D",
     "FPO": "Safe D",
     "Fox": "Likely D",
-    "Silver": "Solid D"
+    "Silver": "Solid D",
+    "RCP": "Likely D"
    },
    "pvi": "D+2",
    "incumbent": "Steven Horsford",
@@ -26462,7 +26651,8 @@
     "DDHQ": "Likely R",
     "FPO": "Likely R",
     "Fox": "Likely R",
-    "Silver": "Likely R"
+    "Silver": "Likely R",
+    "RCP": "Tossup"
    },
    "pvi": "R+5",
    "incumbent": "Jeff Van Drew",
@@ -26503,52 +26693,12 @@
     "DDHQ": "Safe D",
     "FPO": "Safe D",
     "Fox": "Likely D",
-    "Silver": "Solid D"
+    "Silver": "Solid D",
+    "RCP": "Solid D"
    },
    "pvi": "D+2",
    "incumbent": "Nellie Pou",
    "last_election": "50.8% D",
-   "on_ratings_list": true,
-   "avg": null,
-   "avg_nonpartisan": null,
-   "avg_basis": null,
-   "avg_by_party": {},
-   "multi": false,
-   "n_polls": 0,
-   "n_polls_60d": 0,
-   "last_poll": null,
-   "days_since_poll": null,
-   "trend": null,
-   "rating_score": 3.0,
-   "rating_consensus": "Safe D",
-   "hot_score": 0
-  },
-  {
-   "office": "House",
-   "state": "New Mexico",
-   "district": "3",
-   "special": false,
-   "id": "NM-03",
-   "label": "NM-3",
-   "url": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_election_ratings",
-   "candidates": {},
-   "polls": [],
-   "hypothetical_tables": 0,
-   "aggregates": [],
-   "ratings": {
-    "Cook": "Solid D",
-    "IE": "Solid D",
-    "Sabato": "Safe D",
-    "Econ": "Safe D",
-    "ST": "Safe D",
-    "DDHQ": "Likely D",
-    "FPO": "Safe D",
-    "Fox": "Solid D",
-    "Silver": "Solid D"
-   },
-   "pvi": "D+3",
-   "incumbent": "Teresa Leger Fernandez",
-   "last_election": "56.3% D",
    "on_ratings_list": true,
    "avg": null,
    "avg_nonpartisan": null,
@@ -26585,7 +26735,8 @@
     "DDHQ": "Likely R",
     "FPO": "Likely R",
     "Fox": "Solid R",
-    "Silver": "Likely R"
+    "Silver": "Likely R",
+    "RCP": "Lean R"
    },
    "pvi": "R+6",
    "incumbent": "Andrew Garbarino",
@@ -26601,7 +26752,7 @@
    "last_poll": null,
    "days_since_poll": null,
    "trend": null,
-   "rating_score": -3.0,
+   "rating_score": -2.5,
    "rating_consensus": "Safe R",
    "hot_score": 0
   },
@@ -26626,7 +26777,8 @@
     "DDHQ": "Likely D",
     "FPO": "Safe D",
     "Fox": "Lean D",
-    "Silver": "Solid D"
+    "Silver": "Solid D",
+    "RCP": "Likely D"
    },
    "pvi": "EVEN",
    "incumbent": "Tom Suozzi",
@@ -26667,7 +26819,8 @@
     "DDHQ": "Likely D",
     "FPO": "Safe D",
     "Fox": "Likely D",
-    "Silver": "Solid D"
+    "Silver": "Solid D",
+    "RCP": "Solid D"
    },
    "pvi": "D+2",
    "incumbent": "Laura Gillen",
@@ -26683,9 +26836,9 @@
    "last_poll": null,
    "days_since_poll": null,
    "trend": null,
-   "rating_score": 2.0,
-   "rating_consensus": "Likely D",
-   "hot_score": 2
+   "rating_score": 2.5,
+   "rating_consensus": "Safe D",
+   "hot_score": 0
   },
   {
    "office": "House",
@@ -26708,7 +26861,8 @@
     "DDHQ": "Likely D",
     "FPO": "Safe D",
     "Fox": "Likely D",
-    "Silver": "Solid D"
+    "Silver": "Solid D",
+    "RCP": "Solid D"
    },
    "pvi": "D+1",
    "incumbent": "Josh Riley",
@@ -26724,49 +26878,8 @@
    "last_poll": null,
    "days_since_poll": null,
    "trend": null,
-   "rating_score": 2.0,
-   "rating_consensus": "Likely D",
-   "hot_score": 2
-  },
-  {
-   "office": "House",
-   "state": "New York",
-   "district": "23",
-   "special": false,
-   "id": "NY-23",
-   "label": "NY-23",
-   "url": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_election_ratings",
-   "candidates": {},
-   "polls": [],
-   "hypothetical_tables": 0,
-   "aggregates": [],
-   "ratings": {
-    "Cook": "Solid R",
-    "IE": "Solid R",
-    "Sabato": "Safe R",
-    "Econ": "Safe R",
-    "ST": "Safe R",
-    "DDHQ": "Likely R",
-    "FPO": "Safe R",
-    "Fox": "Solid R",
-    "Silver": "Solid R"
-   },
-   "pvi": "R+10",
-   "incumbent": "Nick Langworthy",
-   "last_election": "65.8% R",
-   "on_ratings_list": true,
-   "avg": null,
-   "avg_nonpartisan": null,
-   "avg_basis": null,
-   "avg_by_party": {},
-   "multi": false,
-   "n_polls": 0,
-   "n_polls_60d": 0,
-   "last_poll": null,
-   "days_since_poll": null,
-   "trend": null,
-   "rating_score": -3.0,
-   "rating_consensus": "Safe R",
+   "rating_score": 2.5,
+   "rating_consensus": "Safe D",
    "hot_score": 0
   },
   {
@@ -26790,7 +26903,8 @@
     "DDHQ": "Likely R",
     "FPO": "Safe R",
     "Fox": "Solid R",
-    "Silver": "Likely R"
+    "Silver": "Likely R",
+    "RCP": "Likely R"
    },
    "pvi": "R+9",
    "incumbent": "Virginia Foxx",
@@ -26831,7 +26945,8 @@
     "DDHQ": "Likely R",
     "FPO": "Likely R",
     "Fox": "Solid R",
-    "Silver": "Solid R"
+    "Silver": "Solid R",
+    "RCP": "Solid R"
    },
    "pvi": "R+9",
    "incumbent": "Addison McDowell",
@@ -26872,7 +26987,8 @@
     "DDHQ": "Likely R",
     "FPO": "Safe R",
     "Fox": "Solid R",
-    "Silver": "Solid R"
+    "Silver": "Solid R",
+    "RCP": "Solid R"
    },
    "pvi": "R+10",
    "incumbent": "Mark Harris",
@@ -26913,7 +27029,8 @@
     "DDHQ": "Likely R",
     "FPO": "Likely R",
     "Fox": "Solid R",
-    "Silver": "Likely R"
+    "Silver": "Likely R",
+    "RCP": "Likely R"
    },
    "pvi": "R+8",
    "incumbent": "Brad Knott",
@@ -26929,7 +27046,7 @@
    "last_poll": null,
    "days_since_poll": null,
    "trend": null,
-   "rating_score": -3.0,
+   "rating_score": -2.5,
    "rating_consensus": "Safe R",
    "hot_score": 0
   },
@@ -26954,7 +27071,8 @@
     "DDHQ": "Likely R",
     "FPO": "Likely R",
     "Fox": "Solid R",
-    "Silver": "Solid R"
+    "Silver": "Solid R",
+    "RCP": "Solid R"
    },
    "pvi": "R+8",
    "incumbent": "Warren Davidson",
@@ -26995,7 +27113,8 @@
     "DDHQ": "Likely D",
     "FPO": "Safe D",
     "Fox": "Likely D",
-    "Silver": "Solid D"
+    "Silver": "Solid D",
+    "RCP": "Solid D"
    },
    "pvi": "D+2",
    "incumbent": "Emilia Sykes",
@@ -27036,7 +27155,8 @@
     "DDHQ": "Likely R",
     "FPO": "Safe R",
     "Fox": "Solid R",
-    "Silver": "Solid R"
+    "Silver": "Solid R",
+    "RCP": "Solid R"
    },
    "pvi": "R+11",
    "incumbent": "Kevin Hern (retiring)",
@@ -27077,7 +27197,8 @@
     "DDHQ": "Likely R",
     "FPO": "Likely R",
     "Fox": "Solid R",
-    "Silver": "Solid R"
+    "Silver": "Solid R",
+    "RCP": "Solid R"
    },
    "pvi": "R+9",
    "incumbent": "Stephanie Bice",
@@ -27118,7 +27239,8 @@
     "DDHQ": "Safe D",
     "FPO": "Safe D",
     "Fox": "Solid D",
-    "Silver": "Solid D"
+    "Silver": "Solid D",
+    "RCP": "Solid D"
    },
    "pvi": "D+4",
    "incumbent": "Janelle Bynum",
@@ -27136,6 +27258,48 @@
    "trend": null,
    "rating_score": 3.0,
    "rating_consensus": "Safe D",
+   "hot_score": 0
+  },
+  {
+   "office": "House",
+   "state": "Pennsylvania",
+   "district": "11",
+   "special": false,
+   "id": "PA-11",
+   "label": "PA-11",
+   "url": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_election_ratings",
+   "candidates": {},
+   "polls": [],
+   "hypothetical_tables": 0,
+   "aggregates": [],
+   "ratings": {
+    "Cook": "Solid R",
+    "IE": "Solid R",
+    "Sabato": "Safe R",
+    "Econ": "Safe R",
+    "ST": "Safe R",
+    "DDHQ": "Likely R",
+    "FPO": "Solid R",
+    "Fox": "Solid R",
+    "Silver": "Solid R",
+    "RCP": "Solid R"
+   },
+   "pvi": "R+11",
+   "incumbent": "Lloyd Smucker",
+   "last_election": "62.9% R",
+   "on_ratings_list": true,
+   "avg": null,
+   "avg_nonpartisan": null,
+   "avg_basis": null,
+   "avg_by_party": {},
+   "multi": false,
+   "n_polls": 0,
+   "n_polls_60d": 0,
+   "last_poll": null,
+   "days_since_poll": null,
+   "trend": null,
+   "rating_score": -3.0,
+   "rating_consensus": "Safe R",
    "hot_score": 0
   },
   {
@@ -27159,7 +27323,8 @@
     "DDHQ": "Likely R",
     "FPO": "Likely R",
     "Fox": "Solid R",
-    "Silver": "Solid R"
+    "Silver": "Solid R",
+    "RCP": "Solid R"
    },
    "pvi": "R+7",
    "incumbent": "Joe Wilson",
@@ -27200,7 +27365,8 @@
     "DDHQ": "Safe R",
     "FPO": "Safe R",
     "Fox": "Solid R",
-    "Silver": "Solid R"
+    "Silver": "Solid R",
+    "RCP": "Solid R"
    },
    "pvi": "R+11",
    "incumbent": "Ralph Norman (retiring)",
@@ -27241,7 +27407,8 @@
     "DDHQ": "Safe R",
     "FPO": "Safe R",
     "Fox": "Solid R",
-    "Silver": "Solid R"
+    "Silver": "Solid R",
+    "RCP": "Solid R"
    },
    "pvi": "R+11",
    "incumbent": "Matt Van Epps",
@@ -27282,7 +27449,8 @@
     "DDHQ": "Safe R",
     "FPO": "Safe R",
     "Fox": "Solid R",
-    "Silver": "Solid R"
+    "Silver": "Solid R",
+    "RCP": "Solid R"
    },
    "pvi": "R+11",
    "incumbent": "Dan Crenshaw (lost renomination)",
@@ -27323,7 +27491,8 @@
     "DDHQ": "Likely R",
     "FPO": "Safe R",
     "Fox": "Solid R",
-    "Silver": "Solid R"
+    "Silver": "Solid R",
+    "RCP": "Solid R"
    },
    "pvi": "R+10",
    "incumbent": "Lance Gooden",
@@ -27364,7 +27533,8 @@
     "DDHQ": "Likely R",
     "FPO": "Safe R",
     "Fox": "Solid R",
-    "Silver": "Solid R"
+    "Silver": "Solid R",
+    "RCP": "Likely R"
    },
    "pvi": "R+9",
    "incumbent": "New seat",
@@ -27405,7 +27575,8 @@
     "DDHQ": "Likely R",
     "FPO": "Safe R",
     "Fox": "Solid R",
-    "Silver": "Solid R"
+    "Silver": "Solid R",
+    "RCP": "Solid R"
    },
    "pvi": "R+10",
    "incumbent": "Michael McCaul (retiring)",
@@ -27446,7 +27617,8 @@
     "DDHQ": "Safe R",
     "FPO": "Safe R",
     "Fox": "Solid R",
-    "Silver": "Solid R"
+    "Silver": "Solid R",
+    "RCP": "Solid R"
    },
    "pvi": "R+10",
    "incumbent": "Chip Roy (retiring)",
@@ -27487,7 +27659,8 @@
     "DDHQ": "Safe R",
     "FPO": "Safe R",
     "Fox": "Solid R",
-    "Silver": "Solid R"
+    "Silver": "Solid R",
+    "RCP": "Solid R"
    },
    "pvi": "R+11",
    "incumbent": "Troy Nehls (retiring)",
@@ -27528,7 +27701,8 @@
     "DDHQ": "Likely R",
     "FPO": "Likely R",
     "Fox": "Solid R",
-    "Silver": "Likely R"
+    "Silver": "Likely R",
+    "RCP": "Likely R"
    },
    "pvi": "R+8",
    "incumbent": "Beth Van Duyne",
@@ -27544,7 +27718,7 @@
    "last_poll": null,
    "days_since_poll": null,
    "trend": null,
-   "rating_score": -3.0,
+   "rating_score": -2.5,
    "rating_consensus": "Safe R",
    "hot_score": 0
   },
@@ -27569,7 +27743,8 @@
     "DDHQ": "Likely R",
     "FPO": "Safe R",
     "Fox": "Solid R",
-    "Silver": "Solid R"
+    "Silver": "Solid R",
+    "RCP": "Solid R"
    },
    "pvi": "R+10",
    "incumbent": "Michael Cloud",
@@ -27610,7 +27785,8 @@
     "DDHQ": "Likely R",
     "FPO": "Likely R",
     "Fox": "Solid R",
-    "Silver": "Likely R"
+    "Silver": "Likely R",
+    "RCP": "Likely R"
    },
    "pvi": "R+8",
    "incumbent": "New seat",
@@ -27626,7 +27802,7 @@
    "last_poll": null,
    "days_since_poll": null,
    "trend": null,
-   "rating_score": -3.0,
+   "rating_score": -2.5,
    "rating_consensus": "Safe R",
    "hot_score": 0
   },
@@ -27651,7 +27827,8 @@
     "DDHQ": "Likely R",
     "FPO": "Safe R",
     "Fox": "Solid R",
-    "Silver": "Solid R"
+    "Silver": "Solid R",
+    "RCP": "Solid R"
    },
    "pvi": "R+10",
    "incumbent": "Wesley Hunt (retiring)",
@@ -27692,7 +27869,8 @@
     "DDHQ": "Likely D",
     "FPO": "Safe D",
     "Fox": "Likely D",
-    "Silver": "Solid D"
+    "Silver": "Solid D",
+    "RCP": "Solid D"
    },
    "pvi": "D+2",
    "incumbent": "Eugene Vindman",
@@ -27708,9 +27886,9 @@
    "last_poll": null,
    "days_since_poll": null,
    "trend": null,
-   "rating_score": 2.0,
-   "rating_consensus": "Likely D",
-   "hot_score": 2
+   "rating_score": 2.5,
+   "rating_consensus": "Safe D",
+   "hot_score": 0
   },
   {
    "office": "House",
@@ -27733,7 +27911,8 @@
     "DDHQ": "Safe R",
     "FPO": "Safe R",
     "Fox": "Solid R",
-    "Silver": "Solid R"
+    "Silver": "Solid R",
+    "RCP": "Solid R"
    },
    "pvi": "R+11",
    "incumbent": "Tom Tiffany (retiring)",
@@ -27774,7 +27953,8 @@
     "DDHQ": "Likely R",
     "FPO": "Likely R",
     "Fox": "Solid R",
-    "Silver": "Solid R"
+    "Silver": "Solid R",
+    "RCP": "Solid R"
    },
    "pvi": "R+8",
    "incumbent": "Tony Wied",
