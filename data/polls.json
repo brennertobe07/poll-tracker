@@ -1,6 +1,6 @@
 {
- "generated": "2026-09-29T06:15:01",
- "as_of": "2026-09-29",
+ "generated": "2026-09-30T06:15:01",
+ "as_of": "2026-09-30",
  "settings": {
   "avg_days": 30,
   "active_days": 60
@@ -9,100 +9,113 @@
  "generic_ballot": [
   {
    "source": "Decision Desk HQ",
-   "updated": "September 28, 2026",
-   "r": 41.9,
-   "d": 49.6,
-   "margin_text": "Democrats +7.7%"
+   "updated": "September 29, 2026",
+   "r": 41.0,
+   "d": 48.8,
+   "margin_text": "Democrats +7.8%"
   },
   {
    "source": "FiftyPlusOne",
-   "updated": "September 28, 2026",
+   "updated": "September 29, 2026",
    "r": 43.1,
-   "d": 50.7,
-   "margin_text": "Democrats +7.6%"
+   "d": 50.8,
+   "margin_text": "Democrats +7.7%"
+  },
+  {
+   "source": "NBC News",
+   "updated": "September 29, 2026",
+   "r": 43.0,
+   "d": 52.0,
+   "margin_text": "Democrats +9.0%"
   },
   {
    "source": "RealClearPolitics",
-   "updated": "September 28, 2026",
-   "r": 42.1,
-   "d": 50.5,
-   "margin_text": "Democrats +8.4%"
+   "updated": "September 29, 2026",
+   "r": 42.3,
+   "d": 50.6,
+   "margin_text": "Democrats +8.3%"
   },
   {
    "source": "Silver Bulletin",
-   "updated": "September 28, 2026",
-   "r": 41.2,
-   "d": 49.6,
-   "margin_text": "Democrats +8.4%"
+   "updated": "September 29, 2026",
+   "r": 40.9,
+   "d": 49.8,
+   "margin_text": "Democrats +8.9%"
   },
   {
    "source": "Average",
-   "updated": "September 28, 2026",
+   "updated": "September 29, 2026",
    "r": 42.1,
-   "d": 50.1,
-   "margin_text": "Democrats +8.0%"
+   "d": 50.4,
+   "margin_text": "Democrats +8.3%"
   }
  ],
  "approval": [
   {
    "source": "Ballotpedia",
-   "updated": "September 28, 2026",
-   "approve": 39.0,
+   "updated": "September 29, 2026",
+   "approve": 38.0,
    "disapprove": 60.0
   },
   {
    "source": "CNN",
-   "updated": "September 24, 2026",
+   "updated": "September 29, 2026",
    "approve": 35.0,
    "disapprove": 64.0
   },
   {
    "source": "Decision Desk HQ",
-   "updated": "September 28, 2026",
-   "approve": 39.4,
-   "disapprove": 59.1
+   "updated": "September 29, 2026",
+   "approve": 37.7,
+   "disapprove": 60.2
   },
   {
    "source": "FiftyPlusOne",
-   "updated": "September 28, 2026",
-   "approve": 35.1,
-   "disapprove": 61.9
+   "updated": "September 29, 2026",
+   "approve": 34.9,
+   "disapprove": 62.1
   },
   {
    "source": "NBC News",
-   "updated": "September 24, 2026",
+   "updated": "September 29, 2026",
    "approve": 39.0,
    "disapprove": 59.0
   },
   {
    "source": "Real Clear Politics",
-   "updated": "September 28, 2026",
-   "approve": 38.7,
+   "updated": "September 29, 2026",
+   "approve": 38.6,
    "disapprove": 59.9
   },
   {
    "source": "Silver Bulletin",
-   "updated": "September 28, 2026",
+   "updated": "September 29, 2026",
    "approve": 37.4,
-   "disapprove": 60.2
+   "disapprove": 60.1
   },
   {
    "source": "The Economist",
-   "updated": "September 28, 2026",
+   "updated": "September 29, 2026",
    "approve": 35.0,
    "disapprove": 61.0
   },
   {
    "source": "The New York Times",
-   "updated": "September 24, 2026",
+   "updated": "September 29, 2026",
    "approve": 37.0,
    "disapprove": 60.0
   },
   {
+   "source": "RacetotheWH",
+   "updated": "September 29, 2026",
+   "approve": 36.4,
+   "disapprove": 61.1
+  },
+  {
    "source": "Average",
-   "updated": "September 28, 2026",
-   "approve": 37.3,
-   "disapprove": 60.6
+   "updated": "September 29, 2026",
+   "approve": 36.9,
+   "disapprove": 60.7
   }
  ],
  "balance": {
@@ -139,9 +152,9 @@
     "unrated": 0
    },
    "polls": {
-    "D": 48,
+    "D": 47,
     "R": 45,
-    "toss": 7,
+    "toss": 8,
     "unrated": 0
    },
    "raters": {
@@ -282,19 +295,19 @@
    },
    "base": {
     "D": 179,
-    "R": 115
+    "R": 112
    },
    "base_label": "safe seats off the ratings list",
    "d_label": "D",
-   "up": 141,
+   "up": 144,
    "buckets": {
     "safe_d": 16,
     "likely_d": 11,
     "lean_d": 19,
     "tossup": 8,
-    "lean_r": 12,
-    "likely_r": 22,
-    "safe_r": 53,
+    "lean_r": 13,
+    "likely_r": 26,
+    "safe_r": 51,
     "unrated": 0
    },
    "forecast": {
@@ -305,8 +318,8 @@
    },
    "polls": {
     "D": 221,
-    "R": 181,
-    "toss": 33,
+    "R": 178,
+    "toss": 36,
     "unrated": 0
    },
    "raters": {
@@ -321,9 +334,9 @@
      "toss": 17
     },
     "Sabato": {
-     "D": 211,
-     "R": 203,
-     "toss": 21
+     "D": 213,
+     "R": 202,
+     "toss": 20
     },
     "Econ": {
      "D": 225,
@@ -426,7 +439,7 @@
    "n_polls": 1,
    "n_polls_60d": 0,
    "last_poll": "2026-07-11",
-   "days_since_poll": 80,
+   "days_since_poll": 81,
    "trend": null,
    "rating_score": -3.0,
    "rating_consensus": "Safe R",
@@ -442,7 +455,7 @@
    "last_election": "53.90% R",
    "ratings": {
     "Cook": "Tossup",
-    "DDHQ": "Tossup",
+    "DDHQ": "Lean D",
     "Econ": "Tossup",
     "FPO": "Lean D",
     "Fox": "Tossup",
@@ -531,7 +544,7 @@
    "n_polls": 1,
    "n_polls_60d": 0,
    "last_poll": "2026-03-22",
-   "days_since_poll": 191,
+   "days_since_poll": 192,
    "trend": null,
    "rating_score": 0.0,
    "rating_consensus": "Toss-up",
@@ -677,7 +690,7 @@
    "n_polls": 4,
    "n_polls_60d": 2,
    "last_poll": "2026-08-18",
-   "days_since_poll": 42,
+   "days_since_poll": 43,
    "trend": null,
    "rating_score": -3.0,
    "rating_consensus": "Safe R",
@@ -778,7 +791,7 @@
    "ratings": {
     "Cook": "Solid R",
     "DDHQ": "Likely R",
-    "Econ": "Likely R",
+    "Econ": "Lean R",
     "FPO": "Likely R",
     "Fox": "Solid R",
     "IE": "Solid R",
@@ -794,6 +807,25 @@
     "D": "Angie Nixon"
    },
    "polls": [
+    {
+     "pollster": "Change Research (D)",
+     "partisan": "D",
+     "sponsor": "Freedom Project USA",
+     "dates": "September 25-27, 2026",
+     "end": "2026-09-27",
+     "n": 1063,
+     "pop": "LV",
+     "moe": 2.8,
+     "d": 47.0,
+     "r": 48.0,
+     "other": 1.0,
+     "undecided": 5.0,
+     "margin": -1.0,
+     "cands": {
+      "R": 48.0,
+      "D": 47.0
+     }
+    },
     {
      "pollster": "Stetson University",
      "partisan": null,
@@ -996,22 +1028,22 @@
    ],
    "id": "FL-SEN-S",
    "label": "Florida (special)",
-   "avg": -5.0,
+   "avg": -4.3,
    "avg_nonpartisan": -5.5,
-   "avg_basis": "5 polls, last 30d",
+   "avg_basis": "6 polls, last 30d",
    "avg_by_party": {
-    "R": 48.4,
-    "D": 43.4
+    "R": 48.3,
+    "D": 44.0
    },
    "multi": false,
-   "n_polls": 9,
-   "n_polls_60d": 5,
-   "last_poll": "2026-09-21",
-   "days_since_poll": 8,
+   "n_polls": 10,
+   "n_polls_60d": 6,
+   "last_poll": "2026-09-27",
+   "days_since_poll": 3,
    "trend": null,
    "rating_score": -2.0,
    "rating_consensus": "Likely R",
-   "hot_score": 12.0
+   "hot_score": 13.7
   },
   {
    "office": "Senate",
@@ -1415,7 +1447,7 @@
    "n_polls": 17,
    "n_polls_60d": 7,
    "last_poll": "2026-09-23",
-   "days_since_poll": 6,
+   "days_since_poll": 7,
    "trend": 1.0,
    "rating_score": 2.0,
    "rating_consensus": "Likely D",
@@ -1506,7 +1538,7 @@
    "n_polls": 2,
    "n_polls_60d": 0,
    "last_poll": "2026-07-30",
-   "days_since_poll": 61,
+   "days_since_poll": 62,
    "trend": null,
    "rating_score": -3.0,
    "rating_consensus": "Safe R",
@@ -2027,7 +2059,7 @@
    "n_polls": 21,
    "n_polls_60d": 13,
    "last_poll": "2026-09-23",
-   "days_since_poll": 6,
+   "days_since_poll": 7,
    "trend": 1.2,
    "rating_score": 0.0,
    "rating_consensus": "Toss-up",
@@ -2202,11 +2234,6 @@
      "margin_text": "Marshall +0.4%"
     },
     {
-     "source": "Race to the WH",
-     "updated": "September 25, 2026",
-     "margin_text": "Hamilton +0.1%"
-    },
-    {
      "source": "RealClearPolitics",
      "updated": "September 18, 2026",
      "margin_text": "Marshall +1.5%"
@@ -2219,7 +2246,7 @@
     {
      "source": "Average",
      "updated": "Average",
-     "margin_text": "Marshall +0.5%"
+     "margin_text": "Marshall +0.8%"
     }
    ],
    "id": "KS-SEN",
@@ -2235,7 +2262,7 @@
    "n_polls": 7,
    "n_polls_60d": 5,
    "last_poll": "2026-09-24",
-   "days_since_poll": 5,
+   "days_since_poll": 6,
    "trend": -0.3,
    "rating_score": -1.0,
    "rating_consensus": "Lean R",
@@ -2328,7 +2355,7 @@
    "n_polls": 2,
    "n_polls_60d": 1,
    "last_poll": "2026-08-27",
-   "days_since_poll": 33,
+   "days_since_poll": 34,
    "trend": null,
    "rating_score": -3.0,
    "rating_consensus": "Safe R",
@@ -2415,7 +2442,7 @@
    "n_polls": 2,
    "n_polls_60d": 1,
    "last_poll": "2026-09-19",
-   "days_since_poll": 10,
+   "days_since_poll": 11,
    "trend": null,
    "rating_score": -3.0,
    "rating_consensus": "Safe R",
@@ -2785,7 +2812,7 @@
    "n_polls": 15,
    "n_polls_60d": 11,
    "last_poll": "2026-09-23",
-   "days_since_poll": 6,
+   "days_since_poll": 7,
    "trend": -3.4,
    "rating_score": 0.0,
    "rating_consensus": "Toss-up",
@@ -2818,6 +2845,25 @@
     "R": "John Deaton"
    },
    "polls": [
+    {
+     "pollster": "MassINC Polling Group",
+     "partisan": null,
+     "sponsor": null,
+     "dates": "September 14-22, 2026",
+     "end": "2026-09-22",
+     "n": 800,
+     "pop": "LV",
+     "moe": 4.0,
+     "d": 52.0,
+     "r": 26.0,
+     "other": 6.0,
+     "undecided": 14.0,
+     "margin": 26.0,
+     "cands": {
+      "D": 52.0,
+      "R": 26.0
+     }
+    },
     {
      "pollster": "University of New Hampshire",
      "partisan": null,
@@ -3029,22 +3075,22 @@
    ],
    "id": "MA-SEN",
    "label": "Massachusetts",
-   "avg": 23.0,
-   "avg_nonpartisan": 23.0,
-   "avg_basis": "1 polls, last 30d",
+   "avg": 24.5,
+   "avg_nonpartisan": 24.5,
+   "avg_basis": "2 polls, last 30d",
    "avg_by_party": {
-    "D": 53.0,
-    "R": 30.0
+    "D": 52.5,
+    "R": 28.0
    },
    "multi": false,
-   "n_polls": 10,
-   "n_polls_60d": 3,
-   "last_poll": "2026-09-21",
+   "n_polls": 11,
+   "n_polls_60d": 4,
+   "last_poll": "2026-09-22",
    "days_since_poll": 8,
-   "trend": 3.0,
+   "trend": 4.5,
    "rating_score": 3.0,
    "rating_consensus": "Safe D",
-   "hot_score": 3.0
+   "hot_score": 4.0
   },
   {
    "office": "Senate",
@@ -3073,6 +3119,25 @@
     "R": "Mike Rogers"
    },
    "polls": [
+    {
+     "pollster": "Marist University",
+     "partisan": null,
+     "sponsor": null,
+     "dates": "September 24-27, 2026",
+     "end": "2026-09-27",
+     "n": 1235,
+     "pop": "RV",
+     "moe": 3.8,
+     "d": 51.0,
+     "r": 44.0,
+     "other": 1.0,
+     "undecided": 3.0,
+     "margin": 7.0,
+     "cands": {
+      "D": 51.0,
+      "R": 44.0
+     }
+    },
     {
      "pollster": "Big Data Poll (R)",
      "partisan": "R",
@@ -3147,6 +3212,25 @@
      "cands": {
       "D": 49.0,
       "R": 44.0
+     }
+    },
+    {
+     "pollster": "Cygnal (R) / Beacon Research (D)",
+     "partisan": "R",
+     "sponsor": "Michigan Enjoyer",
+     "dates": "September 18-21, 2026",
+     "end": "2026-09-21",
+     "n": 600,
+     "pop": "LV",
+     "moe": 4.0,
+     "d": 45.0,
+     "r": 40.0,
+     "other": 1.0,
+     "undecided": 13.0,
+     "margin": 5.0,
+     "cands": {
+      "D": 45.0,
+      "R": 40.0
      }
     },
     {
@@ -3812,22 +3896,22 @@
    ],
    "id": "MI-SEN",
    "label": "Michigan",
-   "avg": 2.4,
-   "avg_nonpartisan": 3.0,
-   "avg_basis": "12 polls, last 30d",
+   "avg": 2.9,
+   "avg_nonpartisan": 3.6,
+   "avg_basis": "14 polls, last 30d",
    "avg_by_party": {
-    "D": 46.6,
-    "R": 44.2
+    "D": 46.8,
+    "R": 43.9
    },
    "multi": false,
-   "n_polls": 37,
-   "n_polls_60d": 21,
-   "last_poll": "2026-09-24",
-   "days_since_poll": 5,
-   "trend": -0.2,
+   "n_polls": 39,
+   "n_polls_60d": 22,
+   "last_poll": "2026-09-27",
+   "days_since_poll": 3,
+   "trend": -0.4,
    "rating_score": 1.0,
    "rating_consensus": "Lean D",
-   "hot_score": 22.6
+   "hot_score": 22.1
   },
   {
    "office": "Senate",
@@ -3856,6 +3940,25 @@
     "R": "Michele Tafoya"
    },
    "polls": [
+    {
+     "pollster": "InsiderAdvantage (R)",
+     "partisan": "R",
+     "sponsor": null,
+     "dates": "September 28-29, 2026",
+     "end": "2026-09-29",
+     "n": 1200,
+     "pop": "LV",
+     "moe": 3.0,
+     "d": 46.0,
+     "r": 45.0,
+     "other": 3.0,
+     "undecided": 6.0,
+     "margin": 1.0,
+     "cands": {
+      "D": 46.0,
+      "R": 45.0
+     }
+    },
     {
      "pollster": "co / efficient (R)",
      "partisan": "R",
@@ -4032,22 +4135,22 @@
    "aggregates": [],
    "id": "MN-SEN",
    "label": "Minnesota",
-   "avg": 1.8,
+   "avg": 1.6,
    "avg_nonpartisan": 0.0,
-   "avg_basis": "4 polls, last 30d",
+   "avg_basis": "5 polls, last 30d",
    "avg_by_party": {
-    "D": 44.2,
-    "R": 42.5
+    "D": 44.6,
+    "R": 43.0
    },
    "multi": false,
-   "n_polls": 9,
-   "n_polls_60d": 6,
-   "last_poll": "2026-09-15",
-   "days_since_poll": 14,
-   "trend": -3.2,
+   "n_polls": 10,
+   "n_polls_60d": 7,
+   "last_poll": "2026-09-29",
+   "days_since_poll": 1,
+   "trend": -3.4,
    "rating_score": 2.0,
    "rating_consensus": "Likely D",
-   "hot_score": 16.2
+   "hot_score": 17.4
   },
   {
    "office": "Senate",
@@ -4139,13 +4242,7 @@
     }
    ],
    "hypothetical_tables": 0,
-   "aggregates": [
-    {
-     "source": "Race to the WH",
-     "updated": "September 15, 2026",
-     "margin_text": "Hyde-Smith +8.9%"
-    }
-   ],
+   "aggregates": [],
    "id": "MS-SEN",
    "label": "Mississippi",
    "avg": -7.3,
@@ -4160,7 +4257,7 @@
    "n_polls": 3,
    "n_polls_60d": 1,
    "last_poll": "2026-08-15",
-   "days_since_poll": 45,
+   "days_since_poll": 46,
    "trend": null,
    "rating_score": -3.0,
    "rating_consensus": "Safe R",
@@ -4491,7 +4588,7 @@
    "n_polls": 12,
    "n_polls_60d": 5,
    "last_poll": "2026-09-15",
-   "days_since_poll": 14,
+   "days_since_poll": 15,
    "trend": 3.2,
    "rating_score": -3.0,
    "rating_consensus": "Safe R",
@@ -4559,7 +4656,7 @@
    "n_polls": 1,
    "n_polls_60d": 0,
    "last_poll": "2026-05-11",
-   "days_since_poll": 141,
+   "days_since_poll": 142,
    "trend": null,
    "rating_score": -2.0,
    "rating_consensus": "Likely R",
@@ -5053,22 +5150,22 @@
    "aggregates": [],
    "id": "NH-SEN",
    "label": "New Hampshire",
-   "avg": 5.3,
+   "avg": 6.3,
    "avg_nonpartisan": 6.5,
-   "avg_basis": "7 polls, last 30d",
+   "avg_basis": "6 polls, last 30d",
    "avg_by_party": {
-    "D": 46.0,
-    "R": 40.7
+    "D": 47.7,
+    "R": 41.3
    },
    "multi": false,
    "n_polls": 24,
    "n_polls_60d": 9,
    "last_poll": "2026-09-27",
-   "days_since_poll": 2,
-   "trend": 2.8,
+   "days_since_poll": 3,
+   "trend": 5.0,
    "rating_score": 1.5,
    "rating_consensus": "Likely D",
-   "hot_score": 17.7
+   "hot_score": 16.7
   },
   {
    "office": "Senate",
@@ -5174,7 +5271,7 @@
    "n_polls": 1,
    "n_polls_60d": 1,
    "last_poll": "2026-08-28",
-   "days_since_poll": 32,
+   "days_since_poll": 33,
    "trend": null,
    "rating_score": 3.0,
    "rating_consensus": "Safe D",
@@ -5960,10 +6057,10 @@
    },
    "multi": false,
    "n_polls": 37,
-   "n_polls_60d": 15,
+   "n_polls_60d": 14,
    "last_poll": "2026-09-22",
-   "days_since_poll": 7,
-   "trend": 0.0,
+   "days_since_poll": 8,
+   "trend": 0.5,
    "rating_score": 1.5,
    "rating_consensus": "Likely D",
    "hot_score": 15.0
@@ -5995,6 +6092,25 @@
     "D": "Sherrod Brown"
    },
    "polls": [
+    {
+     "pollster": "Big Data Poll (R)",
+     "partisan": "R",
+     "sponsor": "the Public Polling Project",
+     "dates": "September 26-27, 2026",
+     "end": "2026-09-27",
+     "n": 680,
+     "pop": "LV",
+     "moe": 4.0,
+     "d": 46.0,
+     "r": 43.0,
+     "other": null,
+     "undecided": null,
+     "margin": 3.0,
+     "cands": {
+      "R": 43.0,
+      "D": 46.0
+     }
+    },
     {
      "pollster": "Marist University",
      "partisan": null,
@@ -6475,58 +6591,58 @@
    "aggregates": [
     {
      "source": "270toWin",
-     "updated": "September 24, 2026",
-     "margin_text": "Brown +3.0%"
-    },
-    {
-     "source": "Decision Desk HQ",
-     "updated": "September 24, 2026",
-     "margin_text": "Brown +2.6%"
-    },
-    {
-     "source": "FiftyPlusOne",
-     "updated": "September 24, 2026",
-     "margin_text": "Brown +5.8%"
-    },
-    {
-     "source": "Race to the WH",
-     "updated": "September 24, 2026",
-     "margin_text": "Brown +4.7%"
-    },
-    {
-     "source": "RealClearPolitics",
-     "updated": "September 24, 2026",
+     "updated": "September 29, 2026",
      "margin_text": "Brown +4.0%"
     },
     {
+     "source": "Decision Desk HQ",
+     "updated": "September 29, 2026",
+     "margin_text": "Brown +4.5%"
+    },
+    {
+     "source": "FiftyPlusOne",
+     "updated": "September 29, 2026",
+     "margin_text": "Brown +5.1%"
+    },
+    {
+     "source": "Race to the WH",
+     "updated": "September 29, 2026",
+     "margin_text": "Brown +5.0%"
+    },
+    {
+     "source": "RealClearPolitics",
+     "updated": "September 29, 2026",
+     "margin_text": "Brown +3.8%"
+    },
+    {
      "source": "Silver Bulletin",
-     "updated": "September 16, 2026",
+     "updated": "September 29, 2026",
      "margin_text": "Brown +4.5%"
     },
     {
      "source": "Average",
      "updated": "Average",
-     "margin_text": "Brown +4.1%"
+     "margin_text": "Brown +4.5%"
     }
    ],
    "id": "OH-SEN-S",
    "label": "Ohio (special)",
-   "avg": 3.7,
+   "avg": 3.6,
    "avg_nonpartisan": 5.5,
-   "avg_basis": "6 polls, last 30d",
+   "avg_basis": "7 polls, last 30d",
    "avg_by_party": {
-    "R": 43.7,
-    "D": 47.3
+    "R": 43.6,
+    "D": 47.1
    },
    "multi": false,
-   "n_polls": 25,
-   "n_polls_60d": 10,
+   "n_polls": 26,
+   "n_polls_60d": 11,
    "last_poll": "2026-09-27",
-   "days_since_poll": 2,
-   "trend": -1.8,
+   "days_since_poll": 3,
+   "trend": -1.9,
    "rating_score": 0.0,
    "rating_consensus": "Toss-up",
-   "hot_score": 19.3
+   "hot_score": 19.4
   },
   {
    "office": "Senate",
@@ -6590,7 +6706,7 @@
    "n_polls": 1,
    "n_polls_60d": 1,
    "last_poll": "2026-08-06",
-   "days_since_poll": 54,
+   "days_since_poll": 55,
    "trend": null,
    "rating_score": -3.0,
    "rating_consensus": "Safe R",
@@ -6757,7 +6873,7 @@
    "n_polls": 4,
    "n_polls_60d": 2,
    "last_poll": "2026-09-21",
-   "days_since_poll": 8,
+   "days_since_poll": 9,
    "trend": 0.0,
    "rating_score": 3.0,
    "rating_consensus": "Safe D",
@@ -6932,7 +7048,7 @@
    "n_polls": 5,
    "n_polls_60d": 5,
    "last_poll": "2026-09-25",
-   "days_since_poll": 4,
+   "days_since_poll": 5,
    "trend": 1.8,
    "rating_score": -2.0,
    "rating_consensus": "Likely R",
@@ -7003,7 +7119,7 @@
    "n_polls": 1,
    "n_polls_60d": 0,
    "last_poll": "2026-05-30",
-   "days_since_poll": 122,
+   "days_since_poll": 123,
    "trend": null,
    "rating_score": -3.0,
    "rating_consensus": "Safe R",
@@ -7071,7 +7187,7 @@
    "n_polls": 1,
    "n_polls_60d": 1,
    "last_poll": "2026-08-26",
-   "days_since_poll": 34,
+   "days_since_poll": 35,
    "trend": null,
    "rating_score": -3.0,
    "rating_consensus": "Safe R",
@@ -7105,9 +7221,28 @@
    },
    "polls": [
     {
-     "pollster": "Big Data",
+     "pollster": "Pulse Decision Science (R)",
+     "partisan": "R",
+     "sponsor": "Paxton's campaign",
+     "dates": "September 24-27, 2026",
+     "end": "2026-09-27",
+     "n": 800,
+     "pop": "LV",
+     "moe": 3.5,
+     "d": 45.0,
+     "r": 48.0,
+     "other": null,
+     "undecided": 4.0,
+     "margin": -3.0,
+     "cands": {
+      "R": 48.0,
+      "D": 45.0
+     }
+    },
+    {
+     "pollster": "Big Data Poll",
      "partisan": null,
-     "sponsor": null,
+     "sponsor": "the Public Polling Project",
      "dates": "September 24-26, 2026",
      "end": "2026-09-26",
      "n": 698,
@@ -7924,22 +8059,22 @@
    ],
    "id": "TX-SEN",
    "label": "Texas",
-   "avg": 3.1,
+   "avg": 2.6,
    "avg_nonpartisan": 3.3,
-   "avg_basis": "13 polls, last 30d",
+   "avg_basis": "14 polls, last 30d",
    "avg_by_party": {
-    "R": 44.8,
-    "D": 47.8
+    "R": 45.0,
+    "D": 47.6
    },
    "multi": false,
-   "n_polls": 41,
-   "n_polls_60d": 19,
-   "last_poll": "2026-09-26",
+   "n_polls": 42,
+   "n_polls_60d": 18,
+   "last_poll": "2026-09-27",
    "days_since_poll": 3,
-   "trend": 0.9,
+   "trend": 0.6,
    "rating_score": 0.0,
    "rating_consensus": "Toss-up",
-   "hot_score": 19.9
+   "hot_score": 20.4
   },
   {
    "office": "Senate",
@@ -8022,7 +8157,7 @@
    "n_polls": 2,
    "n_polls_60d": 0,
    "last_poll": "2026-06-16",
-   "days_since_poll": 105,
+   "days_since_poll": 106,
    "trend": null,
    "rating_score": 3.0,
    "rating_consensus": "Safe D",
@@ -8190,7 +8325,7 @@
    "n_polls": 2,
    "n_polls_60d": 0,
    "last_poll": "2026-07-11",
-   "days_since_poll": 80,
+   "days_since_poll": 81,
    "trend": null,
    "rating_score": -3.0,
    "rating_consensus": "Safe R",
@@ -8378,7 +8513,7 @@
    "n_polls": 7,
    "n_polls_60d": 0,
    "last_poll": "2026-07-19",
-   "days_since_poll": 72,
+   "days_since_poll": 73,
    "trend": null,
    "rating_score": 0.0,
    "rating_consensus": "Toss-up",
@@ -8840,7 +8975,7 @@
    "n_polls": 20,
    "n_polls_60d": 7,
    "last_poll": "2026-08-19",
-   "days_since_poll": 41,
+   "days_since_poll": 42,
    "trend": null,
    "rating_score": 1.0,
    "rating_consensus": "Lean D",
@@ -8908,7 +9043,7 @@
    "n_polls": 1,
    "n_polls_60d": 1,
    "last_poll": "2026-08-12",
-   "days_since_poll": 48,
+   "days_since_poll": 49,
    "trend": null,
    "rating_score": -3.0,
    "rating_consensus": "Safe R",
@@ -10125,7 +10260,7 @@
    "n_polls": 60,
    "n_polls_60d": 0,
    "last_poll": "2026-05-31",
-   "days_since_poll": 121,
+   "days_since_poll": 122,
    "trend": null,
    "rating_score": 3.0,
    "rating_consensus": "Safe D",
@@ -10369,7 +10504,7 @@
    "n_polls": 7,
    "n_polls_60d": 5,
    "last_poll": "2026-09-21",
-   "days_since_poll": 8,
+   "days_since_poll": 9,
    "trend": -1.2,
    "rating_score": 3.0,
    "rating_consensus": "Safe D",
@@ -10400,11 +10535,11 @@
    },
    "polls": [
     {
-     "pollster": "Change Research",
-     "partisan": null,
+     "pollster": "Change Research (D)",
+     "partisan": "D",
      "sponsor": "Freedom Project USA",
-     "dates": "September 26-28, 2026",
-     "end": "2026-09-28",
+     "dates": "September 25-27, 2026",
+     "end": "2026-09-27",
      "n": 1063,
      "pop": "LV",
      "moe": 2.8,
@@ -10803,13 +10938,13 @@
    "aggregates": [
     {
      "source": "Decision Desk HQ",
-     "updated": "September 24, 2026",
-     "margin_text": "Donalds +4.2%"
+     "updated": "September 28, 2026",
+     "margin_text": "Donalds +2.2%"
     },
     {
      "source": "Race to the WH",
-     "updated": "September 24, 2026",
-     "margin_text": "Donalds +5.5%"
+     "updated": "September 28, 2026",
+     "margin_text": "Donalds +4.6%"
     },
     {
      "source": "RealClearPolitics",
@@ -10818,19 +10953,19 @@
     },
     {
      "source": "Silver Bulletin",
-     "updated": "September 24, 2026",
-     "margin_text": "Donalds +1.0%"
+     "updated": "September 28, 2026",
+     "margin_text": "Donalds +3.3%"
     },
     {
      "source": "Average",
      "updated": "Average",
-     "margin_text": "Donalds +4.2%"
+     "margin_text": "Donalds +4.0%"
     }
    ],
    "id": "FL-GOV",
    "label": "Florida",
    "avg": -2.2,
-   "avg_nonpartisan": -4.0,
+   "avg_nonpartisan": -6.5,
    "avg_basis": "4 polls, last 30d",
    "avg_by_party": {
     "R": 46.5,
@@ -10839,8 +10974,8 @@
    "multi": false,
    "n_polls": 21,
    "n_polls_60d": 5,
-   "last_poll": "2026-09-28",
-   "days_since_poll": 1,
+   "last_poll": "2026-09-27",
+   "days_since_poll": 3,
    "trend": -3.2,
    "rating_score": -1.0,
    "rating_consensus": "Lean R",
@@ -11117,11 +11252,6 @@
      "margin_text": "Bottoms +2.5%"
     },
     {
-     "source": "Race to the WH",
-     "updated": "September 27, 2026",
-     "margin_text": "Jackson +1.2%"
-    },
-    {
      "source": "RealClearPolitics",
      "updated": "September 23, 2026",
      "margin_text": "Jackson +0.7%"
@@ -11134,7 +11264,7 @@
     {
      "source": "Average",
      "updated": "Average",
-     "margin_text": "Jackson +0.6%"
+     "margin_text": "Jackson +0.4%"
     }
    ],
    "id": "GA-GOV",
@@ -11150,7 +11280,7 @@
    "n_polls": 12,
    "n_polls_60d": 6,
    "last_poll": "2026-09-23",
-   "days_since_poll": 6,
+   "days_since_poll": 7,
    "trend": -2.5,
    "rating_score": 0.0,
    "rating_consensus": "Toss-up",
@@ -11277,7 +11407,7 @@
    "n_polls": 2,
    "n_polls_60d": 1,
    "last_poll": "2026-09-16",
-   "days_since_poll": 13,
+   "days_since_poll": 14,
    "trend": null,
    "rating_score": -3.0,
    "rating_consensus": "Safe R",
@@ -11342,7 +11472,7 @@
    "n_polls": 1,
    "n_polls_60d": 0,
    "last_poll": "2025-11-24",
-   "days_since_poll": 309,
+   "days_since_poll": 310,
    "trend": null,
    "rating_score": 3.0,
    "rating_consensus": "Safe D",
@@ -11601,13 +11731,13 @@
     },
     {
      "source": "Silver Bulletin",
-     "updated": "43.4%",
-     "margin_text": "Sand +5.9%"
+     "updated": "September 28, 2026",
+     "margin_text": "Sand +7.4%"
     },
     {
      "source": "Average",
      "updated": "Average",
-     "margin_text": "Sand +6.6%"
+     "margin_text": "Sand +7.0%"
     }
    ],
    "id": "IA-GOV",
@@ -11623,7 +11753,7 @@
    "n_polls": 11,
    "n_polls_60d": 8,
    "last_poll": "2026-09-20",
-   "days_since_poll": 9,
+   "days_since_poll": 10,
    "trend": 1.9,
    "rating_score": 1.0,
    "rating_consensus": "Lean D",
@@ -11766,7 +11896,7 @@
    "n_polls": 4,
    "n_polls_60d": 4,
    "last_poll": "2026-09-24",
-   "days_since_poll": 5,
+   "days_since_poll": 6,
    "trend": -7.3,
    "rating_score": -1.0,
    "rating_consensus": "Lean R",
@@ -12025,7 +12155,7 @@
    "n_polls": 9,
    "n_polls_60d": 6,
    "last_poll": "2026-09-22",
-   "days_since_poll": 7,
+   "days_since_poll": 8,
    "trend": 0.2,
    "rating_score": 3.0,
    "rating_consensus": "Safe D",
@@ -12090,7 +12220,7 @@
    "n_polls": 1,
    "n_polls_60d": 1,
    "last_poll": "2026-08-03",
-   "days_since_poll": 57,
+   "days_since_poll": 58,
    "trend": null,
    "rating_score": 3.0,
    "rating_consensus": "Safe D",
@@ -12120,6 +12250,25 @@
     "R": "Mike Minogue"
    },
    "polls": [
+    {
+     "pollster": "MassINC Polling Group",
+     "partisan": null,
+     "sponsor": null,
+     "dates": "September 14-22, 2026",
+     "end": "2026-09-22",
+     "n": 800,
+     "pop": "LV",
+     "moe": 4.0,
+     "d": 51.0,
+     "r": 30.0,
+     "other": 7.0,
+     "undecided": 12.0,
+     "margin": 21.0,
+     "cands": {
+      "D": 51.0,
+      "R": 30.0
+     }
+    },
     {
      "pollster": "University of New Hampshire",
      "partisan": null,
@@ -12296,38 +12445,48 @@
    "aggregates": [
     {
      "source": "Race to the WH",
-     "updated": "September 24, 2026",
-     "margin_text": "Healey +16.2%"
+     "updated": "September 29, 2026",
+     "margin_text": "Healey +19.7%"
     },
     {
      "source": "Silver Bulletin",
-     "updated": "September 11, 2026",
-     "margin_text": "Healey +24.0%"
+     "updated": "September 29, 2026",
+     "margin_text": "Healey +21.1%"
+    },
+    {
+     "source": "RealClearPolitics",
+     "updated": "September 24, 2026",
+     "margin_text": "Healey +20.3%"
+    },
+    {
+     "source": "270toWin",
+     "updated": "September 29, 2026",
+     "margin_text": "Healey +19.0%"
     },
     {
      "source": "Average",
      "updated": "Average",
-     "margin_text": "Healey +20.1%"
+     "margin_text": "Healey +20.0%"
     }
    ],
    "id": "MA-GOV",
    "label": "Massachusetts",
-   "avg": 16.0,
-   "avg_nonpartisan": 16.0,
-   "avg_basis": "1 polls, last 30d",
+   "avg": 18.5,
+   "avg_nonpartisan": 18.5,
+   "avg_basis": "2 polls, last 30d",
    "avg_by_party": {
-    "D": 54.0,
-    "R": 38.0
+    "D": 52.5,
+    "R": 34.0
    },
    "multi": false,
-   "n_polls": 9,
-   "n_polls_60d": 3,
-   "last_poll": "2026-09-21",
+   "n_polls": 10,
+   "n_polls_60d": 4,
+   "last_poll": "2026-09-22",
    "days_since_poll": 8,
-   "trend": -6.0,
+   "trend": -3.5,
    "rating_score": 3.0,
    "rating_consensus": "Safe D",
-   "hot_score": 3.0
+   "hot_score": 4.0
   },
   {
    "office": "Governor",
@@ -12353,6 +12512,25 @@
     "R": "John James"
    },
    "polls": [
+    {
+     "pollster": "Marist University",
+     "partisan": null,
+     "sponsor": null,
+     "dates": "September 24-27, 2026",
+     "end": "2026-09-27",
+     "n": 1235,
+     "pop": "RV",
+     "moe": 3.8,
+     "d": 53.0,
+     "r": 41.0,
+     "other": 3.0,
+     "undecided": 3.0,
+     "margin": 12.0,
+     "cands": {
+      "D": 53.0,
+      "R": 41.0
+     }
+    },
     {
      "pollster": "co / efficient (R)",
      "partisan": "R",
@@ -12389,6 +12567,25 @@
      "cands": {
       "D": 48.0,
       "R": 43.0
+     }
+    },
+    {
+     "pollster": "Beacon Research (D) / Cygnal (R)",
+     "partisan": "D",
+     "sponsor": "Michigan Enjoyer",
+     "dates": "September 18-21, 2026",
+     "end": "2026-09-21",
+     "n": 600,
+     "pop": "LV",
+     "moe": 4.0,
+     "d": 45.0,
+     "r": 38.0,
+     "other": 4.0,
+     "undecided": 11.0,
+     "margin": 7.0,
+     "cands": {
+      "D": 45.0,
+      "R": 38.0
      }
     },
     {
@@ -12738,58 +12935,58 @@
    "aggregates": [
     {
      "source": "270toWin",
-     "updated": "September 24, 2026",
-     "margin_text": "Benson +9.6%"
+     "updated": "September 29, 2026",
+     "margin_text": "Benson +8.5%"
     },
     {
      "source": "Decision Desk HQ",
-     "updated": "September 24, 2026",
-     "margin_text": "Benson +8.8%"
+     "updated": "September 29, 2026",
+     "margin_text": "Benson +6.6%"
     },
     {
      "source": "FiftyPlusOne",
-     "updated": "September 24, 2026",
-     "margin_text": "Benson +7.8%"
+     "updated": "September 29, 2026",
+     "margin_text": "Benson +7.4%"
     },
     {
      "source": "Race to the WH",
-     "updated": "September 24, 2026",
-     "margin_text": "Benson +8.8%"
+     "updated": "September 29, 2026",
+     "margin_text": "Benson +7.3%"
     },
     {
      "source": "RealClearPolitics",
-     "updated": "September 22, 2026",
-     "margin_text": "Benson +8.9%"
+     "updated": "September 29, 2026",
+     "margin_text": "Benson +8.5%"
     },
     {
      "source": "Silver Bulletin",
-     "updated": "September 24, 2026",
-     "margin_text": "Benson +9.6%"
+     "updated": "September 29, 2026",
+     "margin_text": "Benson +8.2%"
     },
     {
      "source": "Average",
      "updated": "Average",
-     "margin_text": "Benson +9.0%"
+     "margin_text": "Benson +7.8%"
     }
    ],
    "id": "MI-GOV",
    "label": "Michigan",
-   "avg": 7.2,
-   "avg_nonpartisan": 9.0,
-   "avg_basis": "8 polls, last 30d",
+   "avg": 7.7,
+   "avg_nonpartisan": 9.4,
+   "avg_basis": "10 polls, last 30d",
    "avg_by_party": {
-    "D": 48.4,
-    "R": 41.1
+    "D": 48.5,
+    "R": 40.8
    },
    "multi": false,
-   "n_polls": 20,
-   "n_polls_60d": 14,
-   "last_poll": "2026-09-23",
-   "days_since_poll": 6,
-   "trend": -0.8,
+   "n_polls": 22,
+   "n_polls_60d": 15,
+   "last_poll": "2026-09-27",
+   "days_since_poll": 3,
+   "trend": -0.1,
    "rating_score": 1.0,
    "rating_consensus": "Lean D",
-   "hot_score": 17.8
+   "hot_score": 17.3
   },
   {
    "office": "Governor",
@@ -12964,7 +13161,7 @@
    "n_polls": 7,
    "n_polls_60d": 4,
    "last_poll": "2026-09-15",
-   "days_since_poll": 14,
+   "days_since_poll": 15,
    "trend": -8.7,
    "rating_score": 2.0,
    "rating_consensus": "Likely D",
@@ -12981,7 +13178,7 @@
    "ratings": {
     "Cook": "Solid R",
     "IE": "Solid R",
-    "Sabato": "Safe R",
+    "Sabato": "Likely R",
     "RCP": "Solid R",
     "Fox": "Solid R",
     "Silver": "Solid R",
@@ -13011,6 +13208,25 @@
      "cands": {
       "R": 53.0,
       "D": 36.0
+     }
+    },
+    {
+     "pollster": "Lake Research Partners (D)",
+     "partisan": "D",
+     "sponsor": "Walz's campaign",
+     "dates": "September 8-14, 2026",
+     "end": "2026-09-14",
+     "n": null,
+     "pop": "RV",
+     "moe": 3.5,
+     "d": 40.0,
+     "r": 40.0,
+     "other": null,
+     "undecided": 7.0,
+     "margin": 0.0,
+     "cands": {
+      "R": 40.0,
+      "D": 40.0
      }
     },
     {
@@ -13137,38 +13353,38 @@
     },
     {
      "source": "Race to the WH",
-     "updated": "September 16, 2026",
-     "margin_text": "Pillen +6.6%"
+     "updated": "September 29, 2026",
+     "margin_text": "Pillen +7.3%"
     },
     {
      "source": "Silver Bulletin",
-     "updated": "September 16, 2026",
-     "margin_text": "Pillen +10.2%"
+     "updated": "September 29, 2026",
+     "margin_text": "Pillen +7.8%"
     },
     {
      "source": "Average",
      "updated": "Average",
-     "margin_text": "Pillen +9.8%"
+     "margin_text": "Pillen +9.2%"
     }
    ],
    "id": "NE-GOV",
    "label": "Nebraska",
-   "avg": -8.7,
+   "avg": -6.5,
    "avg_nonpartisan": -12.5,
-   "avg_basis": "3 polls, last 30d",
+   "avg_basis": "4 polls, last 30d",
    "avg_by_party": {
-    "R": 42.7,
-    "D": 34.0
+    "R": 42.0,
+    "D": 35.5
    },
    "multi": false,
-   "n_polls": 7,
-   "n_polls_60d": 3,
+   "n_polls": 8,
+   "n_polls_60d": 4,
    "last_poll": "2026-09-16",
-   "days_since_poll": 13,
+   "days_since_poll": 14,
    "trend": null,
    "rating_score": -3.0,
    "rating_consensus": "Safe R",
-   "hot_score": 4.3
+   "hot_score": 7.5
   },
   {
    "office": "Governor",
@@ -13469,7 +13685,7 @@
    "n_polls": 12,
    "n_polls_60d": 1,
    "last_poll": "2026-09-08",
-   "days_since_poll": 21,
+   "days_since_poll": 22,
    "trend": null,
    "rating_score": 0.0,
    "rating_consensus": "Toss-up",
@@ -13712,7 +13928,7 @@
    "n_polls": 9,
    "n_polls_60d": 5,
    "last_poll": "2026-09-22",
-   "days_since_poll": 7,
+   "days_since_poll": 8,
    "trend": -1.5,
    "rating_score": -2.0,
    "rating_consensus": "Likely R",
@@ -13836,7 +14052,7 @@
    "n_polls": 3,
    "n_polls_60d": 2,
    "last_poll": "2026-08-28",
-   "days_since_poll": 32,
+   "days_since_poll": 33,
    "trend": null,
    "rating_score": 3.0,
    "rating_consensus": "Safe D",
@@ -14319,7 +14535,7 @@
    "n_polls": 23,
    "n_polls_60d": 5,
    "last_poll": "2026-09-20",
-   "days_since_poll": 9,
+   "days_since_poll": 10,
    "trend": -2.3,
    "rating_score": 3.0,
    "rating_consensus": "Safe D",
@@ -14350,6 +14566,25 @@
    },
    "polls": [
     {
+     "pollster": "Big Data Poll (R)",
+     "partisan": "R",
+     "sponsor": null,
+     "dates": "September 26-27, 2026",
+     "end": "2026-09-27",
+     "n": 680,
+     "pop": "LV",
+     "moe": 4.0,
+     "d": 47.0,
+     "r": 48.0,
+     "other": 5.0,
+     "undecided": null,
+     "margin": -1.0,
+     "cands": {
+      "R": 48.0,
+      "D": 47.0
+     }
+    },
+    {
      "pollster": "Marist University",
      "partisan": null,
      "sponsor": null,
@@ -14365,6 +14600,25 @@
      "margin": 6.0,
      "cands": {
       "R": 44.0,
+      "D": 50.0
+     }
+    },
+    {
+     "pollster": "Suffolk University",
+     "partisan": null,
+     "sponsor": "USA Today",
+     "dates": "September 23-27, 2026",
+     "end": "2026-09-27",
+     "n": 500,
+     "pop": "LV",
+     "moe": 4.4,
+     "d": 50.0,
+     "r": 41.0,
+     "other": 3.0,
+     "undecided": 6.0,
+     "margin": 9.0,
+     "cands": {
+      "R": 41.0,
       "D": 50.0
      }
     },
@@ -14753,58 +15007,58 @@
    "aggregates": [
     {
      "source": "270toWin",
-     "updated": "-",
-     "margin_text": "-"
+     "updated": "September 29, 2026",
+     "margin_text": "Acton +6.0%"
     },
     {
      "source": "Decision Desk HQ",
-     "updated": "September 16, 2026",
-     "margin_text": "Acton +2.2%"
+     "updated": "September 29, 2026",
+     "margin_text": "Acton +6.3%"
     },
     {
      "source": "FiftyPlusOne",
-     "updated": "September 16, 2026",
-     "margin_text": "Acton +1.4%"
+     "updated": "September 29, 2026",
+     "margin_text": "Acton +4.7%"
     },
     {
      "source": "Race to the WH",
-     "updated": "September 25, 2026",
-     "margin_text": "Acton +0.5%"
+     "updated": "September 29, 2026",
+     "margin_text": "Acton +4.7%"
     },
     {
      "source": "RealClearPolitics",
-     "updated": "September 16, 2026",
-     "margin_text": "Acton +1.0%"
+     "updated": "September 29, 2026",
+     "margin_text": "Acton +3.0%"
     },
     {
      "source": "Silver Bulletin",
-     "updated": "September 24, 2026",
-     "margin_text": "Acton +1.4%"
+     "updated": "September 29, 2026",
+     "margin_text": "Acton +5.1%"
     },
     {
      "source": "Average",
      "updated": "Average",
-     "margin_text": "Acton +1.3%"
+     "margin_text": "Acton +4.9%"
     }
    ],
    "id": "OH-GOV",
    "label": "Ohio",
-   "avg": 4.5,
-   "avg_nonpartisan": 4.5,
-   "avg_basis": "2 polls, last 30d",
+   "avg": 4.2,
+   "avg_nonpartisan": 6.0,
+   "avg_basis": "4 polls, last 30d",
    "avg_by_party": {
     "R": 44.5,
-    "D": 49.0
+    "D": 48.8
    },
    "multi": false,
-   "n_polls": 21,
-   "n_polls_60d": 5,
+   "n_polls": 23,
+   "n_polls_60d": 7,
    "last_poll": "2026-09-27",
-   "days_since_poll": 2,
-   "trend": 4.2,
+   "days_since_poll": 3,
+   "trend": 3.9,
    "rating_score": 0.0,
    "rating_consensus": "Toss-up",
-   "hot_score": 13.5
+   "hot_score": 15.8
   },
   {
    "office": "Governor",
@@ -14977,7 +15231,7 @@
    "n_polls": 4,
    "n_polls_60d": 1,
    "last_poll": "2026-09-09",
-   "days_since_poll": 20,
+   "days_since_poll": 21,
    "trend": null,
    "rating_score": 2.0,
    "rating_consensus": "Likely D",
@@ -15344,7 +15598,7 @@
    "n_polls": 15,
    "n_polls_60d": 4,
    "last_poll": "2026-09-22",
-   "days_since_poll": 7,
+   "days_since_poll": 8,
    "trend": -4.0,
    "rating_score": 3.0,
    "rating_consensus": "Safe D",
@@ -15375,6 +15629,26 @@
     "I": "Ken Block"
    },
    "polls": [
+    {
+     "pollster": "Opinion Diagnostics",
+     "partisan": null,
+     "sponsor": "Block's campaign",
+     "dates": "September 23-25, 2026",
+     "end": "2026-09-25",
+     "n": 800,
+     "pop": "LV",
+     "moe": 3.5,
+     "d": 41.0,
+     "r": 19.0,
+     "other": null,
+     "undecided": 16.0,
+     "margin": 22.0,
+     "cands": {
+      "D": 41.0,
+      "R": 19.0,
+      "I": 24.0
+     }
+    },
     {
      "pollster": "University of New Hampshire",
      "partisan": null,
@@ -15480,23 +15754,23 @@
    "aggregates": [],
    "id": "RI-GOV",
    "label": "Rhode Island",
-   "avg": 27.0,
-   "avg_nonpartisan": 27.0,
-   "avg_basis": "1 polls, last 30d",
+   "avg": 24.5,
+   "avg_nonpartisan": 24.5,
+   "avg_basis": "2 polls, last 30d",
    "avg_by_party": {
-    "D": 44.0,
-    "R": 17.0,
-    "I": 25.0
+    "D": 42.5,
+    "R": 18.0,
+    "I": 24.5
    },
    "multi": true,
-   "n_polls": 5,
-   "n_polls_60d": 3,
-   "last_poll": "2026-09-21",
-   "days_since_poll": 8,
-   "trend": 1.0,
+   "n_polls": 6,
+   "n_polls_60d": 4,
+   "last_poll": "2026-09-25",
+   "days_since_poll": 5,
+   "trend": -1.5,
    "rating_score": 3.0,
    "rating_consensus": "Safe D",
-   "hot_score": 3.0
+   "hot_score": 4.0
   },
   {
    "office": "Governor",
@@ -15576,7 +15850,7 @@
    "n_polls": 2,
    "n_polls_60d": 1,
    "last_poll": "2026-08-15",
-   "days_since_poll": 45,
+   "days_since_poll": 46,
    "trend": null,
    "rating_score": -3.0,
    "rating_consensus": "Safe R",
@@ -15743,7 +16017,7 @@
    "n_polls": 4,
    "n_polls_60d": 2,
    "last_poll": "2026-09-12",
-   "days_since_poll": 17,
+   "days_since_poll": 18,
    "trend": 12.0,
    "rating_score": -3.0,
    "rating_consensus": "Safe R",
@@ -16526,10 +16800,10 @@
    },
    "multi": false,
    "n_polls": 37,
-   "n_polls_60d": 18,
+   "n_polls_60d": 16,
    "last_poll": "2026-09-26",
-   "days_since_poll": 3,
-   "trend": 1.1,
+   "days_since_poll": 4,
+   "trend": 0.9,
    "rating_score": -1.0,
    "rating_consensus": "Lean R",
    "hot_score": 22.1
@@ -16545,8 +16819,8 @@
    "ratings": {
     "Cook": "Solid R",
     "IE": "Solid R",
-    "Sabato": "Safe R",
-    "RCP": "Solid R",
+    "Sabato": "Likely R",
+    "RCP": "Lean R",
     "Fox": "Solid R",
     "Silver": "Likely R",
     "DDHQ": "Safe R"
@@ -16650,7 +16924,7 @@
    "n_polls": 4,
    "n_polls_60d": 2,
    "last_poll": "2026-09-21",
-   "days_since_poll": 8,
+   "days_since_poll": 9,
    "trend": null,
    "rating_score": -3.0,
    "rating_consensus": "Safe R",
@@ -16836,7 +17110,7 @@
    "n_polls": 6,
    "n_polls_60d": 4,
    "last_poll": "2026-08-20",
-   "days_since_poll": 40,
+   "days_since_poll": 41,
    "trend": null,
    "rating_score": 1.0,
    "rating_consensus": "Lean D",
@@ -16895,7 +17169,7 @@
     "IE": "Likely R",
     "Sabato": "Lean R",
     "Econ": "Likely R",
-    "ST": "Lean D",
+    "ST": "Tossup",
     "DDHQ": "Likely R",
     "FPO": "Lean R",
     "Fox": "Likely R",
@@ -16981,7 +17255,7 @@
    "n_polls": 3,
    "n_polls_60d": 1,
    "last_poll": "2026-08-31",
-   "days_since_poll": 29,
+   "days_since_poll": 30,
    "trend": null,
    "rating_score": -2.0,
    "rating_consensus": "Likely R",
@@ -17112,7 +17386,7 @@
    "n_polls": 4,
    "n_polls_60d": 0,
    "last_poll": "2026-07-16",
-   "days_since_poll": 75,
+   "days_since_poll": 76,
    "trend": null,
    "rating_score": -2.0,
    "rating_consensus": "Likely R",
@@ -17132,7 +17406,7 @@
     "IE": "Likely R",
     "Sabato": "Likely R",
     "Econ": "Lean R",
-    "ST": "Lean R",
+    "ST": "Tossup",
     "DDHQ": "Likely R",
     "FPO": "Lean R",
     "Fox": "Likely R",
@@ -17218,7 +17492,7 @@
    "n_polls": 3,
    "n_polls_60d": 2,
    "last_poll": "2026-08-24",
-   "days_since_poll": 36,
+   "days_since_poll": 37,
    "trend": null,
    "rating_score": -2.0,
    "rating_consensus": "Likely R",
@@ -17238,7 +17512,7 @@
     "IE": "Tossup",
     "Sabato": "Tossup",
     "Econ": "Likely D",
-    "ST": "Likely D",
+    "ST": "Safe D",
     "DDHQ": "Likely D",
     "FPO": "Likely D",
     "Fox": "Lean D",
@@ -17324,7 +17598,7 @@
    "n_polls": 3,
    "n_polls_60d": 0,
    "last_poll": "2026-06-11",
-   "days_since_poll": 110,
+   "days_since_poll": 111,
    "trend": null,
    "rating_score": 1.0,
    "rating_consensus": "Lean D",
@@ -17411,7 +17685,7 @@
    "n_polls": 2,
    "n_polls_60d": 1,
    "last_poll": "2026-08-13",
-   "days_since_poll": 47,
+   "days_since_poll": 48,
    "trend": null,
    "rating_score": -2.0,
    "rating_consensus": "Likely R",
@@ -17473,7 +17747,7 @@
    "n_polls": 1,
    "n_polls_60d": 0,
    "last_poll": "2026-02-28",
-   "days_since_poll": 213,
+   "days_since_poll": 214,
    "trend": null,
    "rating_score": 3.0,
    "rating_consensus": "Safe D",
@@ -17535,7 +17809,7 @@
    "n_polls": 1,
    "n_polls_60d": 0,
    "last_poll": "2025-07-10",
-   "days_since_poll": 446,
+   "days_since_poll": 447,
    "trend": null,
    "rating_score": 3.0,
    "rating_consensus": "Safe D",
@@ -17606,7 +17880,7 @@
    "n_polls": 1,
    "n_polls_60d": 0,
    "last_poll": "2026-05-06",
-   "days_since_poll": 146,
+   "days_since_poll": 147,
    "trend": null,
    "rating_score": 3.0,
    "rating_consensus": "Safe D",
@@ -17668,7 +17942,7 @@
    "n_polls": 1,
    "n_polls_60d": 0,
    "last_poll": "2026-05-05",
-   "days_since_poll": 147,
+   "days_since_poll": 148,
    "trend": null,
    "rating_score": 3.0,
    "rating_consensus": "Safe D",
@@ -17749,7 +18023,7 @@
    "n_polls": 2,
    "n_polls_60d": 0,
    "last_poll": "2026-05-03",
-   "days_since_poll": 149,
+   "days_since_poll": 150,
    "trend": null,
    "rating_score": 3.0,
    "rating_consensus": "Safe D",
@@ -17814,7 +18088,7 @@
    "n_polls": 1,
    "n_polls_60d": 0,
    "last_poll": "2026-04-04",
-   "days_since_poll": 178,
+   "days_since_poll": 179,
    "trend": null,
    "rating_score": 3.0,
    "rating_consensus": "Safe D",
@@ -17882,7 +18156,7 @@
    "n_polls": 1,
    "n_polls_60d": 0,
    "last_poll": "2026-05-06",
-   "days_since_poll": 146,
+   "days_since_poll": 147,
    "trend": null,
    "rating_score": 1.0,
    "rating_consensus": "Lean D",
@@ -17963,7 +18237,7 @@
    "n_polls": 2,
    "n_polls_60d": 0,
    "last_poll": "2026-05-04",
-   "days_since_poll": 148,
+   "days_since_poll": 149,
    "trend": null,
    "rating_score": -3.0,
    "rating_consensus": "Safe R",
@@ -17983,7 +18257,7 @@
     "IE": "Tilt D",
     "Sabato": "Lean D",
     "Econ": "Likely D",
-    "ST": "Likely D",
+    "ST": "Safe D",
     "DDHQ": "Likely D",
     "FPO": "Safe D",
     "Fox": "Lean D",
@@ -18069,7 +18343,7 @@
    "n_polls": 3,
    "n_polls_60d": 0,
    "last_poll": "2026-05-14",
-   "days_since_poll": 138,
+   "days_since_poll": 139,
    "trend": null,
    "rating_score": 1.5,
    "rating_consensus": "Likely D",
@@ -18137,7 +18411,7 @@
    "n_polls": 1,
    "n_polls_60d": 0,
    "last_poll": "2026-07-23",
-   "days_since_poll": 68,
+   "days_since_poll": 69,
    "trend": null,
    "rating_score": -1.0,
    "rating_consensus": "Lean R",
@@ -18224,7 +18498,7 @@
    "n_polls": 2,
    "n_polls_60d": 0,
    "last_poll": "2026-07-21",
-   "days_since_poll": 70,
+   "days_since_poll": 71,
    "trend": null,
    "rating_score": -1.0,
    "rating_consensus": "Lean R",
@@ -18292,7 +18566,7 @@
    "n_polls": 1,
    "n_polls_60d": 1,
    "last_poll": "2026-09-17",
-   "days_since_poll": 12,
+   "days_since_poll": 13,
    "trend": null,
    "rating_score": 1.0,
    "rating_consensus": "Lean D",
@@ -18360,7 +18634,7 @@
    "n_polls": 1,
    "n_polls_60d": 0,
    "last_poll": "2026-07-26",
-   "days_since_poll": 65,
+   "days_since_poll": 66,
    "trend": null,
    "rating_score": -3.0,
    "rating_consensus": "Safe R",
@@ -18428,7 +18702,7 @@
    "n_polls": 1,
    "n_polls_60d": 0,
    "last_poll": "2026-05-21",
-   "days_since_poll": 131,
+   "days_since_poll": 132,
    "trend": null,
    "rating_score": -1.0,
    "rating_consensus": "Lean R",
@@ -18515,7 +18789,7 @@
    "n_polls": 2,
    "n_polls_60d": 0,
    "last_poll": "2026-07-29",
-   "days_since_poll": 62,
+   "days_since_poll": 63,
    "trend": null,
    "rating_score": -3.0,
    "rating_consensus": "Safe R",
@@ -18574,7 +18848,7 @@
    "last_election": "55.1% D",
    "avg": 0.0,
    "avg_nonpartisan": null,
-   "avg_basis": "1 polls, last 30d",
+   "avg_basis": "last 1 polls (none in 30d)",
    "avg_by_party": {
     "D": 41.0,
     "R": 41.0
@@ -18583,7 +18857,7 @@
    "n_polls": 1,
    "n_polls_60d": 1,
    "last_poll": "2026-08-30",
-   "days_since_poll": 30,
+   "days_since_poll": 31,
    "trend": null,
    "rating_score": -1.0,
    "rating_consensus": "Lean R",
@@ -18651,7 +18925,7 @@
    "n_polls": 1,
    "n_polls_60d": 0,
    "last_poll": "2026-07-29",
-   "days_since_poll": 62,
+   "days_since_poll": 63,
    "trend": null,
    "rating_score": -2.5,
    "rating_consensus": "Safe R",
@@ -18719,7 +18993,7 @@
    "n_polls": 1,
    "n_polls_60d": 0,
    "last_poll": "2026-06-27",
-   "days_since_poll": 94,
+   "days_since_poll": 95,
    "trend": null,
    "rating_score": -2.5,
    "rating_consensus": "Safe R",
@@ -18844,7 +19118,7 @@
    "n_polls": 4,
    "n_polls_60d": 3,
    "last_poll": "2026-08-27",
-   "days_since_poll": 33,
+   "days_since_poll": 34,
    "trend": null,
    "rating_score": -1.0,
    "rating_consensus": "Lean R",
@@ -18912,7 +19186,7 @@
    "n_polls": 1,
    "n_polls_60d": 0,
    "last_poll": "2026-07-15",
-   "days_since_poll": 76,
+   "days_since_poll": 77,
    "trend": null,
    "rating_score": 1.0,
    "rating_consensus": "Lean D",
@@ -18980,7 +19254,7 @@
    "n_polls": 1,
    "n_polls_60d": 1,
    "last_poll": "2026-08-29",
-   "days_since_poll": 31,
+   "days_since_poll": 32,
    "trend": null,
    "rating_score": -2.0,
    "rating_consensus": "Likely R",
@@ -19067,7 +19341,7 @@
    "n_polls": 2,
    "n_polls_60d": 2,
    "last_poll": "2026-08-31",
-   "days_since_poll": 29,
+   "days_since_poll": 30,
    "trend": 2.0,
    "rating_score": 0.0,
    "rating_consensus": "Toss-up",
@@ -19135,7 +19409,7 @@
    "n_polls": 1,
    "n_polls_60d": 0,
    "last_poll": "2026-05-02",
-   "days_since_poll": 150,
+   "days_since_poll": 151,
    "trend": null,
    "rating_score": 1.0,
    "rating_consensus": "Lean D",
@@ -19157,7 +19431,7 @@
     "Econ": "Likely R",
     "ST": "Likely R",
     "DDHQ": "Likely R",
-    "FPO": "Likely R",
+    "FPO": "Lean R",
     "Fox": "Lean R",
     "Silver": "Likely R",
     "RCP": "Tossup"
@@ -19230,22 +19504,22 @@
    "hypothetical_tables": 5,
    "aggregates": [],
    "last_election": "60.4% R",
-   "avg": -0.5,
+   "avg": -1.0,
    "avg_nonpartisan": null,
-   "avg_basis": "2 polls, last 30d",
+   "avg_basis": "1 polls, last 30d",
    "avg_by_party": {
-    "R": 46.0,
-    "D": 45.5
+    "R": 47.0,
+    "D": 46.0
    },
    "multi": false,
    "n_polls": 3,
    "n_polls_60d": 2,
    "last_poll": "2026-09-13",
-   "days_since_poll": 16,
-   "trend": null,
-   "rating_score": -1.5,
-   "rating_consensus": "Likely R",
-   "hot_score": 15.5
+   "days_since_poll": 17,
+   "trend": -1.0,
+   "rating_score": -1.0,
+   "rating_consensus": "Lean R",
+   "hot_score": 16.0
   },
   {
    "office": "House",
@@ -19303,7 +19577,7 @@
    "n_polls": 1,
    "n_polls_60d": 0,
    "last_poll": "2026-03-07",
-   "days_since_poll": 206,
+   "days_since_poll": 207,
    "trend": null,
    "rating_score": -3.0,
    "rating_consensus": "Safe R",
@@ -19364,7 +19638,7 @@
    "n_polls": 1,
    "n_polls_60d": 1,
    "last_poll": "2026-08-26",
-   "days_since_poll": 34,
+   "days_since_poll": 35,
    "trend": null,
    "rating_score": -3.0,
    "rating_consensus": "Safe R",
@@ -19425,7 +19699,7 @@
    "n_polls": 1,
    "n_polls_60d": 1,
    "last_poll": "2026-09-11",
-   "days_since_poll": 18,
+   "days_since_poll": 19,
    "trend": null,
    "rating_score": -3.0,
    "rating_consensus": "Safe R",
@@ -19509,7 +19783,7 @@
    "n_polls": 2,
    "n_polls_60d": 0,
    "last_poll": "2026-07-30",
-   "days_since_poll": 61,
+   "days_since_poll": 62,
    "trend": null,
    "rating_score": -3.0,
    "rating_consensus": "Safe R",
@@ -19573,7 +19847,7 @@
    "n_polls": 1,
    "n_polls_60d": 1,
    "last_poll": "2026-08-01",
-   "days_since_poll": 59,
+   "days_since_poll": 60,
    "trend": null,
    "rating_score": 3.0,
    "rating_consensus": "Safe D",
@@ -19593,7 +19867,7 @@
     "IE": "Solid R",
     "Sabato": "Safe R",
     "Econ": "Likely R",
-    "ST": "Safe R",
+    "ST": "Likely R",
     "DDHQ": "Likely R",
     "FPO": "Likely R",
     "Fox": "Solid R",
@@ -19641,11 +19915,11 @@
    "n_polls": 1,
    "n_polls_60d": 0,
    "last_poll": "2026-07-20",
-   "days_since_poll": 71,
+   "days_since_poll": 72,
    "trend": null,
-   "rating_score": -2.5,
-   "rating_consensus": "Safe R",
-   "hot_score": 8.0
+   "rating_score": -2.0,
+   "rating_consensus": "Likely R",
+   "hot_score": 10.0
   },
   {
    "office": "House",
@@ -19732,7 +20006,7 @@
    "n_polls": 2,
    "n_polls_60d": 0,
    "last_poll": "2026-07-16",
-   "days_since_poll": 75,
+   "days_since_poll": 76,
    "trend": null,
    "rating_score": 1.0,
    "rating_consensus": "Lean D",
@@ -19752,7 +20026,7 @@
     "IE": "Tilt R",
     "Sabato": "Tossup",
     "Econ": "Lean D",
-    "ST": "Lean D",
+    "ST": "Tossup",
     "DDHQ": "Tossup",
     "FPO": "Lean D",
     "Fox": "Tossup",
@@ -19819,7 +20093,7 @@
    "n_polls": 2,
    "n_polls_60d": 0,
    "last_poll": "2026-07-19",
-   "days_since_poll": 72,
+   "days_since_poll": 73,
    "trend": null,
    "rating_score": 0.0,
    "rating_consensus": "Toss-up",
@@ -19887,7 +20161,7 @@
    "n_polls": 1,
    "n_polls_60d": 0,
    "last_poll": "2026-03-14",
-   "days_since_poll": 199,
+   "days_since_poll": 200,
    "trend": null,
    "rating_score": 1.0,
    "rating_consensus": "Lean D",
@@ -19905,7 +20179,7 @@
    "ratings": {
     "Cook": "Likely R",
     "IE": "Likely R",
-    "Sabato": "Likely R",
+    "Sabato": "Lean R",
     "Econ": "Lean R",
     "ST": "Lean R",
     "DDHQ": "Likely R",
@@ -20012,11 +20286,11 @@
    "n_polls": 4,
    "n_polls_60d": 1,
    "last_poll": "2026-08-23",
-   "days_since_poll": 37,
+   "days_since_poll": 38,
    "trend": null,
-   "rating_score": -2.0,
+   "rating_score": -1.5,
    "rating_consensus": "Likely R",
-   "hot_score": 12.3
+   "hot_score": 14.3
   },
   {
    "office": "House",
@@ -20073,7 +20347,7 @@
    "n_polls": 1,
    "n_polls_60d": 1,
    "last_poll": "2026-08-13",
-   "days_since_poll": 47,
+   "days_since_poll": 48,
    "trend": null,
    "rating_score": -3.0,
    "rating_consensus": "Safe R",
@@ -20135,7 +20409,7 @@
    "n_polls": 1,
    "n_polls_60d": 1,
    "last_poll": "2026-09-21",
-   "days_since_poll": 8,
+   "days_since_poll": 9,
    "trend": null,
    "rating_score": 3.0,
    "rating_consensus": "Safe D",
@@ -20153,7 +20427,7 @@
    "ratings": {
     "Cook": "Likely R",
     "IE": "Likely R",
-    "Sabato": "Likely R",
+    "Sabato": "Lean R",
     "Econ": "Tossup",
     "ST": "Lean R",
     "DDHQ": "Lean R",
@@ -20317,7 +20591,7 @@
    "n_polls": 7,
    "n_polls_60d": 3,
    "last_poll": "2026-09-21",
-   "days_since_poll": 8,
+   "days_since_poll": 9,
    "trend": 4.0,
    "rating_score": -1.0,
    "rating_consensus": "Lean R",
@@ -20385,7 +20659,7 @@
    "n_polls": 1,
    "n_polls_60d": 0,
    "last_poll": "2026-07-27",
-   "days_since_poll": 64,
+   "days_since_poll": 65,
    "trend": null,
    "rating_score": -3.0,
    "rating_consensus": "Safe R",
@@ -20510,7 +20784,7 @@
    "n_polls": 4,
    "n_polls_60d": 1,
    "last_poll": "2026-09-16",
-   "days_since_poll": 13,
+   "days_since_poll": 14,
    "trend": null,
    "rating_score": 0.0,
    "rating_consensus": "Toss-up",
@@ -20597,7 +20871,7 @@
    "n_polls": 2,
    "n_polls_60d": 1,
    "last_poll": "2026-08-13",
-   "days_since_poll": 47,
+   "days_since_poll": 48,
    "trend": null,
    "rating_score": 0.5,
    "rating_consensus": "Tilt D",
@@ -20684,7 +20958,7 @@
    "n_polls": 2,
    "n_polls_60d": 1,
    "last_poll": "2026-08-13",
-   "days_since_poll": 47,
+   "days_since_poll": 48,
    "trend": null,
    "rating_score": 0.5,
    "rating_consensus": "Tilt D",
@@ -20706,7 +20980,7 @@
     "Econ": "Lean R",
     "ST": "Likely R",
     "DDHQ": "Lean R",
-    "FPO": "Likely R",
+    "FPO": "Lean R",
     "Fox": "Likely R",
     "Silver": "Lean R",
     "RCP": "Lean R"
@@ -20790,11 +21064,11 @@
    "n_polls": 3,
    "n_polls_60d": 1,
    "last_poll": "2026-09-21",
-   "days_since_poll": 8,
+   "days_since_poll": 9,
    "trend": null,
-   "rating_score": -2.0,
+   "rating_score": -1.5,
    "rating_consensus": "Likely R",
-   "hot_score": 12.0
+   "hot_score": 14.0
   },
   {
    "office": "House",
@@ -20877,7 +21151,7 @@
    "n_polls": 2,
    "n_polls_60d": 1,
    "last_poll": "2026-09-13",
-   "days_since_poll": 16,
+   "days_since_poll": 17,
    "trend": null,
    "rating_score": 2.5,
    "rating_consensus": "Safe D",
@@ -20895,11 +21169,11 @@
    "ratings": {
     "Cook": "Likely R",
     "IE": "Solid R",
-    "Sabato": "Likely R",
+    "Sabato": "Lean R",
     "Econ": "Tossup",
     "ST": "Lean R",
     "DDHQ": "Likely R",
-    "FPO": "Lean R",
+    "FPO": "Tossup",
     "Fox": "Likely R",
     "Silver": "Likely R",
     "RCP": "Tossup"
@@ -20964,11 +21238,11 @@
    "n_polls": 2,
    "n_polls_60d": 1,
    "last_poll": "2026-09-15",
-   "days_since_poll": 14,
+   "days_since_poll": 15,
    "trend": null,
-   "rating_score": -2.0,
+   "rating_score": -1.5,
    "rating_consensus": "Likely R",
-   "hot_score": 12.0
+   "hot_score": 14.0
   },
   {
    "office": "House",
@@ -20982,7 +21256,7 @@
    "ratings": {
     "Cook": "Lean R",
     "IE": "Likely R",
-    "Sabato": "Likely R",
+    "Sabato": "Lean R",
     "Econ": "Tossup",
     "ST": "Lean R",
     "DDHQ": "Lean R",
@@ -20999,6 +21273,26 @@
     "L": "Nick Sheedy"
    },
    "polls": [
+    {
+     "pollster": "American Pulse",
+     "partisan": null,
+     "sponsor": "the NonStop Local",
+     "dates": "September 19-24, 2026",
+     "end": "2026-09-24",
+     "n": 314,
+     "pop": "LV",
+     "moe": null,
+     "d": 45.0,
+     "r": 46.0,
+     "other": null,
+     "undecided": 3.0,
+     "margin": -1.0,
+     "cands": {
+      "R": 46.0,
+      "D": 45.0,
+      "L": 5.0
+     }
+    },
     {
      "pollster": "Public Policy Polling (D)",
      "partisan": "D",
@@ -21083,23 +21377,23 @@
    "hypothetical_tables": 3,
    "aggregates": [],
    "last_election": "52.3% R",
-   "avg": 0.5,
+   "avg": 0.0,
    "avg_nonpartisan": -1.0,
-   "avg_basis": "2 polls, last 30d",
+   "avg_basis": "3 polls, last 30d",
    "avg_by_party": {
-    "R": 42.5,
-    "D": 43.0,
+    "R": 43.7,
+    "D": 43.7,
     "L": 5.0
    },
    "multi": false,
-   "n_polls": 4,
-   "n_polls_60d": 2,
-   "last_poll": "2026-09-10",
-   "days_since_poll": 19,
+   "n_polls": 5,
+   "n_polls_60d": 3,
+   "last_poll": "2026-09-24",
+   "days_since_poll": 6,
    "trend": null,
    "rating_score": -1.0,
    "rating_consensus": "Lean R",
-   "hot_score": 16.5
+   "hot_score": 18.0
   },
   {
    "office": "House",
@@ -21159,7 +21453,7 @@
    "n_polls": 1,
    "n_polls_60d": 1,
    "last_poll": "2026-09-07",
-   "days_since_poll": 22,
+   "days_since_poll": 23,
    "trend": null,
    "rating_score": -3.0,
    "rating_consensus": "Safe R",
@@ -21270,7 +21564,7 @@
    "n_polls": 3,
    "n_polls_60d": 1,
    "last_poll": "2026-09-03",
-   "days_since_poll": 26,
+   "days_since_poll": 27,
    "trend": null,
    "rating_score": -2.0,
    "rating_consensus": "Likely R",
@@ -21338,7 +21632,7 @@
    "n_polls": 1,
    "n_polls_60d": 1,
    "last_poll": "2026-09-13",
-   "days_since_poll": 16,
+   "days_since_poll": 17,
    "trend": null,
    "rating_score": 2.0,
    "rating_consensus": "Likely D",
@@ -21444,7 +21738,7 @@
    "n_polls": 3,
    "n_polls_60d": 2,
    "last_poll": "2026-09-03",
-   "days_since_poll": 26,
+   "days_since_poll": 27,
    "trend": 4.0,
    "rating_score": -2.0,
    "rating_consensus": "Likely R",
@@ -21464,7 +21758,7 @@
     "IE": "Lean D",
     "Sabato": "Lean D",
     "Econ": "Lean D",
-    "ST": "Safe D",
+    "ST": "Likely D",
     "DDHQ": "Likely D",
     "FPO": "Safe D",
     "Fox": "Likely D",
@@ -21512,7 +21806,7 @@
    "n_polls": 1,
    "n_polls_60d": 1,
    "last_poll": "2026-09-21",
-   "days_since_poll": 8,
+   "days_since_poll": 9,
    "trend": null,
    "rating_score": 2.0,
    "rating_consensus": "Likely D",
@@ -21713,7 +22007,7 @@
    "n_polls": 8,
    "n_polls_60d": 2,
    "last_poll": "2026-09-21",
-   "days_since_poll": 8,
+   "days_since_poll": 9,
    "trend": 6.0,
    "rating_score": 3.0,
    "rating_consensus": "Safe D",
@@ -21800,7 +22094,7 @@
    "n_polls": 2,
    "n_polls_60d": 1,
    "last_poll": "2026-09-12",
-   "days_since_poll": 17,
+   "days_since_poll": 18,
    "trend": null,
    "rating_score": 1.0,
    "rating_consensus": "Lean D",
@@ -21887,7 +22181,7 @@
    "n_polls": 2,
    "n_polls_60d": 1,
    "last_poll": "2026-09-02",
-   "days_since_poll": 27,
+   "days_since_poll": 28,
    "trend": null,
    "rating_score": 2.0,
    "rating_consensus": "Likely D",
@@ -21955,7 +22249,7 @@
    "n_polls": 1,
    "n_polls_60d": 0,
    "last_poll": "2025-12-11",
-   "days_since_poll": 292,
+   "days_since_poll": 293,
    "trend": null,
    "rating_score": -2.0,
    "rating_consensus": "Likely R",
@@ -22042,7 +22336,7 @@
    "n_polls": 2,
    "n_polls_60d": 0,
    "last_poll": "2026-07-22",
-   "days_since_poll": 69,
+   "days_since_poll": 70,
    "trend": null,
    "rating_score": 1.0,
    "rating_consensus": "Lean D",
@@ -22103,7 +22397,7 @@
    "n_polls": 1,
    "n_polls_60d": 0,
    "last_poll": "2026-07-26",
-   "days_since_poll": 65,
+   "days_since_poll": 66,
    "trend": null,
    "rating_score": 3.0,
    "rating_consensus": "Safe D",
@@ -22247,7 +22541,7 @@
    "n_polls": 5,
    "n_polls_60d": 4,
    "last_poll": "2026-09-10",
-   "days_since_poll": 19,
+   "days_since_poll": 20,
    "trend": -1.0,
    "rating_score": -2.0,
    "rating_consensus": "Likely R",
@@ -22315,7 +22609,7 @@
    "n_polls": 1,
    "n_polls_60d": 1,
    "last_poll": "2026-09-23",
-   "days_since_poll": 6,
+   "days_since_poll": 7,
    "trend": null,
    "rating_score": -3.0,
    "rating_consensus": "Safe R",
@@ -22445,7 +22739,7 @@
    "n_polls": 4,
    "n_polls_60d": 1,
    "last_poll": "2026-09-11",
-   "days_since_poll": 18,
+   "days_since_poll": 19,
    "trend": null,
    "rating_score": 0.0,
    "rating_consensus": "Toss-up",
@@ -22463,7 +22757,7 @@
    "ratings": {
     "Cook": "Solid R",
     "IE": "Solid R",
-    "Sabato": "Safe R",
+    "Sabato": "Likely R",
     "Econ": "Likely R",
     "ST": "Safe R",
     "DDHQ": "Likely R",
@@ -22513,11 +22807,11 @@
    "n_polls": 1,
    "n_polls_60d": 1,
    "last_poll": "2026-08-02",
-   "days_since_poll": 58,
+   "days_since_poll": 59,
    "trend": null,
-   "rating_score": -2.5,
-   "rating_consensus": "Safe R",
-   "hot_score": 8.0
+   "rating_score": -2.0,
+   "rating_consensus": "Likely R",
+   "hot_score": 10.0
   },
   {
    "office": "House",
@@ -22533,7 +22827,7 @@
     "IE": "Solid R",
     "Sabato": "Safe R",
     "Econ": "Likely R",
-    "ST": "Safe R",
+    "ST": "Likely R",
     "DDHQ": "Likely R",
     "FPO": "Likely R",
     "Fox": "Solid R",
@@ -22584,11 +22878,11 @@
    "n_polls": 1,
    "n_polls_60d": 1,
    "last_poll": "2026-08-20",
-   "days_since_poll": 40,
+   "days_since_poll": 41,
    "trend": null,
-   "rating_score": -2.5,
-   "rating_consensus": "Safe R",
-   "hot_score": 5.0
+   "rating_score": -2.0,
+   "rating_consensus": "Likely R",
+   "hot_score": 7.0
   },
   {
    "office": "House",
@@ -22652,7 +22946,7 @@
    "n_polls": 1,
    "n_polls_60d": 1,
    "last_poll": "2026-09-03",
-   "days_since_poll": 26,
+   "days_since_poll": 27,
    "trend": null,
    "rating_score": -2.0,
    "rating_consensus": "Likely R",
@@ -22720,7 +23014,7 @@
    "n_polls": 1,
    "n_polls_60d": 0,
    "last_poll": "2026-03-12",
-   "days_since_poll": 201,
+   "days_since_poll": 202,
    "trend": null,
    "rating_score": -3.0,
    "rating_consensus": "Safe R",
@@ -22740,7 +23034,7 @@
     "IE": "Lean R",
     "Sabato": "Tossup",
     "Econ": "Tossup",
-    "ST": "Tossup",
+    "ST": "Lean D",
     "DDHQ": "Tossup",
     "FPO": "Tossup",
     "Fox": "Tossup",
@@ -22788,7 +23082,7 @@
    "n_polls": 1,
    "n_polls_60d": 1,
    "last_poll": "2026-09-11",
-   "days_since_poll": 18,
+   "days_since_poll": 19,
    "trend": null,
    "rating_score": 0.0,
    "rating_consensus": "Toss-up",
@@ -22856,7 +23150,7 @@
    "n_polls": 1,
    "n_polls_60d": 0,
    "last_poll": "2026-03-12",
-   "days_since_poll": 201,
+   "days_since_poll": 202,
    "trend": null,
    "rating_score": -3.0,
    "rating_consensus": "Safe R",
@@ -22876,7 +23170,7 @@
     "IE": "Tilt D",
     "Sabato": "Lean D",
     "Econ": "Likely D",
-    "ST": "Safe D",
+    "ST": "Likely D",
     "DDHQ": "Likely D",
     "FPO": "Likely D",
     "Fox": "Lean D",
@@ -22924,7 +23218,7 @@
    "n_polls": 1,
    "n_polls_60d": 1,
    "last_poll": "2026-08-24",
-   "days_since_poll": 36,
+   "days_since_poll": 37,
    "trend": null,
    "rating_score": 2.0,
    "rating_consensus": "Likely D",
@@ -22944,7 +23238,7 @@
     "IE": "Tossup",
     "Sabato": "Tossup",
     "Econ": "Tossup",
-    "ST": "Lean D",
+    "ST": "Tossup",
     "DDHQ": "Tossup",
     "FPO": "Lean D",
     "Fox": "Tossup",
@@ -23068,7 +23362,7 @@
    "n_polls": 5,
    "n_polls_60d": 3,
    "last_poll": "2026-08-10",
-   "days_since_poll": 50,
+   "days_since_poll": 51,
    "trend": null,
    "rating_score": 0.0,
    "rating_consensus": "Toss-up",
@@ -23103,6 +23397,25 @@
    },
    "polls": [
     {
+     "pollster": "DCCC Analytics Department",
+     "partisan": null,
+     "sponsor": null,
+     "dates": "September 22-23, 2026",
+     "end": "2026-09-23",
+     "n": 481,
+     "pop": "LV",
+     "moe": 4.5,
+     "d": 48.0,
+     "r": 48.0,
+     "other": null,
+     "undecided": 4.0,
+     "margin": 0.0,
+     "cands": {
+      "D": 48.0,
+      "R": 48.0
+     }
+    },
+    {
      "pollster": "McLaughlin & Associates (R)",
      "partisan": "R",
      "sponsor": "the NRCC",
@@ -23125,22 +23438,22 @@
    "hypothetical_tables": 0,
    "aggregates": [],
    "last_election": "48.3% D",
-   "avg": -4.0,
-   "avg_nonpartisan": null,
-   "avg_basis": "last 1 polls (none in 30d)",
+   "avg": 0.0,
+   "avg_nonpartisan": 0.0,
+   "avg_basis": "1 polls, last 30d",
    "avg_by_party": {
-    "D": 43.0,
-    "R": 47.0
+    "D": 48.0,
+    "R": 48.0
    },
    "multi": false,
-   "n_polls": 1,
-   "n_polls_60d": 0,
-   "last_poll": "2026-04-20",
-   "days_since_poll": 162,
+   "n_polls": 2,
+   "n_polls_60d": 1,
+   "last_poll": "2026-09-23",
+   "days_since_poll": 7,
    "trend": null,
    "rating_score": 1.0,
    "rating_consensus": "Lean D",
-   "hot_score": 11.0
+   "hot_score": 16.0
   },
   {
    "office": "House",
@@ -23156,7 +23469,7 @@
     "IE": "Solid R",
     "Sabato": "Likely R",
     "Econ": "Likely R",
-    "ST": "Likely R",
+    "ST": "Safe R",
     "DDHQ": "Likely R",
     "FPO": "Lean R",
     "Fox": "Likely R",
@@ -23226,7 +23539,7 @@
    "n_polls": 2,
    "n_polls_60d": 0,
    "last_poll": "2026-07-23",
-   "days_since_poll": 68,
+   "days_since_poll": 69,
    "trend": null,
    "rating_score": -2.0,
    "rating_consensus": "Likely R",
@@ -23244,11 +23557,11 @@
    "ratings": {
     "Cook": "Likely R",
     "IE": "Solid R",
-    "Sabato": "Safe R",
+    "Sabato": "Likely R",
     "Econ": "Lean R",
-    "ST": "Lean R",
+    "ST": "Likely R",
     "DDHQ": "Likely R",
-    "FPO": "Lean R",
+    "FPO": "Tossup",
     "Fox": "Likely R",
     "Silver": "Likely R",
     "RCP": "Lean R"
@@ -23261,6 +23574,26 @@
     "L": "Brennan Barrington"
    },
    "polls": [
+    {
+     "pollster": "Hart Research (D)",
+     "partisan": "D",
+     "sponsor": "House Majority PAC",
+     "dates": "September 22-24, 2026",
+     "end": "2026-09-24",
+     "n": 500,
+     "pop": "LV",
+     "moe": null,
+     "d": 46.0,
+     "r": 45.0,
+     "other": null,
+     "undecided": 9.0,
+     "margin": 1.0,
+     "cands": {
+      "R": 45.0,
+      "D": 46.0,
+      "L": null
+     }
+    },
     {
      "pollster": "Hart Research (D)",
      "partisan": "D",
@@ -23305,23 +23638,22 @@
    "hypothetical_tables": 0,
    "aggregates": [],
    "last_election": "56.5% R",
-   "avg": -4.5,
+   "avg": 1.0,
    "avg_nonpartisan": null,
-   "avg_basis": "last 2 polls (none in 30d)",
+   "avg_basis": "1 polls, last 30d",
    "avg_by_party": {
-    "R": 43.0,
-    "D": 38.5,
-    "L": 6.5
+    "R": 45.0,
+    "D": 46.0
    },
    "multi": false,
-   "n_polls": 2,
-   "n_polls_60d": 1,
-   "last_poll": "2026-08-09",
-   "days_since_poll": 51,
-   "trend": null,
+   "n_polls": 3,
+   "n_polls_60d": 2,
+   "last_poll": "2026-09-24",
+   "days_since_poll": 6,
+   "trend": 5.0,
    "rating_score": -2.0,
    "rating_consensus": "Likely R",
-   "hot_score": 8.5
+   "hot_score": 13.0
   },
   {
    "office": "House",
@@ -23461,7 +23793,7 @@
    "n_polls": 5,
    "n_polls_60d": 3,
    "last_poll": "2026-09-14",
-   "days_since_poll": 15,
+   "days_since_poll": 16,
    "trend": -6.5,
    "rating_score": -0.5,
    "rating_consensus": "Tilt R",
@@ -23479,7 +23811,7 @@
    "ratings": {
     "Cook": "Tossup",
     "IE": "Tossup",
-    "Sabato": "Tossup",
+    "Sabato": "Lean D",
     "Econ": "Tossup",
     "ST": "Likely D",
     "DDHQ": "Lean D",
@@ -23548,11 +23880,11 @@
    "n_polls": 2,
    "n_polls_60d": 1,
    "last_poll": "2026-09-20",
-   "days_since_poll": 9,
+   "days_since_poll": 10,
    "trend": null,
-   "rating_score": 0.5,
-   "rating_consensus": "Tilt D",
-   "hot_score": 13.0
+   "rating_score": 1.0,
+   "rating_consensus": "Lean D",
+   "hot_score": 11.0
   },
   {
    "office": "House",
@@ -23654,7 +23986,7 @@
    "n_polls": 3,
    "n_polls_60d": 0,
    "last_poll": "2026-06-23",
-   "days_since_poll": 98,
+   "days_since_poll": 99,
    "trend": null,
    "rating_score": 0.0,
    "rating_consensus": "Toss-up",
@@ -23674,7 +24006,7 @@
     "IE": "Tossup",
     "Sabato": "Tossup",
     "Econ": "Likely D",
-    "ST": "Safe D",
+    "ST": "Likely D",
     "DDHQ": "Lean D",
     "FPO": "Likely D",
     "Fox": "Tossup",
@@ -23779,7 +24111,7 @@
    "n_polls": 4,
    "n_polls_60d": 1,
    "last_poll": "2026-09-20",
-   "days_since_poll": 9,
+   "days_since_poll": 10,
    "trend": null,
    "rating_score": 1.0,
    "rating_consensus": "Lean D",
@@ -23869,7 +24201,7 @@
    "n_polls": 2,
    "n_polls_60d": 1,
    "last_poll": "2026-09-10",
-   "days_since_poll": 19,
+   "days_since_poll": 20,
    "trend": null,
    "rating_score": -1.5,
    "rating_consensus": "Likely R",
@@ -23930,7 +24262,7 @@
    "n_polls": 1,
    "n_polls_60d": 0,
    "last_poll": "2026-07-28",
-   "days_since_poll": 63,
+   "days_since_poll": 64,
    "trend": null,
    "rating_score": -3.0,
    "rating_consensus": "Safe R",
@@ -23998,7 +24330,7 @@
    "n_polls": 1,
    "n_polls_60d": 1,
    "last_poll": "2026-08-24",
-   "days_since_poll": 36,
+   "days_since_poll": 37,
    "trend": null,
    "rating_score": -3.0,
    "rating_consensus": "Safe R",
@@ -24066,7 +24398,7 @@
    "n_polls": 1,
    "n_polls_60d": 1,
    "last_poll": "2026-09-03",
-   "days_since_poll": 26,
+   "days_since_poll": 27,
    "trend": null,
    "rating_score": -2.0,
    "rating_consensus": "Likely R",
@@ -24087,7 +24419,7 @@
     "Sabato": "Tossup",
     "Econ": "Lean R",
     "ST": "Tossup",
-    "DDHQ": "Lean R",
+    "DDHQ": "Tossup",
     "FPO": "Lean R",
     "Fox": "Lean R",
     "Silver": "Lean R",
@@ -24191,10 +24523,10 @@
    "n_polls": 4,
    "n_polls_60d": 1,
    "last_poll": "2026-08-22",
-   "days_since_poll": 38,
+   "days_since_poll": 39,
    "trend": null,
-   "rating_score": -0.75,
-   "rating_consensus": "Lean R",
+   "rating_score": -0.25,
+   "rating_consensus": "Tilt R",
    "hot_score": 9.7
   },
   {
@@ -24211,7 +24543,7 @@
     "IE": "Likely R",
     "Sabato": "Likely R",
     "Econ": "Lean R",
-    "ST": "Lean R",
+    "ST": "Tossup",
     "DDHQ": "Likely R",
     "FPO": "Likely R",
     "Fox": "Likely R",
@@ -24259,7 +24591,7 @@
    "n_polls": 1,
    "n_polls_60d": 0,
    "last_poll": "2026-03-11",
-   "days_since_poll": 202,
+   "days_since_poll": 203,
    "trend": null,
    "rating_score": -2.0,
    "rating_consensus": "Likely R",
@@ -24346,7 +24678,7 @@
    "n_polls": 2,
    "n_polls_60d": 1,
    "last_poll": "2026-08-22",
-   "days_since_poll": 38,
+   "days_since_poll": 39,
    "trend": null,
    "rating_score": 1.0,
    "rating_consensus": "Lean D",
@@ -24452,7 +24784,7 @@
    "n_polls": 3,
    "n_polls_60d": 1,
    "last_poll": "2026-08-22",
-   "days_since_poll": 38,
+   "days_since_poll": 39,
    "trend": null,
    "rating_score": 1.0,
    "rating_consensus": "Lean D",
@@ -24472,8 +24804,8 @@
     "IE": "Lean R",
     "Sabato": "Lean R",
     "Econ": "Tossup",
-    "ST": "Tossup",
-    "DDHQ": "Lean R",
+    "ST": "Lean D",
+    "DDHQ": "Tossup",
     "FPO": "Tossup",
     "Fox": "Lean R",
     "Silver": "Lean R",
@@ -24520,11 +24852,11 @@
    "n_polls": 1,
    "n_polls_60d": 1,
    "last_poll": "2026-08-31",
-   "days_since_poll": 29,
+   "days_since_poll": 30,
    "trend": null,
-   "rating_score": -1.0,
-   "rating_consensus": "Lean R",
-   "hot_score": 15.0
+   "rating_score": -0.5,
+   "rating_consensus": "Tilt R",
+   "hot_score": 17.0
   },
   {
    "office": "House",
@@ -24601,7 +24933,7 @@
    "n_polls": 2,
    "n_polls_60d": 2,
    "last_poll": "2026-09-23",
-   "days_since_poll": 6,
+   "days_since_poll": 7,
    "trend": null,
    "rating_score": -3.0,
    "rating_consensus": "Safe R",
@@ -24719,7 +25051,7 @@
    "n_polls": 4,
    "n_polls_60d": 2,
    "last_poll": "2026-09-21",
-   "days_since_poll": 8,
+   "days_since_poll": 9,
    "trend": null,
    "rating_score": 3.0,
    "rating_consensus": "Safe D",
@@ -24737,9 +25069,9 @@
    "ratings": {
     "Cook": "Lean R",
     "IE": "Lean R",
-    "Sabato": "Lean R",
+    "Sabato": "Tossup",
     "Econ": "Tossup",
-    "ST": "Tossup",
+    "ST": "Lean R",
     "DDHQ": "Likely R",
     "FPO": "Lean D",
     "Fox": "Tossup",
@@ -24806,7 +25138,7 @@
    "n_polls": 2,
    "n_polls_60d": 1,
    "last_poll": "2026-09-17",
-   "days_since_poll": 12,
+   "days_since_poll": 13,
    "trend": null,
    "rating_score": 0.0,
    "rating_consensus": "Toss-up",
@@ -24824,9 +25156,9 @@
    "ratings": {
     "Cook": "Tossup",
     "IE": "Tossup",
-    "Sabato": "Tossup",
+    "Sabato": "Lean D",
     "Econ": "Lean D",
-    "ST": "Likely D",
+    "ST": "Lean D",
     "DDHQ": "Likely D",
     "FPO": "Likely D",
     "Fox": "Lean D",
@@ -24874,7 +25206,7 @@
    "n_polls": 1,
    "n_polls_60d": 0,
    "last_poll": "2026-07-13",
-   "days_since_poll": 78,
+   "days_since_poll": 79,
    "trend": null,
    "rating_score": 1.0,
    "rating_consensus": "Lean D",
@@ -24892,9 +25224,9 @@
    "ratings": {
     "Cook": "Likely R",
     "IE": "Solid R",
-    "Sabato": "Likely R",
+    "Sabato": "Lean R",
     "Econ": "Lean R",
-    "ST": "Lean R",
+    "ST": "Likely R",
     "DDHQ": "Likely R",
     "FPO": "Lean R",
     "Fox": "Lean R",
@@ -24942,7 +25274,7 @@
    "n_polls": 1,
    "n_polls_60d": 1,
    "last_poll": "2026-08-01",
-   "days_since_poll": 59,
+   "days_since_poll": 60,
    "trend": null,
    "rating_score": -1.0,
    "rating_consensus": "Lean R",
@@ -25029,7 +25361,7 @@
    "n_polls": 2,
    "n_polls_60d": 0,
    "last_poll": "2026-07-10",
-   "days_since_poll": 81,
+   "days_since_poll": 82,
    "trend": null,
    "rating_score": 1.5,
    "rating_consensus": "Likely D",
@@ -25097,7 +25429,7 @@
    "n_polls": 1,
    "n_polls_60d": 0,
    "last_poll": "2026-02-05",
-   "days_since_poll": 236,
+   "days_since_poll": 237,
    "trend": null,
    "rating_score": -3.0,
    "rating_consensus": "Safe R",
@@ -25168,7 +25500,7 @@
    "n_polls": 1,
    "n_polls_60d": 0,
    "last_poll": "2026-03-19",
-   "days_since_poll": 194,
+   "days_since_poll": 195,
    "trend": null,
    "rating_score": -3.0,
    "rating_consensus": "Safe R",
@@ -25188,9 +25520,9 @@
     "IE": "Likely R",
     "Sabato": "Likely R",
     "Econ": "Tossup",
-    "ST": "Likely R",
+    "ST": "Lean R",
     "DDHQ": "Lean R",
-    "FPO": "Tossup",
+    "FPO": "Lean D",
     "Fox": "Likely R",
     "Silver": "Lean R",
     "RCP": "Tossup"
@@ -25202,6 +25534,25 @@
     "D": "Mitchell Berman"
    },
    "polls": [
+    {
+     "pollster": "DCCC Analytics Department",
+     "partisan": null,
+     "sponsor": null,
+     "dates": "September 21-23, 2026",
+     "end": "2026-09-23",
+     "n": 495,
+     "pop": "LV",
+     "moe": 4.4,
+     "d": 48.0,
+     "r": 48.0,
+     "other": null,
+     "undecided": 5.0,
+     "margin": 0.0,
+     "cands": {
+      "R": 48.0,
+      "D": 48.0
+     }
+    },
     {
      "pollster": "Impact Research (D)",
      "partisan": "D",
@@ -25244,22 +25595,22 @@
    "hypothetical_tables": 0,
    "aggregates": [],
    "last_election": "54.1% R",
-   "avg": -5.0,
-   "avg_nonpartisan": null,
-   "avg_basis": "last 2 polls (none in 30d)",
+   "avg": 0.0,
+   "avg_nonpartisan": 0.0,
+   "avg_basis": "1 polls, last 30d",
    "avg_by_party": {
-    "R": 49.5,
-    "D": 44.5
+    "R": 48.0,
+    "D": 48.0
    },
    "multi": false,
-   "n_polls": 2,
-   "n_polls_60d": 1,
-   "last_poll": "2026-08-09",
-   "days_since_poll": 51,
-   "trend": null,
+   "n_polls": 3,
+   "n_polls_60d": 2,
+   "last_poll": "2026-09-23",
+   "days_since_poll": 7,
+   "trend": 1.0,
    "rating_score": -1.0,
    "rating_consensus": "Lean R",
-   "hot_score": 11.0
+   "hot_score": 17.0
   },
   {
    "office": "House",
@@ -25380,7 +25731,7 @@
    "n_polls": 4,
    "n_polls_60d": 0,
    "last_poll": "2026-06-25",
-   "days_since_poll": 96,
+   "days_since_poll": 97,
    "trend": null,
    "rating_score": 1.0,
    "rating_consensus": "Lean D",
@@ -25448,7 +25799,7 @@
    "n_polls": 1,
    "n_polls_60d": 0,
    "last_poll": "2026-05-28",
-   "days_since_poll": 124,
+   "days_since_poll": 125,
    "trend": null,
    "rating_score": -3.0,
    "rating_consensus": "Safe R",
@@ -25721,7 +26072,7 @@
    "ratings": {
     "Cook": "Likely D",
     "IE": "Lean D",
-    "Sabato": "Lean D",
+    "Sabato": "Likely D",
     "Econ": "Safe D",
     "ST": "Safe D",
     "DDHQ": "Likely D",
@@ -26111,6 +26462,48 @@
    "pvi": "R+8",
    "incumbent": "Buddy Carter (retiring)",
    "last_election": "62.0% R",
+   "on_ratings_list": true,
+   "avg": null,
+   "avg_nonpartisan": null,
+   "avg_basis": null,
+   "avg_by_party": {},
+   "multi": false,
+   "n_polls": 0,
+   "n_polls_60d": 0,
+   "last_poll": null,
+   "days_since_poll": null,
+   "trend": null,
+   "rating_score": -3.0,
+   "rating_consensus": "Safe R",
+   "hot_score": 0
+  },
+  {
+   "office": "House",
+   "state": "Georgia",
+   "district": "10",
+   "special": false,
+   "id": "GA-10",
+   "label": "GA-10",
+   "url": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_election_ratings",
+   "candidates": {},
+   "polls": [],
+   "hypothetical_tables": 0,
+   "aggregates": [],
+   "ratings": {
+    "Cook": "Solid R",
+    "IE": "Solid R",
+    "Sabato": "Safe R",
+    "Econ": "Safe R",
+    "ST": "Safe R",
+    "DDHQ": "Likely R",
+    "FPO": "Safe R",
+    "Fox": "Solid R",
+    "Silver": "Solid R",
+    "RCP": "Solid R"
+   },
+   "pvi": "R+11",
+   "incumbent": "Mike Collins",
+   "last_election": "63.1% R",
    "on_ratings_list": true,
    "avg": null,
    "avg_nonpartisan": null,
@@ -27025,7 +27418,7 @@
     "IE": "Solid R",
     "Sabato": "Safe R",
     "Econ": "Likely R",
-    "ST": "Safe R",
+    "ST": "Likely R",
     "DDHQ": "Likely R",
     "FPO": "Likely R",
     "Fox": "Solid R",
@@ -27046,9 +27439,9 @@
    "last_poll": null,
    "days_since_poll": null,
    "trend": null,
-   "rating_score": -2.5,
-   "rating_consensus": "Safe R",
-   "hot_score": 0
+   "rating_score": -2.0,
+   "rating_consensus": "Likely R",
+   "hot_score": 2
   },
   {
    "office": "House",
@@ -27069,7 +27462,7 @@
     "Econ": "Likely R",
     "ST": "Safe R",
     "DDHQ": "Likely R",
-    "FPO": "Likely R",
+    "FPO": "Safe R",
     "Fox": "Solid R",
     "Silver": "Solid R",
     "RCP": "Solid R"
@@ -27445,7 +27838,7 @@
     "IE": "Solid R",
     "Sabato": "Safe R",
     "Econ": "Likely R",
-    "ST": "Safe R",
+    "ST": "Likely R",
     "DDHQ": "Safe R",
     "FPO": "Safe R",
     "Fox": "Solid R",
@@ -27531,7 +27924,7 @@
     "Econ": "Likely R",
     "ST": "Safe R",
     "DDHQ": "Likely R",
-    "FPO": "Safe R",
+    "FPO": "Likely R",
     "Fox": "Solid R",
     "Silver": "Solid R",
     "RCP": "Likely R"
@@ -27581,6 +27974,48 @@
    "pvi": "R+10",
    "incumbent": "Michael McCaul (retiring)",
    "last_election": "63.6% R",
+   "on_ratings_list": true,
+   "avg": null,
+   "avg_nonpartisan": null,
+   "avg_basis": null,
+   "avg_by_party": {},
+   "multi": false,
+   "n_polls": 0,
+   "n_polls_60d": 0,
+   "last_poll": null,
+   "days_since_poll": null,
+   "trend": null,
+   "rating_score": -3.0,
+   "rating_consensus": "Safe R",
+   "hot_score": 0
+  },
+  {
+   "office": "House",
+   "state": "Texas",
+   "district": "17",
+   "special": false,
+   "id": "TX-17",
+   "label": "TX-17",
+   "url": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_election_ratings",
+   "candidates": {},
+   "polls": [],
+   "hypothetical_tables": 0,
+   "aggregates": [],
+   "ratings": {
+    "Cook": "Solid R",
+    "IE": "Solid R",
+    "Sabato": "Safe R",
+    "Econ": "Safe R",
+    "ST": "Safe R",
+    "DDHQ": "Likely R",
+    "FPO": "Safe R",
+    "Fox": "Solid R",
+    "Silver": "Solid R",
+    "RCP": "Solid R"
+   },
+   "pvi": "R+10",
+   "incumbent": "Pete Sessions",
+   "last_election": "66.4% R",
    "on_ratings_list": true,
    "avg": null,
    "avg_nonpartisan": null,
@@ -27767,6 +28202,48 @@
   {
    "office": "House",
    "state": "Texas",
+   "district": "31",
+   "special": false,
+   "id": "TX-31",
+   "label": "TX-31",
+   "url": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_election_ratings",
+   "candidates": {},
+   "polls": [],
+   "hypothetical_tables": 0,
+   "aggregates": [],
+   "ratings": {
+    "Cook": "Solid R",
+    "IE": "Solid R",
+    "Sabato": "Safe R",
+    "Econ": "Safe R",
+    "ST": "Safe R",
+    "DDHQ": "Likely R",
+    "FPO": "Safe R",
+    "Fox": "Solid R",
+    "Silver": "Solid R",
+    "RCP": "Solid R"
+   },
+   "pvi": "R+11",
+   "incumbent": "John Carter",
+   "last_election": "64.5% R",
+   "on_ratings_list": true,
+   "avg": null,
+   "avg_nonpartisan": null,
+   "avg_basis": null,
+   "avg_by_party": {},
+   "multi": false,
+   "n_polls": 0,
+   "n_polls_60d": 0,
+   "last_poll": null,
+   "days_since_poll": null,
+   "trend": null,
+   "rating_score": -3.0,
+   "rating_consensus": "Safe R",
+   "hot_score": 0
+  },
+  {
+   "office": "House",
+   "state": "Texas",
    "district": "32",
    "special": false,
    "id": "TX-32",
@@ -27781,7 +28258,7 @@
     "IE": "Solid R",
     "Sabato": "Safe R",
     "Econ": "Likely R",
-    "ST": "Safe R",
+    "ST": "Likely R",
     "DDHQ": "Likely R",
     "FPO": "Likely R",
     "Fox": "Solid R",
@@ -27802,9 +28279,9 @@
    "last_poll": null,
    "days_since_poll": null,
    "trend": null,
-   "rating_score": -2.5,
-   "rating_consensus": "Safe R",
-   "hot_score": 0
+   "rating_score": -2.0,
+   "rating_consensus": "Likely R",
+   "hot_score": 2
   },
   {
    "office": "House",
