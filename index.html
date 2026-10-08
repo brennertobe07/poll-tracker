@@ -337,8 +337,8 @@ const raceName = r => r.office === 'House' ? r.label : `${r.label} ${OFFICE_SHOR
 const daysAgoIso = n => { const x = new Date(S.data.as_of + 'T12:00:00'); x.setDate(x.getDate() - n); return x.toISOString().slice(0, 10); };
 
 /* Incumbency. Wikipedia's incumbent field carries "(retiring)", "(term-limited)" or
-   "(lost renomination)" when the seat is open, and "New seat" / "Vacant" otherwise. */
-const OPEN_SEAT = /\((retiring|term-limited|lost renomination|resign\w*|running for[^)]*|died|deceased)\)|^(new seat|vacant)$/i;
+   "(lost renomination)" / "(open seat)" when the seat is open, and "New seat" / "Vacant" otherwise. */
+const OPEN_SEAT = /\((retiring|term-limited|lost renomination|open seat|resign\w*|running for[^)]*|died|deceased)\)|^(new seat|vacant)$/i;
 const normName = n => (n || '').normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase()
   .replace(/\([^)]*\)/g, '').replace(/[.,'"]/g, '').replace(/\b(jr|sr|ii|iii|iv)\b/g, '').replace(/\s+/g, ' ').trim();
 const isOpenSeat = r => OPEN_SEAT.test((r.incumbent || '').trim());

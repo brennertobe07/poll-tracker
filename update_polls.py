@@ -634,11 +634,12 @@ def collect_house():
     return [summarize(r) for r in races.values()], overall
 
 
-def section_incumbent(tables):
+def section_incumbent(tables, infobox=None):
     """Sitting member from a district's election boxes (Party | Party | Candidate | Votes),
     which tag them "(incumbent)". Found in the last box (the general, or the primary if no
-    general box yet) -> name; only in an earlier primary box -> lost renomination; no tag
-    anywhere -> None (retiring/open seats don't carry the tag, so leave it unknown)."""
+    general box yet) -> name; only in an earlier primary box -> lost renomination. No tag
+    anywhere -> the district infobox's "Incumbent U.S. Representative" row; if that member
+    isn't a candidate in any box, the seat is open -> "Name (open seat)". Else None."""
     boxes = [g for g in map(grid, tables)
              if len(g) > 1 and len(g[0]) > 2 and g[0][0][0] == "Party" and g[0][2][0] == "Candidate"]
     for i, g in enumerate(reversed(boxes)):
@@ -646,7 +647,15 @@ def section_incumbent(tables):
             if len(r) > 2 and "(incumbent)" in r[2][0]:
                 name = clean(r[2][0].replace("(incumbent)", ""))
                 return name if i == 0 else f"{name} (lost renomination)"
-    return None
+    if infobox is None:
+        return None
+    m = re.search(r"Incumbent U\.S\. Representative (.+?) (?:Democratic|Republican|Independent|"
+                  r"Libertarian|Vacant)\b", clean(infobox.get_text(" ", strip=True)))
+    if not m:
+        return None
+    name = m.group(1).strip()
+    running = {clean(r[2][0]).lower() for g in boxes for r in g[1:] if len(r) > 2}
+    return None if name.lower() in running else f"{name} (open seat)"
 
 
 def house_races(state, title, soup):
@@ -660,10 +669,11 @@ def house_races(state, title, soup):
     for idx, h in enumerate(heads):
         if h is None:
             tables = soup.select("table.wikitable")
+            infobox = soup.select_one("table.infobox")
             dist = "AL"
         else:
             nxt = heads[idx + 1] if idx + 1 < len(heads) else None
-            tables = []
+            tables, infobox = [], None
             # h2 is wrapped in div.mw-heading in current parser output
             start = h.parent if h.parent.name == "div" else h
             stop = (nxt.parent if nxt is not None and nxt.parent.name == "div" else nxt)
@@ -672,6 +682,8 @@ def house_races(state, title, soup):
                     break
                 if el.name == "table" and "wikitable" in (el.get("class") or []):
                     tables.append(el)
+                elif el.name == "table" and infobox is None and "infobox" in (el.get("class") or []):
+                    infobox = el
             m = re.search(r"\d+", clean(h.get_text()))
             dist = m.group(0) if m else "AL"
         fields = race_from_tables(tables)
@@ -682,7 +694,7 @@ def house_races(state, title, soup):
                       "id": f"{abbr}-{dist.zfill(2) if dist != 'AL' else 'AL'}",
                       "label": f"{abbr}-{dist}", "pvi": None,
                       # ratings-list value overrides this in collect_house when present
-                      "incumbent": section_incumbent(tables),
+                      "incumbent": section_incumbent(tables, infobox),
                       # per-district ratings: fallback for polled seats off the ratings list
                       "ratings": parse_source_rankings(tables),
                       "on_ratings_list": False,

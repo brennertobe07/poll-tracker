@@ -94,7 +94,7 @@ tables that failed — empty on a clean run).
 Incumbency is derived in `index.html`, not the scraper: `incParty()` matches
 `incumbent` to a candidate (full name, else last name + first initial,
 accents/Jr./III ignored) and shows an **INC** badge; an `incumbent` ending in
-`(retiring)` / `(term-limited)` / `(lost renomination)`, or `New seat` /
+`(retiring)` / `(term-limited)` / `(lost renomination)` / `(open seat)`, or `New seat` /
 `Vacant`, shows "open seat" instead.
 
 ## 6. Daily workflow
@@ -135,5 +135,6 @@ is done in the Task Scheduler GUI.
 - The House "Polls" projection is mostly ratings — few districts are polled.
 - House `incumbent` comes from the ratings list; for polled districts off that list it
   falls back to `section_incumbent()` (the "(incumbent)" tag in the district's
-  election boxes). Open seats off the ratings list (e.g. CA-11) carry no tag, so
-  they stay blank — no INC badge and no "open seat" tag.
+  election boxes). With no tag, it reads the district infobox's "Incumbent U.S.
+  Representative"; if that member isn't a candidate there, it records
+  "Name (open seat)" (e.g. CA-11, Pelosi).

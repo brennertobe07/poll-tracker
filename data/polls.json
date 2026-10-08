@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-08T11:18:12",
+ "generated": "2026-10-08T11:31:50",
  "as_of": "2026-10-08",
  "settings": {
   "avg_days": 30,
@@ -7384,28 +7384,28 @@
     },
     {
      "source": "Decision Desk HQ",
-     "updated": "October 6, 2026",
-     "margin_text": "Brown +2.6%"
-    },
-    {
-     "source": "FiftyPlusOne",
-     "updated": "October 6, 2026",
-     "margin_text": "Brown +4.1%"
-    },
-    {
-     "source": "RealClearPolitics",
-     "updated": "October 6, 2026",
+     "updated": "October 8, 2026",
      "margin_text": "Brown +3.2%"
     },
     {
+     "source": "FiftyPlusOne",
+     "updated": "October 8, 2026",
+     "margin_text": "Brown +4.3%"
+    },
+    {
+     "source": "RealClearPolitics",
+     "updated": "October 8, 2026",
+     "margin_text": "Brown +3.5%"
+    },
+    {
      "source": "Silver Bulletin",
-     "updated": "October 3, 2026",
-     "margin_text": "Brown +3.8%"
+     "updated": "October 8, 2026",
+     "margin_text": "Brown +4.3%"
     },
     {
      "source": "Average",
      "updated": "Average",
-     "margin_text": "Brown +3.4%"
+     "margin_text": "Brown +3.6%"
     }
    ],
    "id": "OH-SEN-S",
@@ -19782,7 +19782,7 @@
    "id": "CA-11",
    "label": "CA-11",
    "pvi": null,
-   "incumbent": null,
+   "incumbent": "Nancy Pelosi (open seat)",
    "ratings": {},
    "on_ratings_list": false,
    "url": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California_(districts_1–26)#District_11",
@@ -21644,7 +21644,7 @@
    "id": "IL-04",
    "label": "IL-4",
    "pvi": null,
-   "incumbent": null,
+   "incumbent": "Chuy García (open seat)",
    "ratings": {
     "DDHQ": "Safe D",
     "Cook": "Solid D",
@@ -22166,7 +22166,7 @@
    "id": "LA-06",
    "label": "LA-6",
    "pvi": null,
-   "incumbent": null,
+   "incumbent": "Cleo Fields (open seat)",
    "ratings": {
     "DDHQ": "Safe R",
     "Cook": "Solid R",
@@ -26273,7 +26273,7 @@
    "id": "SD-AL",
    "label": "SD-AL",
    "pvi": null,
-   "incumbent": null,
+   "incumbent": "Dusty Johnson (open seat)",
    "ratings": {
     "DDHQ": "Safe R",
     "Cook": "Solid R",
@@ -27079,7 +27079,7 @@
    "id": "UT-01",
    "label": "UT-1",
    "pvi": null,
-   "incumbent": null,
+   "incumbent": "Blake Moore (open seat)",
    "ratings": {
     "DDHQ": "Safe D",
     "Cook": "Solid D",
