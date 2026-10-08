@@ -110,6 +110,9 @@
   .pb { font-family: var(--mono); font-size: .62rem; font-weight: 500; padding: 0 4px; border-radius: 3px; margin-left: 4px; }
   .pb.D { background: rgba(33,102,172,.35); color: var(--dem-lt); }
   .pb.R { background: rgba(192,57,43,.35); color: var(--rep-lt); }
+  .inc { font-family: var(--mono); font-size: .58rem; font-weight: 600; letter-spacing: .06em; padding: 0 4px; border-radius: 3px;
+         margin-left: 4px; vertical-align: 1px; color: var(--warn); border: 1px solid rgba(224,168,74,.45); }
+  .openseat { font-size: .66rem; color: var(--muted); font-style: italic; margin-left: 4px; white-space: nowrap; }
 
   /* diverging margin bar: center line = tie, ±20 pts = full half-width */
   .mbar { position: relative; height: 8px; background: var(--surface2); border-radius: 4px; min-width: 60px; }
@@ -333,15 +336,32 @@ const lastName = n => (n || '').replace(/\s+(Jr\.?|Sr\.?|II|III|IV)$/, '').split
 const raceName = r => r.office === 'House' ? r.label : `${r.label} ${OFFICE_SHORT[r.office]}`;
 const daysAgoIso = n => { const x = new Date(S.data.as_of + 'T12:00:00'); x.setDate(x.getDate() - n); return x.toISOString().slice(0, 10); };
 
+/* Incumbency. Wikipedia's incumbent field carries "(retiring)", "(term-limited)" or
+   "(lost renomination)" when the seat is open, and "New seat" / "Vacant" otherwise. */
+const OPEN_SEAT = /\((retiring|term-limited|lost renomination|resign\w*|running for[^)]*|died|deceased)\)|^(new seat|vacant)$/i;
+const normName = n => (n || '').normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase()
+  .replace(/\([^)]*\)/g, '').replace(/[.,'"]/g, '').replace(/\b(jr|sr|ii|iii|iv)\b/g, '').replace(/\s+/g, ' ').trim();
+const isOpenSeat = r => OPEN_SEAT.test((r.incumbent || '').trim());
+/* Party key of the candidate who is the sitting incumbent, or null. Full-name match,
+   falling back to same last name + first initial (middle names, Tom/Thomas). */
+function incParty(r) {
+  if (!r.incumbent || isOpenSeat(r)) return null;
+  const n = normName(r.incumbent), w = n.split(' ');
+  for (const [p, nm] of Object.entries(r.candidates || {})) {
+    const c = normName(nm), cw = c.split(' ');
+    if (c && (c === n || (cw[0][0] === w[0][0] && cw[cw.length - 1] === w[w.length - 1]))) return p;
+  }
+  return null;
+}
+const incBadge = (r, p) => p && incParty(r) === p ? '<span class="inc" title="Incumbent">INC</span>' : '';
+
 function matchup(r, full) {
   const c = r.candidates || {};
   const nm = p => full ? c[p] : lastName(c[p]);
   if (!c.D && !c.R) return '<span class="dim">No general-election polling</span>';
   const parts = [];
-  if (c.D) parts.push(`<b>${esc(nm('D'))}</b> (D)`);
-  if (c.R) parts.push(`<b>${esc(nm('R'))}</b> (R)`);
-  if (c.I) parts.push(`<b>${esc(nm('I'))}</b> (I)`);
-  return parts.join(' vs ');
+  for (const p of ['D', 'R', 'I']) if (c[p]) parts.push(`<b>${esc(nm(p))}</b>${incBadge(r, p)} (${p})`);
+  return parts.join(' vs ') + (isOpenSeat(r) ? '<span class="openseat">· open seat</span>' : '');
 }
 const heldBy = r => { const m = (r.last_election || '').match(/\b([DRI])\b/); return m ? m[1] : null; };
 
@@ -607,11 +627,11 @@ function detail(r) {
     <div>
       ${f.length ? `<div class="dsec">${f.map(([k, t]) => `<span class="flag ${k}">${esc(t)}</span>`).join('')}</div>` : ''}
       ${c.D || c.R ? `<div class="dsec"><div class="section-title">Average share <span class="hint">${esc(r.avg_basis || 'no dated polls')}</span></div>
-        <div class="shares">${Object.entries(ap).map(([p, v]) => `<span>${esc(c[p] || p)} (${esc(p)}) <b class="m ${p === 'D' ? 'd' : p === 'R' ? 'r' : 't'}">${v}%</b></span>`).join('')}
+        <div class="shares">${Object.entries(ap).map(([p, v]) => `<span>${esc(c[p] || p)}${incBadge(r, p)} (${esc(p)}) <b class="m ${p === 'D' ? 'd' : p === 'R' ? 'r' : 't'}">${v}%</b></span>`).join('')}
         <span>Margin ${mHtml(r.avg)}</span>${r.avg_nonpartisan != null && r.avg_nonpartisan !== r.avg ? `<span>Nonpartisan polls only ${mHtml(r.avg_nonpartisan)}</span>` : ''}</div></div>` : ''}
       <div class="dsec"><div class="section-title">Polls <span class="hint">newest first · faded = outside the ${S.data.settings.avg_days}-day average window</span></div>
       ${polls.length ? `<div class="tbl-wrap"><table class="polls"><thead><tr><th>Ended</th><th>Pollster</th><th class="n">Sample</th><th class="n">MOE</th>
-        <th class="n">${esc(lastName(c.D) || 'D')}</th><th class="n">${esc(lastName(c.R) || 'R')}</th>${c.I ? `<th class="n">${esc(lastName(c.I))}</th>` : ''}<th class="n">Und.</th><th class="n">Margin</th></tr></thead><tbody>
+        <th class="n">${esc(lastName(c.D) || 'D')}${incBadge(r, c.D && 'D')}</th><th class="n">${esc(lastName(c.R) || 'R')}${incBadge(r, c.R && 'R')}</th>${c.I ? `<th class="n">${esc(lastName(c.I))}${incBadge(r, 'I')}</th>` : ''}<th class="n">Und.</th><th class="n">Margin</th></tr></thead><tbody>
         ${polls.map(p => `<tr class="${p.end && p.end >= cut ? '' : 'old'}"><td class="n">${shortDate(p.end)}</td>
           <td>${esc(p.pollster)}${p.partisan ? `<span class="pb ${p.partisan}" title="Partisan pollster">${p.partisan}</span>` : ''}${p.sponsor ? `<span class="sp">for ${esc(p.sponsor)}</span>` : ''}</td>
           <td class="n">${p.n ? p.n.toLocaleString() : '—'} ${p.pop || ''}</td><td class="n">${p.moe != null ? '±' + p.moe : '—'}</td>

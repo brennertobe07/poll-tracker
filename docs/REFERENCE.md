@@ -91,6 +91,12 @@ Per race:
 Top level also has `generic_ballot`, `approval`, and `warnings` (pages or
 tables that failed — empty on a clean run).
 
+Incumbency is derived in `index.html`, not the scraper: `incParty()` matches
+`incumbent` to a candidate (full name, else last name + first initial,
+accents/Jr./III ignored) and shows an **INC** badge; an `incumbent` ending in
+`(retiring)` / `(term-limited)` / `(lost renomination)`, or `New seat` /
+`Vacant`, shows "open seat" instead.
+
 ## 6. Daily workflow
 
 Automated: Windows Task Scheduler task **`Poll_Tracker_Update`**, daily 06:15, runs
@@ -127,3 +133,5 @@ is done in the Task Scheduler GUI.
   `warnings` instead of crashing.
 - Ratings are compiled by Wikipedia editors and may lag the forecasters by a day or two.
 - The House "Polls" projection is mostly ratings — few districts are polled.
+- ~21 House races (mostly uncompetitive, e.g. VA-06) have no `incumbent` value,
+  so they show no INC badge.
