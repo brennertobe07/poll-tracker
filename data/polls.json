@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-08T06:15:02",
+ "generated": "2026-10-08T11:18:12",
  "as_of": "2026-10-08",
  "settings": {
   "avg_days": 30,
@@ -152,9 +152,9 @@
     "unrated": 0
    },
    "polls": {
-    "D": 48,
+    "D": 49,
     "R": 45,
-    "toss": 7,
+    "toss": 6,
     "unrated": 0
    },
    "raters": {
@@ -252,32 +252,32 @@
      "R": 22,
      "toss": 5
     },
-    "IE": {
+    "DDHQ": {
      "D": 24,
      "R": 22,
      "toss": 4
     },
-    "Sabato": {
+    "Fox": {
      "D": 23,
      "R": 22,
      "toss": 5
     },
-    "RCP": {
+    "IE": {
      "D": 23,
      "R": 23,
      "toss": 4
     },
-    "Fox": {
+    "RCP": {
      "D": 24,
      "R": 19,
      "toss": 7
     },
-    "Silver": {
+    "Sabato": {
      "D": 25,
      "R": 22,
      "toss": 3
     },
-    "DDHQ": {
+    "Silver": {
      "D": 27,
      "R": 22,
      "toss": 1
@@ -334,8 +334,8 @@
      "toss": 16
     },
     "Sabato": {
-     "D": 213,
-     "R": 202,
+     "D": 214,
+     "R": 201,
      "toss": 20
     },
     "Econ": {
@@ -1064,11 +1064,6 @@
    "hypothetical_tables": 3,
    "aggregates": [
     {
-     "source": "270toWin",
-     "updated": "October 2, 2026",
-     "margin_text": "Moody +5.2%"
-    },
-    {
      "source": "Decision Desk HQ",
      "updated": "October 6, 2026",
      "margin_text": "Moody +5.9%"
@@ -1091,7 +1086,7 @@
     {
      "source": "Average",
      "updated": "Average",
-     "margin_text": "Moody +5.9%"
+     "margin_text": "Moody +6.1%"
     }
    ],
    "id": "FL-SEN-S",
@@ -1722,6 +1717,25 @@
    },
    "polls": [
     {
+     "pollster": "SSRS",
+     "partisan": null,
+     "sponsor": "CNN",
+     "dates": "September 29 - October 5, 2026",
+     "end": "2026-10-05",
+     "n": 801,
+     "pop": "LV",
+     "moe": 4.2,
+     "d": 43.0,
+     "r": 45.0,
+     "other": 11.0,
+     "undecided": null,
+     "margin": -2.0,
+     "cands": {
+      "R": 45.0,
+      "D": 43.0
+     }
+    },
+    {
      "pollster": "Suffolk University",
      "partisan": null,
      "sponsor": null,
@@ -2225,48 +2239,48 @@
     },
     {
      "source": "Decision Desk HQ",
-     "updated": "October 3, 2026",
-     "margin_text": "Turek +1.8%"
+     "updated": "October 8, 2026",
+     "margin_text": "Turek +1.6%"
     },
     {
      "source": "FiftyPlusOne",
-     "updated": "October 3, 2026",
-     "margin_text": "Turek +1.0%"
+     "updated": "October 8, 2026",
+     "margin_text": "Turek +1.1%"
     },
     {
      "source": "RealClearPolitics",
-     "updated": "October 3, 2026",
+     "updated": "October 8, 2026",
      "margin_text": "Turek +0.7%"
     },
     {
      "source": "Silver Bulletin",
-     "updated": "October 3, 2026",
-     "margin_text": "Turek +1.3%"
+     "updated": "October 8, 2026",
+     "margin_text": "Turek +1.8%"
     },
     {
      "source": "Average",
      "updated": "Average",
-     "margin_text": "Turek +1.3%"
+     "margin_text": "Turek +1.4%"
     }
    ],
    "id": "IA-SEN",
    "label": "Iowa",
-   "avg": 1.7,
-   "avg_nonpartisan": 3.8,
-   "avg_basis": "12 polls, last 30d",
+   "avg": 1.4,
+   "avg_nonpartisan": 2.6,
+   "avg_basis": "13 polls, last 30d",
    "avg_by_party": {
-    "R": 44.4,
-    "D": 46.1
+    "R": 44.5,
+    "D": 45.8
    },
    "multi": false,
-   "n_polls": 26,
-   "n_polls_60d": 17,
-   "last_poll": "2026-10-04",
-   "days_since_poll": 4,
-   "trend": 1.3,
+   "n_polls": 27,
+   "n_polls_60d": 18,
+   "last_poll": "2026-10-05",
+   "days_since_poll": 3,
+   "trend": 1.0,
    "rating_score": 0.0,
    "rating_consensus": "Toss-up",
-   "hot_score": 21.3
+   "hot_score": 21.6
   },
   {
    "office": "Senate",
@@ -3690,6 +3704,25 @@
      }
     },
     {
+     "pollster": "Guidant Polling & Strategy",
+     "partisan": null,
+     "sponsor": "Public First Action",
+     "dates": "September 20-27, 2026",
+     "end": "2026-09-27",
+     "n": 800,
+     "pop": "LV",
+     "moe": 3.5,
+     "d": 48.0,
+     "r": 43.0,
+     "other": 2.0,
+     "undecided": 7.0,
+     "margin": 5.0,
+     "cands": {
+      "D": 48.0,
+      "R": 43.0
+     }
+    },
+    {
      "pollster": "Big Data Poll (R)",
      "partisan": "R",
      "sponsor": "the Public Polling Project",
@@ -4421,48 +4454,48 @@
     },
     {
      "source": "Decision Desk HQ",
-     "updated": "October 6, 2026",
-     "margin_text": "El-Sayed +3.3%"
+     "updated": "October 7, 2026",
+     "margin_text": "El-Sayed +2.7%"
     },
     {
      "source": "FiftyPlusOne",
-     "updated": "October 6, 2026",
-     "margin_text": "El-Sayed +3.4%"
+     "updated": "October 7, 2026",
+     "margin_text": "El-Sayed +3.5%"
     },
     {
      "source": "RealClearPolitics",
-     "updated": "October 6, 2026",
-     "margin_text": "El-Sayed +3.4%"
+     "updated": "October 7, 2026",
+     "margin_text": "El-Sayed +3.2%"
     },
     {
      "source": "Silver Bulletin",
-     "updated": "October 1, 2026",
-     "margin_text": "El-Sayed +3.7%"
+     "updated": "October 7, 2026",
+     "margin_text": "El-Sayed +3.4%"
     },
     {
      "source": "Average",
      "updated": "Average",
-     "margin_text": "El-Sayed +3.6%"
+     "margin_text": "El-Sayed +3.3%"
     }
    ],
    "id": "MI-SEN",
    "label": "Michigan",
-   "avg": 2.9,
-   "avg_nonpartisan": 4.3,
-   "avg_basis": "17 polls, last 30d",
+   "avg": 3.1,
+   "avg_nonpartisan": 4.4,
+   "avg_basis": "18 polls, last 30d",
    "avg_by_party": {
     "D": 47.3,
-    "R": 44.4
+    "R": 44.3
    },
    "multi": false,
-   "n_polls": 44,
-   "n_polls_60d": 27,
+   "n_polls": 45,
+   "n_polls_60d": 28,
    "last_poll": "2026-10-06",
    "days_since_poll": 2,
-   "trend": 0.1,
+   "trend": 0.3,
    "rating_score": 1.0,
    "rating_consensus": "Lean D",
-   "hot_score": 22.1
+   "hot_score": 21.9
   },
   {
    "office": "Senate",
@@ -6753,9 +6786,9 @@
    },
    "polls": [
     {
-     "pollster": "CNN / SSRS",
+     "pollster": "SSRS",
      "partisan": null,
-     "sponsor": null,
+     "sponsor": "CNN",
      "dates": "September 29 - October 5, 2026",
      "end": "2026-10-05",
      "n": 760,
@@ -8066,6 +8099,44 @@
      }
     },
     {
+     "pollster": "Guidant Polling & Strategy",
+     "partisan": null,
+     "sponsor": "Public First Action",
+     "dates": "September 20-28, 2026",
+     "end": "2026-09-28",
+     "n": 800,
+     "pop": "LV",
+     "moe": 3.5,
+     "d": 47.0,
+     "r": 44.0,
+     "other": 4.0,
+     "undecided": 5.0,
+     "margin": 3.0,
+     "cands": {
+      "R": 44.0,
+      "D": 47.0
+     }
+    },
+    {
+     "pollster": "UMass Lowell / YouGov",
+     "partisan": null,
+     "sponsor": null,
+     "dates": "September 18-28, 2026",
+     "end": "2026-09-28",
+     "n": 850,
+     "pop": "LV",
+     "moe": 4.5,
+     "d": 45.0,
+     "r": 45.0,
+     "other": 4.0,
+     "undecided": 7.0,
+     "margin": 0.0,
+     "cands": {
+      "R": 45.0,
+      "D": 45.0
+     }
+    },
+    {
      "pollster": "Pulse Decision Science (R)",
      "partisan": "R",
      "sponsor": "Paxton's campaign",
@@ -8873,13 +8944,13 @@
     },
     {
      "source": "Decision Desk HQ",
-     "updated": "October 6, 2026",
+     "updated": "October 8, 2026",
      "margin_text": "Talarico +3.3%"
     },
     {
      "source": "FiftyPlusOne",
-     "updated": "October 6, 2026",
-     "margin_text": "Talarico +3.7%"
+     "updated": "October 8, 2026",
+     "margin_text": "Talarico +3.6%"
     },
     {
      "source": "RealClearPolitics",
@@ -8888,8 +8959,8 @@
     },
     {
      "source": "The Texas Tribune",
-     "updated": "October 5, 2026",
-     "margin_text": "Talarico +2.5%"
+     "updated": "October 8, 2026",
+     "margin_text": "Talarico +3.4%"
     },
     {
      "source": "Silver Bulletin",
@@ -8899,27 +8970,27 @@
     {
      "source": "Average",
      "updated": "Average",
-     "margin_text": "Talarico +3.3%"
+     "margin_text": "Talarico +3.5%"
     }
    ],
    "id": "TX-SEN",
    "label": "Texas",
-   "avg": 2.7,
-   "avg_nonpartisan": 3.5,
-   "avg_basis": "16 polls, last 30d",
+   "avg": 2.6,
+   "avg_nonpartisan": 3.2,
+   "avg_basis": "18 polls, last 30d",
    "avg_by_party": {
-    "R": 45.4,
-    "D": 48.1
+    "R": 45.3,
+    "D": 47.8
    },
    "multi": false,
-   "n_polls": 46,
-   "n_polls_60d": 22,
+   "n_polls": 48,
+   "n_polls_60d": 24,
    "last_poll": "2026-10-05",
    "days_since_poll": 3,
-   "trend": -0.1,
+   "trend": -0.3,
    "rating_score": 0.0,
    "rating_consensus": "Toss-up",
-   "hot_score": 20.3
+   "hot_score": 20.4
   },
   {
    "office": "Senate",
@@ -9102,12 +9173,12 @@
    "last_election": "66.91% R",
    "ratings": {
     "Cook": "Solid R",
-    "IE": "Likely R",
-    "Sabato": "Solid R",
-    "RCP": "Solid R",
+    "DDHQ": "Likely R",
     "Fox": "Solid R",
-    "Silver": "Safe R",
-    "DDHQ": "Solid R"
+    "IE": "Solid R",
+    "RCP": "Solid R",
+    "Sabato": "Safe R",
+    "Silver": "Solid R"
    },
    "url": "https://en.wikipedia.org/wiki/2026_Alabama_gubernatorial_election",
    "page": "2026 Alabama gubernatorial election",
@@ -9205,12 +9276,12 @@
    "last_election": "50.29% R",
    "ratings": {
     "Cook": "Tossup",
+    "DDHQ": "Tossup",
+    "Fox": "Tossup",
     "IE": "Tossup",
-    "Sabato": "Tossup",
-    "RCP": "Tossup",
-    "Fox": "Lean D",
-    "Silver": "Lean D",
-    "DDHQ": "Likely D"
+    "RCP": "Lean D",
+    "Sabato": "Lean D",
+    "Silver": "Likely D"
    },
    "url": "https://en.wikipedia.org/wiki/2026_Alaska_gubernatorial_election",
    "page": "2026 Alaska gubernatorial election",
@@ -9393,12 +9464,12 @@
    "last_election": "50.32% D",
    "ratings": {
     "Cook": "Lean D",
-    "IE": "Lean D",
-    "Sabato": "Lean D",
-    "RCP": "Tilt D",
+    "DDHQ": "Lean D",
     "Fox": "Lean D",
-    "Silver": "Lean D",
-    "DDHQ": "Likely D"
+    "IE": "Tilt D",
+    "RCP": "Lean D",
+    "Sabato": "Lean D",
+    "Silver": "Likely D"
    },
    "url": "https://en.wikipedia.org/wiki/2026_Arizona_gubernatorial_election",
    "page": "2026 Arizona gubernatorial election",
@@ -9869,12 +9940,12 @@
    "last_election": "62.96% R",
    "ratings": {
     "Cook": "Solid R",
-    "IE": "Safe R",
-    "Sabato": "Solid R",
-    "RCP": "Solid R",
+    "DDHQ": "Safe R",
     "Fox": "Solid R",
-    "Silver": "Safe R",
-    "DDHQ": "Solid R"
+    "IE": "Solid R",
+    "RCP": "Solid R",
+    "Sabato": "Safe R",
+    "Silver": "Solid R"
    },
    "url": "https://en.wikipedia.org/wiki/2026_Arkansas_gubernatorial_election",
    "page": "2026 Arkansas gubernatorial election",
@@ -9937,12 +10008,12 @@
    "last_election": "59.18% D",
    "ratings": {
     "Cook": "Solid D",
-    "IE": "Safe D",
-    "Sabato": "Solid D",
-    "RCP": "Solid D",
+    "DDHQ": "Safe D",
     "Fox": "Solid D",
-    "Silver": "Safe D",
-    "DDHQ": "Solid D"
+    "IE": "Solid D",
+    "RCP": "Solid D",
+    "Sabato": "Safe D",
+    "Silver": "Solid D"
    },
    "url": "https://en.wikipedia.org/wiki/2026_California_gubernatorial_election",
    "page": "2026 California gubernatorial election",
@@ -11149,12 +11220,12 @@
    "last_election": "58.53% D",
    "ratings": {
     "Cook": "Solid D",
-    "IE": "Likely D",
-    "Sabato": "Solid D",
-    "RCP": "Solid D",
+    "DDHQ": "Likely D",
     "Fox": "Solid D",
-    "Silver": "Safe D",
-    "DDHQ": "Solid D"
+    "IE": "Solid D",
+    "RCP": "Solid D",
+    "Sabato": "Safe D",
+    "Silver": "Solid D"
    },
    "url": "https://en.wikipedia.org/wiki/2026_Colorado_gubernatorial_election",
    "page": "2026 Colorado gubernatorial election",
@@ -11188,12 +11259,12 @@
    "last_election": "55.97% D",
    "ratings": {
     "Cook": "Solid D",
-    "IE": "Likely D",
-    "Sabato": "Solid D",
-    "RCP": "Solid D",
+    "DDHQ": "Likely D",
     "Fox": "Solid D",
-    "Silver": "Safe D",
-    "DDHQ": "Solid D"
+    "IE": "Solid D",
+    "RCP": "Solid D",
+    "Sabato": "Safe D",
+    "Silver": "Solid D"
    },
    "url": "https://en.wikipedia.org/wiki/2026_Connecticut_gubernatorial_election",
    "page": "2026 Connecticut gubernatorial election",
@@ -11393,12 +11464,12 @@
    "last_election": "59.37% R",
    "ratings": {
     "Cook": "Lean R",
+    "DDHQ": "Lean R",
+    "Fox": "Likely R",
     "IE": "Lean R",
-    "Sabato": "Likely R",
-    "RCP": "Lean R",
-    "Fox": "Tossup",
-    "Silver": "Lean R",
-    "DDHQ": "Lean R"
+    "RCP": "Tossup",
+    "Sabato": "Lean R",
+    "Silver": "Lean R"
    },
    "url": "https://en.wikipedia.org/wiki/2026_Florida_gubernatorial_election",
    "page": "2026 Florida gubernatorial election",
@@ -11902,12 +11973,12 @@
    "last_election": "53.41% R",
    "ratings": {
     "Cook": "Tossup",
-    "IE": "Tossup",
-    "Sabato": "Tossup",
-    "RCP": "Tossup",
+    "DDHQ": "Tossup",
     "Fox": "Tossup",
-    "Silver": "Tossup",
-    "DDHQ": "Lean D"
+    "IE": "Tossup",
+    "RCP": "Tossup",
+    "Sabato": "Tossup",
+    "Silver": "Lean D"
    },
    "url": "https://en.wikipedia.org/wiki/2026_Georgia_gubernatorial_election",
    "page": "2026 Georgia gubernatorial election",
@@ -12226,12 +12297,12 @@
    "last_election": "63.21% D",
    "ratings": {
     "Cook": "Solid D",
-    "IE": "Safe D",
-    "Sabato": "Solid D",
-    "RCP": "Solid D",
+    "DDHQ": "Safe D",
     "Fox": "Solid D",
-    "Silver": "Safe D",
-    "DDHQ": "Solid D"
+    "IE": "Solid D",
+    "RCP": "Solid D",
+    "Sabato": "Safe D",
+    "Silver": "Solid D"
    },
    "url": "https://en.wikipedia.org/wiki/2026_Hawaii_gubernatorial_election",
    "page": "2026 Hawaii gubernatorial election",
@@ -12265,12 +12336,12 @@
    "last_election": "60.52% R",
    "ratings": {
     "Cook": "Solid R",
-    "IE": "Safe R",
-    "Sabato": "Solid R",
-    "RCP": "Solid R",
+    "DDHQ": "Safe R",
     "Fox": "Solid R",
-    "Silver": "Safe R",
-    "DDHQ": "Solid R"
+    "IE": "Solid R",
+    "RCP": "Solid R",
+    "Sabato": "Safe R",
+    "Silver": "Solid R"
    },
    "url": "https://en.wikipedia.org/wiki/2026_Idaho_gubernatorial_election",
    "page": "2026 Idaho gubernatorial election",
@@ -12353,12 +12424,12 @@
    "last_election": "54.91% D",
    "ratings": {
     "Cook": "Solid D",
-    "IE": "Likely D",
-    "Sabato": "Solid D",
-    "RCP": "Solid D",
+    "DDHQ": "Likely D",
     "Fox": "Solid D",
-    "Silver": "Safe D",
-    "DDHQ": "Solid D"
+    "IE": "Solid D",
+    "RCP": "Solid D",
+    "Sabato": "Safe D",
+    "Silver": "Solid D"
    },
    "url": "https://en.wikipedia.org/wiki/2026_Illinois_gubernatorial_election",
    "page": "2026 Illinois gubernatorial election",
@@ -12437,12 +12508,12 @@
    "last_election": "58.04% R",
    "ratings": {
     "Cook": "Lean D",
-    "IE": "Lean D",
-    "Sabato": "Lean D",
-    "RCP": "Tilt D",
+    "DDHQ": "Lean D",
     "Fox": "Lean D",
-    "Silver": "Lean D",
-    "DDHQ": "Solid D"
+    "IE": "Tilt D",
+    "RCP": "Lean D",
+    "Sabato": "Lean D",
+    "Silver": "Solid D"
    },
    "url": "https://en.wikipedia.org/wiki/2026_Iowa_gubernatorial_election",
    "page": "2026 Iowa gubernatorial election",
@@ -12451,6 +12522,25 @@
     "D": "Rob Sand"
    },
    "polls": [
+    {
+     "pollster": "SSRS",
+     "partisan": null,
+     "sponsor": "CNN",
+     "dates": "September 29 - October 5, 2026",
+     "end": "2026-10-05",
+     "n": 801,
+     "pop": "LV",
+     "moe": 4.2,
+     "d": 51.0,
+     "r": 42.0,
+     "other": 7.0,
+     "undecided": null,
+     "margin": 9.0,
+     "cands": {
+      "R": 42.0,
+      "D": 51.0
+     }
+    },
     {
      "pollster": "Suffolk University",
      "partisan": null,
@@ -12726,40 +12816,45 @@
      "margin_text": "Sand +9.4%"
     },
     {
+     "source": "Decision Desk HQ",
+     "updated": "October 8, 2026",
+     "margin_text": "Sand +10.6%"
+    },
+    {
      "source": "FiftyPlusOne",
-     "updated": "October 7, 2026",
-     "margin_text": "Sand +9.6%"
+     "updated": "October 8, 2026",
+     "margin_text": "Sand +9.4%"
     },
     {
      "source": "RealClearPolitics",
-     "updated": "October 7, 2026",
-     "margin_text": "Sand +8.2%"
+     "updated": "October 8, 2026",
+     "margin_text": "Sand +8.3%"
     },
     {
      "source": "Silver Bulletin",
-     "updated": "October 4, 2026",
-     "margin_text": "Sand +8.5%"
+     "updated": "October 8, 2026",
+     "margin_text": "Sand +9.2%"
     },
     {
      "source": "Average",
      "updated": "Average",
-     "margin_text": "Sand +8.9%"
+     "margin_text": "Sand +9.3%"
     }
    ],
    "id": "IA-GOV",
    "label": "Iowa",
    "avg": 8.9,
-   "avg_nonpartisan": 11.2,
-   "avg_basis": "7 polls, last 30d",
+   "avg_nonpartisan": 10.8,
+   "avg_basis": "8 polls, last 30d",
    "avg_by_party": {
     "R": 42.4,
-    "D": 51.3
+    "D": 51.2
    },
    "multi": false,
-   "n_polls": 14,
-   "n_polls_60d": 10,
-   "last_poll": "2026-10-04",
-   "days_since_poll": 4,
+   "n_polls": 15,
+   "n_polls_60d": 11,
+   "last_poll": "2026-10-05",
+   "days_since_poll": 3,
    "trend": 4.9,
    "rating_score": 1.0,
    "rating_consensus": "Lean D",
@@ -12775,12 +12870,12 @@
    "last_election": "49.54% D",
    "ratings": {
     "Cook": "Lean R",
-    "IE": "Lean R",
+    "DDHQ": "Lean R",
+    "Fox": "Lean R",
+    "IE": "Tilt R",
+    "RCP": "Tossup",
     "Sabato": "Lean R",
-    "RCP": "Tilt R",
-    "Fox": "Tossup",
-    "Silver": "Lean R",
-    "DDHQ": "Lean R"
+    "Silver": "Lean R"
    },
    "url": "https://en.wikipedia.org/wiki/2026_Kansas_gubernatorial_election",
    "page": "2026 Kansas gubernatorial election",
@@ -12975,12 +13070,12 @@
    "last_election": "55.69% D",
    "ratings": {
     "Cook": "Solid D",
-    "IE": "Likely D",
-    "Sabato": "Solid D",
-    "RCP": "Solid D",
-    "Fox": "Likely D",
-    "Silver": "Likely D",
-    "DDHQ": "Solid D"
+    "DDHQ": "Likely D",
+    "Fox": "Solid D",
+    "IE": "Solid D",
+    "RCP": "Likely D",
+    "Sabato": "Likely D",
+    "Silver": "Solid D"
    },
    "url": "https://en.wikipedia.org/wiki/2026_Maine_gubernatorial_election",
    "page": "2026 Maine gubernatorial election",
@@ -13314,12 +13409,12 @@
    "last_election": "64.53% D",
    "ratings": {
     "Cook": "Solid D",
-    "IE": "Safe D",
-    "Sabato": "Solid D",
-    "RCP": "Solid D",
+    "DDHQ": "Safe D",
     "Fox": "Solid D",
-    "Silver": "Safe D",
-    "DDHQ": "Solid D"
+    "IE": "Solid D",
+    "RCP": "Solid D",
+    "Sabato": "Safe D",
+    "Silver": "Solid D"
    },
    "url": "https://en.wikipedia.org/wiki/2026_Maryland_gubernatorial_election",
    "page": "2026 Maryland gubernatorial election",
@@ -13398,12 +13493,12 @@
    "last_election": "63.74% D",
    "ratings": {
     "Cook": "Solid D",
-    "IE": "Safe D",
-    "Sabato": "Solid D",
-    "RCP": "Solid D",
+    "DDHQ": "Safe D",
     "Fox": "Solid D",
-    "Silver": "Safe D",
-    "DDHQ": "Solid D"
+    "IE": "Solid D",
+    "RCP": "Solid D",
+    "Sabato": "Safe D",
+    "Silver": "Solid D"
    },
    "url": "https://en.wikipedia.org/wiki/2026_Massachusetts_gubernatorial_election",
    "page": "2026 Massachusetts gubernatorial election",
@@ -13660,12 +13755,12 @@
    "last_election": "54.47% D",
    "ratings": {
     "Cook": "Lean D",
-    "IE": "Lean D",
-    "Sabato": "Lean D",
-    "RCP": "Tilt D",
+    "DDHQ": "Lean D",
     "Fox": "Lean D",
-    "Silver": "Lean D",
-    "DDHQ": "Likely D"
+    "IE": "Tilt D",
+    "RCP": "Lean D",
+    "Sabato": "Lean D",
+    "Silver": "Likely D"
    },
    "url": "https://en.wikipedia.org/wiki/2026_Michigan_gubernatorial_election",
    "page": "2026 Michigan gubernatorial election",
@@ -13748,6 +13843,25 @@
      "cands": {
       "D": 53.0,
       "R": 41.0
+     }
+    },
+    {
+     "pollster": "Guidant Polling & Strategy",
+     "partisan": null,
+     "sponsor": "Public First Action",
+     "dates": "September 20-27, 2026",
+     "end": "2026-09-27",
+     "n": 800,
+     "pop": "LV",
+     "moe": 3.5,
+     "d": 50.0,
+     "r": 45.0,
+     "other": null,
+     "undecided": 5.0,
+     "margin": 5.0,
+     "cands": {
+      "D": 50.0,
+      "R": 45.0
      }
     },
     {
@@ -14185,22 +14299,22 @@
    ],
    "id": "MI-GOV",
    "label": "Michigan",
-   "avg": 7.5,
-   "avg_nonpartisan": 9.0,
-   "avg_basis": "11 polls, last 30d",
+   "avg": 7.3,
+   "avg_nonpartisan": 8.5,
+   "avg_basis": "12 polls, last 30d",
    "avg_by_party": {
-    "D": 48.7,
-    "R": 41.2
+    "D": 48.8,
+    "R": 41.5
    },
    "multi": false,
-   "n_polls": 25,
-   "n_polls_60d": 18,
+   "n_polls": 26,
+   "n_polls_60d": 19,
    "last_poll": "2026-10-04",
    "days_since_poll": 4,
-   "trend": 0.1,
+   "trend": -0.1,
    "rating_score": 1.0,
    "rating_consensus": "Lean D",
-   "hot_score": 17.5
+   "hot_score": 17.7
   },
   {
    "office": "Governor",
@@ -14212,12 +14326,12 @@
    "last_election": "52.27% DFL",
    "ratings": {
     "Cook": "Solid D",
-    "IE": "Likely D",
-    "Sabato": "Likely D",
-    "RCP": "Likely D",
+    "DDHQ": "Likely D",
     "Fox": "Likely D",
-    "Silver": "Safe D",
-    "DDHQ": "Solid D"
+    "IE": "Likely D",
+    "RCP": "Likely D",
+    "Sabato": "Safe D",
+    "Silver": "Solid D"
    },
    "url": "https://en.wikipedia.org/wiki/2026_Minnesota_gubernatorial_election",
    "page": "2026 Minnesota gubernatorial election",
@@ -14391,12 +14505,12 @@
    "last_election": "59.74% R",
    "ratings": {
     "Cook": "Solid R",
-    "IE": "Likely R",
-    "Sabato": "Solid R",
-    "RCP": "Solid R",
+    "DDHQ": "Likely R",
     "Fox": "Solid R",
-    "Silver": "Likely R",
-    "DDHQ": "Likely R"
+    "IE": "Solid R",
+    "RCP": "Solid R",
+    "Sabato": "Likely R",
+    "Silver": "Likely R"
    },
    "url": "https://en.wikipedia.org/wiki/2026_Nebraska_gubernatorial_election",
    "page": "2026 Nebraska gubernatorial election",
@@ -14648,12 +14762,12 @@
    "last_election": "48.81% R",
    "ratings": {
     "Cook": "Tossup",
-    "IE": "Tossup",
-    "Sabato": "Tossup",
-    "RCP": "Tilt R",
+    "DDHQ": "Tossup",
     "Fox": "Tossup",
-    "Silver": "Tossup",
-    "DDHQ": "Tossup"
+    "IE": "Tilt R",
+    "RCP": "Tossup",
+    "Sabato": "Tossup",
+    "Silver": "Tossup"
    },
    "url": "https://en.wikipedia.org/wiki/2026_Nevada_gubernatorial_election",
    "page": "2026 Nevada gubernatorial election",
@@ -14967,12 +15081,12 @@
    "last_election": "53.64% R",
    "ratings": {
     "Cook": "Likely R",
-    "IE": "Lean R",
+    "DDHQ": "Lean R",
+    "Fox": "Likely R",
+    "IE": "Solid R",
+    "RCP": "Lean R",
     "Sabato": "Likely R",
-    "RCP": "Solid R",
-    "Fox": "Lean R",
-    "Silver": "Likely R",
-    "DDHQ": "Likely R"
+    "Silver": "Likely R"
    },
    "url": "https://en.wikipedia.org/wiki/2026_New_Hampshire_gubernatorial_election",
    "page": "2026 New Hampshire gubernatorial election",
@@ -15248,12 +15362,12 @@
    "last_election": "51.97% D",
    "ratings": {
     "Cook": "Solid D",
+    "DDHQ": "Likely D",
+    "Fox": "Solid D",
     "IE": "Likely D",
-    "Sabato": "Solid D",
-    "RCP": "Likely D",
-    "Fox": "Lean D",
-    "Silver": "Safe D",
-    "DDHQ": "Solid D"
+    "RCP": "Lean D",
+    "Sabato": "Safe D",
+    "Silver": "Solid D"
    },
    "url": "https://en.wikipedia.org/wiki/2026_New_Mexico_gubernatorial_election",
    "page": "2026 New Mexico gubernatorial election",
@@ -15376,12 +15490,12 @@
    "last_election": "53.12% D",
    "ratings": {
     "Cook": "Solid D",
-    "IE": "Likely D",
-    "Sabato": "Solid D",
-    "RCP": "Likely D",
+    "DDHQ": "Likely D",
     "Fox": "Solid D",
-    "Silver": "Safe D",
-    "DDHQ": "Solid D"
+    "IE": "Likely D",
+    "RCP": "Solid D",
+    "Sabato": "Safe D",
+    "Silver": "Solid D"
    },
    "url": "https://en.wikipedia.org/wiki/2026_New_York_gubernatorial_election",
    "page": "2026 New York gubernatorial election",
@@ -15390,6 +15504,25 @@
     "R": "Bruce Blakeman"
    },
    "polls": [
+    {
+     "pollster": "Emerson College",
+     "partisan": null,
+     "sponsor": "WPIX",
+     "dates": "October 3-5, 2026",
+     "end": "2026-10-05",
+     "n": 900,
+     "pop": "LV",
+     "moe": 3.3,
+     "d": 52.0,
+     "r": 40.0,
+     "other": null,
+     "undecided": 8.0,
+     "margin": 12.0,
+     "cands": {
+      "D": 52.0,
+      "R": 40.0
+     }
+    },
     {
      "pollster": "Marist University",
      "partisan": null,
@@ -15870,22 +16003,22 @@
    "aggregates": [],
    "id": "NY-GOV",
    "label": "New York",
-   "avg": 11.5,
-   "avg_nonpartisan": 13.0,
-   "avg_basis": "4 polls, last 30d",
+   "avg": 11.6,
+   "avg_nonpartisan": 12.8,
+   "avg_basis": "5 polls, last 30d",
    "avg_by_party": {
     "D": 52.2,
-    "R": 40.8
+    "R": 40.6
    },
    "multi": false,
-   "n_polls": 25,
-   "n_polls_60d": 6,
-   "last_poll": "2026-10-04",
-   "days_since_poll": 4,
-   "trend": 1.5,
+   "n_polls": 26,
+   "n_polls_60d": 7,
+   "last_poll": "2026-10-05",
+   "days_since_poll": 3,
+   "trend": 1.6,
    "rating_score": 3.0,
    "rating_consensus": "Safe D",
-   "hot_score": 6.0
+   "hot_score": 7.0
   },
   {
    "office": "Governor",
@@ -15897,12 +16030,12 @@
    "last_election": "62.41% R",
    "ratings": {
     "Cook": "Tossup",
-    "IE": "Tossup",
-    "Sabato": "Tossup",
-    "RCP": "Tossup",
+    "DDHQ": "Tossup",
     "Fox": "Tossup",
-    "Silver": "Tossup",
-    "DDHQ": "Likely D"
+    "IE": "Tossup",
+    "RCP": "Tossup",
+    "Sabato": "Tossup",
+    "Silver": "Likely D"
    },
    "url": "https://en.wikipedia.org/wiki/2026_Ohio_gubernatorial_election",
    "page": "2026 Ohio gubernatorial election",
@@ -15912,9 +16045,9 @@
    },
    "polls": [
     {
-     "pollster": "CNN / SSRS",
+     "pollster": "SSRS",
      "partisan": null,
-     "sponsor": null,
+     "sponsor": "CNN",
      "dates": "September 29 - October 5, 2026",
      "end": "2026-10-05",
      "n": 760,
@@ -16415,23 +16548,23 @@
     },
     {
      "source": "Decision Desk HQ",
-     "updated": "October 4, 2026",
-     "margin_text": "Acton +5.5%"
+     "updated": "October 8, 2026",
+     "margin_text": "Acton +6.2%"
     },
     {
      "source": "FiftyPlusOne",
-     "updated": "October 4, 2026",
-     "margin_text": "Acton +2.9%"
+     "updated": "October 8, 2026",
+     "margin_text": "Acton +4.3%"
     },
     {
      "source": "Race to the WH",
-     "updated": "October 4, 2026",
-     "margin_text": "Acton +3.8%"
+     "updated": "October 8, 2026",
+     "margin_text": "Acton +3.7%"
     },
     {
      "source": "RealClearPolitics",
-     "updated": "October 4, 2026",
-     "margin_text": "Acton +3.2%"
+     "updated": "October 8, 2026",
+     "margin_text": "Acton +4.8%"
     },
     {
      "source": "Silver Bulletin",
@@ -16441,7 +16574,7 @@
     {
      "source": "Average",
      "updated": "Average",
-     "margin_text": "Acton +4.3%"
+     "margin_text": "Acton +4.9%"
     }
    ],
    "id": "OH-GOV",
@@ -16473,12 +16606,12 @@
    "last_election": "55.45% R",
    "ratings": {
     "Cook": "Solid R",
-    "IE": "Safe R",
-    "Sabato": "Solid R",
-    "RCP": "Likely R",
+    "DDHQ": "Safe R",
     "Fox": "Solid R",
-    "Silver": "Safe R",
-    "DDHQ": "Likely R"
+    "IE": "Likely R",
+    "RCP": "Solid R",
+    "Sabato": "Safe R",
+    "Silver": "Likely R"
    },
    "url": "https://en.wikipedia.org/wiki/2026_Oklahoma_gubernatorial_election",
    "page": "2026 Oklahoma gubernatorial election",
@@ -16512,12 +16645,12 @@
    "last_election": "46.96% D",
    "ratings": {
     "Cook": "Lean D",
-    "IE": "Likely D",
-    "Sabato": "Lean D",
-    "RCP": "Lean D",
+    "DDHQ": "Likely D",
     "Fox": "Lean D",
-    "Silver": "Lean D",
-    "DDHQ": "Likely D"
+    "IE": "Lean D",
+    "RCP": "Lean D",
+    "Sabato": "Lean D",
+    "Silver": "Likely D"
    },
    "url": "https://en.wikipedia.org/wiki/2026_Oregon_gubernatorial_election",
    "page": "2026 Oregon gubernatorial election",
@@ -16526,6 +16659,25 @@
     "R": "Christine Drazan"
    },
    "polls": [
+    {
+     "pollster": "DHM Research",
+     "partisan": null,
+     "sponsor": "The Oregonian",
+     "dates": "September 24 - October 1, 2026",
+     "end": "2026-10-01",
+     "n": 549,
+     "pop": "LV",
+     "moe": 4.0,
+     "d": 46.0,
+     "r": 44.0,
+     "other": 3.0,
+     "undecided": 7.0,
+     "margin": 2.0,
+     "cands": {
+      "D": 46.0,
+      "R": 44.0
+     }
+    },
     {
      "pollster": "DHM Research",
      "partisan": null,
@@ -16632,22 +16784,22 @@
    ],
    "id": "OR-GOV",
    "label": "Oregon",
-   "avg": -1.5,
-   "avg_nonpartisan": -1.5,
-   "avg_basis": "2 polls, last 30d",
+   "avg": -0.3,
+   "avg_nonpartisan": -0.3,
+   "avg_basis": "3 polls, last 30d",
    "avg_by_party": {
-    "D": 44.5,
-    "R": 46.0
+    "D": 45.0,
+    "R": 45.3
    },
    "multi": false,
-   "n_polls": 5,
-   "n_polls_60d": 2,
-   "last_poll": "2026-09-27",
-   "days_since_poll": 11,
+   "n_polls": 6,
+   "n_polls_60d": 3,
+   "last_poll": "2026-10-01",
+   "days_since_poll": 7,
    "trend": null,
    "rating_score": 1.0,
    "rating_consensus": "Lean D",
-   "hot_score": 15.5
+   "hot_score": 17.7
   },
   {
    "office": "Governor",
@@ -16659,12 +16811,12 @@
    "last_election": "56.49% D",
    "ratings": {
     "Cook": "Solid D",
-    "IE": "Safe D",
-    "Sabato": "Solid D",
-    "RCP": "Solid D",
+    "DDHQ": "Safe D",
     "Fox": "Solid D",
-    "Silver": "Safe D",
-    "DDHQ": "Solid D"
+    "IE": "Solid D",
+    "RCP": "Solid D",
+    "Sabato": "Safe D",
+    "Silver": "Solid D"
    },
    "url": "https://en.wikipedia.org/wiki/2026_Pennsylvania_gubernatorial_election",
    "page": "2026 Pennsylvania gubernatorial election",
@@ -17078,12 +17230,12 @@
    "last_election": "57.92% D",
    "ratings": {
     "Cook": "Solid D",
-    "IE": "Safe D",
-    "Sabato": "Solid D",
-    "RCP": "Solid D",
+    "DDHQ": "Safe D",
     "Fox": "Solid D",
-    "Silver": "Safe D",
-    "DDHQ": "Solid D"
+    "IE": "Solid D",
+    "RCP": "Solid D",
+    "Sabato": "Safe D",
+    "Silver": "Solid D"
    },
    "url": "https://en.wikipedia.org/wiki/2026_Rhode_Island_gubernatorial_election",
    "page": "2026 Rhode Island gubernatorial election",
@@ -17246,12 +17398,12 @@
    "last_election": "58.04% R",
    "ratings": {
     "Cook": "Solid R",
-    "IE": "Lean R",
-    "Sabato": "Solid R",
-    "RCP": "Solid R",
-    "Fox": "Likely R",
-    "Silver": "Safe R",
-    "DDHQ": "Solid R"
+    "DDHQ": "Lean R",
+    "Fox": "Solid R",
+    "IE": "Solid R",
+    "RCP": "Likely R",
+    "Sabato": "Safe R",
+    "Silver": "Solid R"
    },
    "url": "https://en.wikipedia.org/wiki/2026_South_Carolina_gubernatorial_election",
    "page": "2026 South Carolina gubernatorial election",
@@ -17349,12 +17501,12 @@
    "last_election": "61.98% R",
    "ratings": {
     "Cook": "Solid R",
-    "IE": "Safe R",
-    "Sabato": "Solid R",
-    "RCP": "Solid R",
+    "DDHQ": "Safe R",
     "Fox": "Solid R",
-    "Silver": "Safe R",
-    "DDHQ": "Solid R"
+    "IE": "Solid R",
+    "RCP": "Solid R",
+    "Sabato": "Safe R",
+    "Silver": "Solid R"
    },
    "url": "https://en.wikipedia.org/wiki/2026_South_Dakota_gubernatorial_election",
    "page": "2026 South Dakota gubernatorial election",
@@ -17388,12 +17540,12 @@
    "last_election": "64.91% R",
    "ratings": {
     "Cook": "Solid R",
-    "IE": "Likely R",
-    "Sabato": "Solid R",
-    "RCP": "Solid R",
+    "DDHQ": "Likely R",
     "Fox": "Solid R",
-    "Silver": "Safe R",
-    "DDHQ": "Solid R"
+    "IE": "Solid R",
+    "RCP": "Solid R",
+    "Sabato": "Safe R",
+    "Silver": "Solid R"
    },
    "url": "https://en.wikipedia.org/wiki/2026_Tennessee_gubernatorial_election",
    "page": "2026 Tennessee gubernatorial election",
@@ -17516,12 +17668,12 @@
    "last_election": "54.76% R",
    "ratings": {
     "Cook": "Lean R",
-    "IE": "Lean R",
+    "DDHQ": "Lean R",
+    "Fox": "Lean R",
+    "IE": "Likely R",
+    "RCP": "Tossup",
     "Sabato": "Lean R",
-    "RCP": "Likely R",
-    "Fox": "Tossup",
-    "Silver": "Lean R",
-    "DDHQ": "Lean R"
+    "Silver": "Lean R"
    },
    "url": "https://en.wikipedia.org/wiki/2026_Texas_gubernatorial_election",
    "page": "2026 Texas gubernatorial election",
@@ -17585,6 +17737,44 @@
      "cands": {
       "R": 52.0,
       "D": 47.0
+     }
+    },
+    {
+     "pollster": "Guidant Polling & Strategy",
+     "partisan": null,
+     "sponsor": "Public First Action",
+     "dates": "September 20-28, 2026",
+     "end": "2026-09-28",
+     "n": 800,
+     "pop": "LV",
+     "moe": 3.5,
+     "d": 44.0,
+     "r": 46.0,
+     "other": 4.0,
+     "undecided": 5.0,
+     "margin": -2.0,
+     "cands": {
+      "R": 46.0,
+      "D": 44.0
+     }
+    },
+    {
+     "pollster": "UMass Lowell / YouGov",
+     "partisan": null,
+     "sponsor": null,
+     "dates": "September 18-28, 2026",
+     "end": "2026-09-28",
+     "n": 850,
+     "pop": "LV",
+     "moe": 4.5,
+     "d": 44.0,
+     "r": 48.0,
+     "other": 2.0,
+     "undecided": 6.0,
+     "margin": -4.0,
+     "cands": {
+      "R": 48.0,
+      "D": 44.0
      }
     },
     {
@@ -18331,22 +18521,22 @@
    ],
    "id": "TX-GOV",
    "label": "Texas",
-   "avg": -2.5,
-   "avg_nonpartisan": -1.3,
-   "avg_basis": "12 polls, last 30d",
+   "avg": -2.6,
+   "avg_nonpartisan": -1.6,
+   "avg_basis": "14 polls, last 30d",
    "avg_by_party": {
-    "R": 48.6,
-    "D": 46.1
+    "R": 48.4,
+    "D": 45.8
    },
    "multi": false,
-   "n_polls": 40,
-   "n_polls_60d": 19,
+   "n_polls": 42,
+   "n_polls_60d": 21,
    "last_poll": "2026-10-05",
    "days_since_poll": 3,
    "trend": 0.6,
    "rating_score": -1.0,
    "rating_consensus": "Lean R",
-   "hot_score": 22.5
+   "hot_score": 22.4
   },
   {
    "office": "Governor",
@@ -18358,12 +18548,12 @@
    "last_election": "73.43% R",
    "ratings": {
     "Cook": "Solid R",
-    "IE": "Safe R",
+    "DDHQ": "Safe R",
+    "Fox": "Likely R",
+    "IE": "Solid R",
+    "RCP": "Lean R",
     "Sabato": "Likely R",
-    "RCP": "Solid R",
-    "Fox": "Lean R",
-    "Silver": "Likely R",
-    "DDHQ": "Likely R"
+    "Silver": "Likely R"
    },
    "url": "https://en.wikipedia.org/wiki/2026_Vermont_gubernatorial_election",
    "page": "2026 Vermont gubernatorial election",
@@ -18499,12 +18689,12 @@
    "last_election": "51.15% D",
    "ratings": {
     "Cook": "Tossup",
-    "IE": "Lean D",
-    "Sabato": "Tossup",
-    "RCP": "Tossup",
+    "DDHQ": "Lean D",
     "Fox": "Tossup",
-    "Silver": "Lean D",
-    "DDHQ": "Lean D"
+    "IE": "Tossup",
+    "RCP": "Tossup",
+    "Sabato": "Lean D",
+    "Silver": "Lean D"
    },
    "url": "https://en.wikipedia.org/wiki/2026_Wisconsin_gubernatorial_election",
    "page": "2026 Wisconsin gubernatorial election",
@@ -18694,12 +18884,12 @@
    "last_election": "74.07% R",
    "ratings": {
     "Cook": "Solid R",
-    "IE": "Safe R",
-    "Sabato": "Solid R",
-    "RCP": "Solid R",
+    "DDHQ": "Safe R",
     "Fox": "Solid R",
-    "Silver": "Safe R",
-    "DDHQ": "Solid R"
+    "IE": "Solid R",
+    "RCP": "Solid R",
+    "Sabato": "Safe R",
+    "Silver": "Solid R"
    },
    "url": "https://en.wikipedia.org/wiki/2026_Wyoming_gubernatorial_election",
    "page": "2026 Wyoming gubernatorial election",
@@ -19335,7 +19525,7 @@
    "id": "CA-01",
    "label": "CA-1",
    "pvi": null,
-   "incumbent": null,
+   "incumbent": "James Gallagher",
    "ratings": {
     "DDHQ": "Safe D",
     "IE": "Solid D",
@@ -19397,7 +19587,7 @@
    "id": "CA-03",
    "label": "CA-3",
    "pvi": null,
-   "incumbent": null,
+   "incumbent": "Ami Bera",
    "ratings": {
     "DDHQ": "Safe D",
     "IE": "Solid D",
@@ -19530,7 +19720,7 @@
    "id": "CA-07",
    "label": "CA-7",
    "pvi": null,
-   "incumbent": null,
+   "incumbent": "Doris Matsui",
    "ratings": {
     "DDHQ": "Safe D",
     "Cook": "Solid D",
@@ -19667,7 +19857,7 @@
    "id": "CA-14",
    "label": "CA-14",
    "pvi": null,
-   "incumbent": null,
+   "incumbent": "Aisha Wahab",
    "ratings": {},
    "on_ratings_list": false,
    "url": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California_(districts_1–26)#District_14",
@@ -19794,7 +19984,7 @@
    "id": "CA-40",
    "label": "CA-40",
    "pvi": null,
-   "incumbent": null,
+   "incumbent": "Ken Calvert",
    "ratings": {
     "DDHQ": "Safe R",
     "IE": "Solid R",
@@ -20915,7 +21105,7 @@
    "ratings": {
     "Cook": "Tossup",
     "IE": "Tilt R",
-    "Sabato": "Lean R",
+    "Sabato": "Tossup",
     "Econ": "Tossup",
     "ST": "Lean R",
     "DDHQ": "Lean R",
@@ -21002,7 +21192,7 @@
    "ratings": {
     "Cook": "Tossup",
     "IE": "Tossup",
-    "Sabato": "Tossup",
+    "Sabato": "Lean D",
     "Econ": "Lean D",
     "ST": "Lean D",
     "DDHQ": "Lean D",
@@ -21172,7 +21362,7 @@
    "id": "FL-28",
    "label": "FL-28",
    "pvi": null,
-   "incumbent": null,
+   "incumbent": "Carlos Giménez",
    "ratings": {
     "DDHQ": "Safe R",
     "Cook": "Solid R",
@@ -21370,7 +21560,7 @@
    "id": "ID-01",
    "label": "ID-1",
    "pvi": null,
-   "incumbent": null,
+   "incumbent": "Russ Fulcher",
    "ratings": {
     "DDHQ": "Safe R",
     "Cook": "Solid R",
@@ -22037,7 +22227,7 @@
    "id": "ME-01",
    "label": "ME-1",
    "pvi": null,
-   "incumbent": null,
+   "incumbent": "Chellie Pingree",
    "ratings": {
     "DDHQ": "Safe D",
     "Cook": "Solid D",
@@ -23118,7 +23308,7 @@
    "id": "MT-02",
    "label": "MT-2",
    "pvi": null,
-   "incumbent": null,
+   "incumbent": "Troy Downing",
    "ratings": {
     "DDHQ": "Safe R",
     "Cook": "Solid R",
@@ -23292,7 +23482,7 @@
    "ratings": {
     "Cook": "Lean D",
     "IE": "Tilt D",
-    "Sabato": "Lean D",
+    "Sabato": "Likely D",
     "Econ": "Likely D",
     "ST": "Safe D",
     "DDHQ": "Likely D",
@@ -24098,7 +24288,7 @@
    "id": "NY-18",
    "label": "NY-18",
    "pvi": null,
-   "incumbent": null,
+   "incumbent": "Pat Ryan",
    "ratings": {
     "DDHQ": "Safe D",
     "Cook": "Solid D",
@@ -26022,7 +26212,7 @@
    "id": "SC-07",
    "label": "SC-7",
    "pvi": null,
-   "incumbent": null,
+   "incumbent": "Russell Fry",
    "ratings": {
     "DDHQ": "Safe R",
     "Cook": "Solid R",
@@ -26951,7 +27141,7 @@
    "id": "UT-02",
    "label": "UT-2",
    "pvi": null,
-   "incumbent": null,
+   "incumbent": "Blake Moore",
    "ratings": {
     "DDHQ": "Safe R",
     "Cook": "Solid R",
@@ -27051,7 +27241,7 @@
    "id": "UT-03",
    "label": "UT-3",
    "pvi": null,
-   "incumbent": null,
+   "incumbent": "Celeste Maloy",
    "ratings": {
     "DDHQ": "Safe R",
     "Cook": "Solid R",
@@ -27113,7 +27303,7 @@
    "id": "UT-04",
    "label": "UT-4",
    "pvi": null,
-   "incumbent": null,
+   "incumbent": "Mike Kennedy",
    "ratings": {
     "DDHQ": "Safe R",
     "Cook": "Solid R",
@@ -27175,7 +27365,7 @@
    "id": "VT-AL",
    "label": "VT-AL",
    "pvi": null,
-   "incumbent": null,
+   "incumbent": "Becca Balint",
    "ratings": {
     "Cook": "Solid D",
     "DDHQ": "Safe D",
@@ -27573,7 +27763,7 @@
    "id": "VA-06",
    "label": "VA-6",
    "pvi": null,
-   "incumbent": null,
+   "incumbent": "Ben Cline",
    "ratings": {
     "DDHQ": "Safe R",
     "Cook": "Solid R",
@@ -27864,7 +28054,7 @@
    "ratings": {
     "Cook": "Lean R",
     "IE": "Likely R",
-    "Sabato": "Likely R",
+    "Sabato": "Lean R",
     "Econ": "Tossup",
     "ST": "Lean R",
     "DDHQ": "Lean R",

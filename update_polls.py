@@ -626,11 +626,27 @@ def collect_house():
             "id": rid, "label": f"{abbr}-{st['district']}",
             "url": st["url"] or f"{WIKI}/wiki/{HOUSE_RATINGS_PAGE.replace(' ', '_')}",
             "candidates": {}, "polls": [], "hypothetical_tables": 0, "aggregates": []}
-        race.update({"ratings": st["ratings"], "pvi": st["pvi"], "incumbent": st["incumbent"],
+        race.update({"ratings": st["ratings"], "pvi": st["pvi"],
+                     "incumbent": st["incumbent"] or race.get("incumbent"),
                      "last_election": st["last_election"], "on_ratings_list": True})
         races[rid] = race
     print(f"  House    ratings list: {len(rated)} districts, {len(races)} total kept")
     return [summarize(r) for r in races.values()], overall
+
+
+def section_incumbent(tables):
+    """Sitting member from a district's election boxes (Party | Party | Candidate | Votes),
+    which tag them "(incumbent)". Found in the last box (the general, or the primary if no
+    general box yet) -> name; only in an earlier primary box -> lost renomination; no tag
+    anywhere -> None (retiring/open seats don't carry the tag, so leave it unknown)."""
+    boxes = [g for g in map(grid, tables)
+             if len(g) > 1 and len(g[0]) > 2 and g[0][0][0] == "Party" and g[0][2][0] == "Candidate"]
+    for i, g in enumerate(reversed(boxes)):
+        for r in g[1:]:
+            if len(r) > 2 and "(incumbent)" in r[2][0]:
+                name = clean(r[2][0].replace("(incumbent)", ""))
+                return name if i == 0 else f"{name} (lost renomination)"
+    return None
 
 
 def house_races(state, title, soup):
@@ -664,7 +680,9 @@ def house_races(state, title, soup):
         abbr = ABBR[state]
         races.append({"office": "House", "state": state, "district": dist, "special": False,
                       "id": f"{abbr}-{dist.zfill(2) if dist != 'AL' else 'AL'}",
-                      "label": f"{abbr}-{dist}", "pvi": None, "incumbent": None,
+                      "label": f"{abbr}-{dist}", "pvi": None,
+                      # ratings-list value overrides this in collect_house when present
+                      "incumbent": section_incumbent(tables),
                       # per-district ratings: fallback for polled seats off the ratings list
                       "ratings": parse_source_rankings(tables),
                       "on_ratings_list": False,

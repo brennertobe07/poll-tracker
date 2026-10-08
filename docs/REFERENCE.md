@@ -133,5 +133,7 @@ is done in the Task Scheduler GUI.
   `warnings` instead of crashing.
 - Ratings are compiled by Wikipedia editors and may lag the forecasters by a day or two.
 - The House "Polls" projection is mostly ratings — few districts are polled.
-- ~21 House races (mostly uncompetitive, e.g. VA-06) have no `incumbent` value,
-  so they show no INC badge.
+- House `incumbent` comes from the ratings list; for polled districts off that list it
+  falls back to `section_incumbent()` (the "(incumbent)" tag in the district's
+  election boxes). Open seats off the ratings list (e.g. CA-11) carry no tag, so
+  they stay blank — no INC badge and no "open seat" tag.
