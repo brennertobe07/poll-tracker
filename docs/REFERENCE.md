@@ -60,6 +60,12 @@ poll-tracker/
 - **House races kept** = every district on the ratings list (`on_ratings_list: true`)
   plus any other district with a D-vs-R poll (ratings from its own per-district
   "Source/Ranking" table).
+- **Stale House matchups** (`stale_matchup()`): once a district has a results box
+  under its "General election" heading, a poll table whose candidates include
+  none of that box's names is dropped (pre-redistricting or pre-primary field,
+  e.g. CA-03's 2025 Kiley-vs-Hall poll). The district then shows only if it is on
+  the ratings list. Districts with no general box yet keep their polls. Skips are
+  printed to the run log as "skipped stale poll matchup".
 
 ## 5. Derived fields
 

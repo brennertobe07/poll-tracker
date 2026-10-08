@@ -16,6 +16,7 @@ import json
 import re
 import sys
 import time
+import unicodedata
 from datetime import date, datetime, timedelta
 from pathlib import Path
 from statistics import mean, median
@@ -634,14 +635,48 @@ def collect_house():
     return [summarize(r) for r in races.values()], overall
 
 
+def election_boxes(tables):
+    """Election result boxes (Party | Party | Candidate | Votes) as grids, in page order."""
+    return [g for g in map(grid, tables)
+            if len(g) > 1 and len(g[0]) > 2 and g[0][0][0] == "Party" and g[0][2][0] == "Candidate"]
+
+
+def surname(name):
+    """Lowercase, accent-free last name ('Carlos Giménez' -> 'gimenez', 'Tom Kean Jr.' -> 'kean')."""
+    n = unicodedata.normalize("NFD", clean(name or "").replace("(incumbent)", ""))
+    n = "".join(ch for ch in n if not unicodedata.combining(ch)).lower()
+    words = [w for w in re.sub(r"[.,]", "", n).split() if w not in ("jr", "sr", "ii", "iii", "iv")]
+    return words[-1] if words else ""
+
+
+GENERAL_OR_PRIMARY = re.compile(r"general election|(\w+ )*primary( election)?", re.I)  # whole heading; not "Post-primary endorsements"
+
+
+def in_general(table):
+    """True when the table sits under a 'General election' heading (not a primary one)."""
+    h = table.find_previous(lambda t: t.name in ("h2", "h3", "h4")
+                            and GENERAL_OR_PRIMARY.fullmatch(clean(t.get_text(" ", strip=True))))
+    return h is not None and clean(h.get_text(" ", strip=True)).lower().startswith("general election")
+
+
+def stale_matchup(candidates, tables):
+    """True when none of the poll table's candidates appear in the district's general-
+    election results box: the poll is of a field that no longer exists (pre-redistricting
+    or pre-primary). No general box yet -> can't tell -> False."""
+    boxes = election_boxes([t for t in tables if in_general(t)])
+    if not boxes or not candidates:
+        return False
+    field = {surname(r[2][0]) for r in boxes[-1][1:] if len(r) > 2}
+    return not any(surname(n) in field for n in candidates.values())
+
+
 def section_incumbent(tables, infobox=None):
     """Sitting member from a district's election boxes (Party | Party | Candidate | Votes),
     which tag them "(incumbent)". Found in the last box (the general, or the primary if no
     general box yet) -> name; only in an earlier primary box -> lost renomination. No tag
     anywhere -> the district infobox's "Incumbent U.S. Representative" row; if that member
     isn't a candidate in any box, the seat is open -> "Name (open seat)". Else None."""
-    boxes = [g for g in map(grid, tables)
-             if len(g) > 1 and len(g[0]) > 2 and g[0][0][0] == "Party" and g[0][2][0] == "Candidate"]
+    boxes = election_boxes(tables)
     for i, g in enumerate(reversed(boxes)):
         for r in g[1:]:
             if len(r) > 2 and "(incumbent)" in r[2][0]:
@@ -690,6 +725,10 @@ def house_races(state, title, soup):
         if not fields["polls"]:
             continue
         abbr = ABBR[state]
+        if stale_matchup(fields["candidates"], tables):
+            print(f"  House    {abbr}-{dist}: skipped stale poll matchup "
+                  f"({' vs '.join(fields['candidates'].values())} not in the general-election box)")
+            continue
         races.append({"office": "House", "state": state, "district": dist, "special": False,
                       "id": f"{abbr}-{dist.zfill(2) if dist != 'AL' else 'AL'}",
                       "label": f"{abbr}-{dist}", "pvi": None,
