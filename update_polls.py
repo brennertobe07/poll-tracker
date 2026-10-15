@@ -841,6 +841,7 @@ def build_balance(sen_soup, gov_soup, senate, gov, house, overall):
 
 
 MIN_RACES = 150   # a full run has ~230; fewer means Wikipedia fetches broke — don't publish it
+MIN_STATEWIDE = 30   # a full run has ~35 Senate / ~36 Governor; House alone can clear MIN_RACES
 
 
 def publish(data):
@@ -849,6 +850,11 @@ def publish(data):
     if len(data["races"]) < MIN_RACES or not data["balance"].get("Senate"):
         print(f"NOT publishing: only {len(data['races'])} races / missing balance — keeping yesterday's data live")
         return 1
+    for office in ("Senate", "Governor"):
+        n = sum(1 for r in data["races"] if r["office"] == office)
+        if n < MIN_STATEWIDE:
+            print(f"NOT publishing: only {n} {office} races — keeping yesterday's data live")
+            return 1
     repo = Path(__file__).parent
 
     def git(*args):

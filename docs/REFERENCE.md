@@ -117,7 +117,9 @@ which rebuilds `data/polls.json`, commits it ("Daily poll refresh YYYY-MM-DD"),
 and pushes to `main`; GitHub Pages redeploys in ~1 minute.
 
 Safety: `--publish` refuses to push (exit 1) if the run produced fewer than 150
-races or no Senate balance — yesterday's data stays live. The dashboard header
+races, no Senate balance, or fewer than 30 Senate or 30 Governor races (House alone
+can clear 150, which let a statewide-empty run publish on 2026-10-15) — yesterday's
+data stays live. The dashboard header
 shows "data over a day old" if `generated` is more than 36 h old.
 
 Manual:
