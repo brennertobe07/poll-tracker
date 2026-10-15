@@ -105,7 +105,9 @@ accents/Jr./III ignored) and shows an **INC** badge; an `incumbent` ending in
 
 ## 6. Daily workflow
 
-Automated: Windows Task Scheduler task **`Poll_Tracker_Update`**, daily 06:15, runs
+Automated: Windows Task Scheduler task **`Poll_Tracker_Update`**, daily 06:15 plus
+2 minutes after Brenner logs on (catch-up for days the VM rebooted overnight and
+the 06:15 run was skipped — added 2026-10-14), runs
 
 ```
 python update_polls.py --publish    (in C:\repos\intel\poll-tracker, output → data\last_run.log)
@@ -128,8 +130,9 @@ python update_polls.py --publish    # same as the scheduled task
 
 If the page looks stale: check `data\last_run.log` and the task's Last Run
 Result in Task Scheduler. The task is set to run only while Brenner is logged
-on (no stored password); switching it to "run whether user is logged on or not"
-is done in the Task Scheduler GUI.
+on (no stored password); a skipped 06:15 run shows as event 332 in the
+TaskScheduler/Operational log and is caught up by the logon trigger. Switching it
+to "run whether user is logged on or not" is done in the Task Scheduler GUI.
 
 ## 7. Known limits
 
