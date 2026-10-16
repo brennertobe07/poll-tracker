@@ -15,7 +15,10 @@ compiled from published polls and forecasters.
 - **Audience:** internal by intent, but the page is public (no Cloudflare Access login; Access is only on the cure page). Adding Access is undecided as of 2026-10-16
 - **Domain:** `CNAME` file in the repo root holds `polls.vadems.org`. `--publish` only stages
   `data/polls.json`, so it never touches it — don't delete it or the custom domain drops.
-  Cloudflare DNS: `polls` CNAME → `brennertobe07.github.io`.
+  Cloudflare DNS: `polls` CNAME → `brennertobe07.github.io`, proxied (orange cloud).
+  HTTPS comes from Cloudflare's edge certificate, and the zone-wide "Always Use HTTPS" setting
+  301s http → https. GitHub's "Enforce HTTPS" stays unticked because GitHub can't issue its
+  own cert while the record is proxied. That's expected, not a problem.
 - **Cross-links:** none from here. 2028 Watch (`intel\2028-watch`) links to this page; the reverse link was removed 2026-10-15
 - **Local preview:** `python -m http.server 8765` in the repo, open http://localhost:8765
   (opening index.html from disk fails — the page fetches `data/polls.json`)
