@@ -12,7 +12,7 @@ compiled from published polls and forecasters.
 
 - **Live:** https://polls.vadems.org (custom domain added 2026-10-16; the github.io URL redirects to it)
 - **Repo:** `brennertobe07/poll-tracker` (public — contains only public polling data)
-- **Audience:** internal — behind Cloudflare Access via the `*.vadems.org` policy
+- **Audience:** internal by intent, but the page is public (no Cloudflare Access login; Access is only on the cure page). Adding Access is undecided as of 2026-10-16
 - **Domain:** `CNAME` file in the repo root holds `polls.vadems.org`. `--publish` only stages
   `data/polls.json`, so it never touches it — don't delete it or the custom domain drops.
   Cloudflare DNS: `polls` CNAME → `brennertobe07.github.io`.
